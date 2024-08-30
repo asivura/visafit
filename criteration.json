@@ -1,7 +1,7 @@
 [
     {
-        "citation_name": "Awards",
-        "description": "Documentation of the beneficiary’s receipt of nationally or internationally recognized prizes or awards for excellence in the field of endeavor.",
+        "Criteration": "Awards",
+        "Description": "Documentation of the beneficiary’s receipt of nationally or internationally recognized prizes or awards for excellence in the field of endeavor.",
         "Examples": [
             "Awards from well-known national institutions and well-known professional associations.",
             "Certain doctoral dissertation awards and Ph.D. scholarships.",
@@ -15,8 +15,8 @@
         ]
     },
     {
-        "citation_name": "Membership",
-        "description": "Documentation of the beneficiary’s membership in associations in the field for which classification is sought, which require outstanding achievements of their members, as judged by recognized national or international experts in their disciplines or fields.",
+        "Criteration": "Membership",
+        "Description": "Documentation of the beneficiary’s membership in associations in the field for which classification is sought, which require outstanding achievements of their members, as judged by recognized national or international experts in their disciplines or fields.",
         "Examples": [
             "Membership in certain professional associations.",
             "Fellowships with certain organizations or institutions."
@@ -27,8 +27,8 @@
         ]
     },
     {
-        "citation_name": "Press",
-        "description": "Published material in professional or major trade publications or major media about the beneficiary, relating to the beneficiary's work in the field for which classification is sought. This evidence must include the title, date, and author of such published material and any necessary translation.",
+        "Criteration": "Press",
+        "Description": "Published material in professional or major trade publications or major media about the beneficiary, relating to the beneficiary's work in the field for which classification is sought. This evidence must include the title, date, and author of such published material and any necessary translation.",
         "Examples": [
             "Professional or major print publications (newspaper articles, popular and academic journal articles, books, textbooks, or similar publications) regarding the beneficiary and the beneficiary’s work.",
             "Professional or major online publications regarding the beneficiary and the beneficiary’s work.",
@@ -41,8 +41,8 @@
         ]
     },
     {
-        "citation_name": "Judging",
-        "description": "Evidence of the beneficiary's participation on a panel, or individually, as a judge of the work of others in the same or in an allied field of specialization for which classification is sought.",
+        "Criteration": "Judging",
+        "Description": "Evidence of the beneficiary's participation on a panel, or individually, as a judge of the work of others in the same or in an allied field of specialization for which classification is sought.",
         "Examples": [
             "Reviewer of abstracts or papers submitted for presentation at scholarly conferences in the respective field.",
             "Peer reviewer for scholarly publications.",
@@ -55,8 +55,8 @@
         ]
     },
     {
-        "citation_name": "Original contribution",
-        "description": "Evidence of the beneficiary's original scientific, scholarly, or business-related contributions of major significance in the field.",
+        "Criteration": "Original contribution",
+        "Description": "Evidence of the beneficiary's original scientific, scholarly, or business-related contributions of major significance in the field.",
         "Examples": [
             "Published materials about the significance of the beneficiary’s original work.",
             "Testimonials, letters, and affidavits about the beneficiary’s original work.",
@@ -70,8 +70,8 @@
         ]
     },
     {
-        "citation_name": "Scholarly articles",
-        "description": "Evidence of the beneficiary's authorship of scholarly articles in the field, in professional journals, or other major media.",
+        "Criteration": "Scholarly articles",
+        "Description": "Evidence of the beneficiary's authorship of scholarly articles in the field, in professional journals, or other major media.",
         "Examples": [
             "Publications in professionally-relevant journals.",
             "Published conference presentations at nationally or internationally recognized conferences."
@@ -83,8 +83,8 @@
         ]
     },
     {
-        "citation_name": "Critical employment",
-        "description": "Evidence that the beneficiary has been employed in a critical or essential capacity for organizations and establishments that have a distinguished reputation.",
+        "Criteration": "Critical employment",
+        "Description": "Evidence that the beneficiary has been employed in a critical or essential capacity for organizations and establishments that have a distinguished reputation.",
         "Examples": [
             "Senior faculty or senior research position for a distinguished academic department or program.",
             "Senior research position for a distinguished non-academic institution or company.",
@@ -100,8 +100,8 @@
         ]
     },
     {
-        "citation_name": "High remuneration",
-        "description": "Evidence that the beneficiary has either commanded a high salary or will command a high salary or other remuneration for services as evidenced by contracts or other reliable evidence.",
+        "Criteration": "High remuneration",
+        "Description": "Evidence that the beneficiary has either commanded a high salary or will command a high salary or other remuneration for services as evidenced by contracts or other reliable evidence.",
         "Examples": [
             "Tax returns, pay statements, or other evidence of past salary or remuneration for services.",
             "Contract, job offer letter, or other evidence of prospective salary or remuneration for services.",
