@@ -1,8 +1,7 @@
 from dotenv import load_dotenv
 import os
 import argparse
-from datasets import load_dataset, load_from_disk
-import pytest
+from datasets import load_dataset
 
 # Load environment variables from .env file
 load_dotenv()
