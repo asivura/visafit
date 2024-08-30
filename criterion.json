@@ -1,0 +1,116 @@
+[
+    {
+        "citation_name": "Awards",
+        "description": "Documentation of the beneficiary’s receipt of nationally or internationally recognized prizes or awards for excellence in the field of endeavor.",
+        "Examples": [
+            "Awards from well-known national institutions and well-known professional associations.",
+            "Certain doctoral dissertation awards and Ph.D. scholarships.",
+            "Certain awards recognizing presentations at nationally or internationally recognized conferences."
+        ],
+        "Considerations": [
+            "The criteria use to grant the awards or prizes.",
+            "The national or international significance of the awards or prizes in the field.",
+            "The number of awardees or prize recipients.",
+            "Limitations on eligible competitors."
+        ]
+    },
+    {
+        "citation_name": "Membership",
+        "description": "Documentation of the beneficiary’s membership in associations in the field for which classification is sought, which require outstanding achievements of their members, as judged by recognized national or international experts in their disciplines or fields.",
+        "Examples": [
+            "Membership in certain professional associations.",
+            "Fellowships with certain organizations or institutions."
+        ],
+        "Considerations": [
+            "Membership in the association requires outstanding achievements in the field for which classification is sought, as judged by recognized national or international experts.",
+            "Associations may have multiple levels of membership; the petitioner must show that the beneficiary was judged by recognized national or international experts as having attained outstanding achievements in the field."
+        ]
+    },
+    {
+        "citation_name": "Press",
+        "description": "Published material in professional or major trade publications or major media about the beneficiary, relating to the beneficiary's work in the field for which classification is sought. This evidence must include the title, date, and author of such published material and any necessary translation.",
+        "Examples": [
+            "Professional or major print publications (newspaper articles, popular and academic journal articles, books, textbooks, or similar publications) regarding the beneficiary and the beneficiary’s work.",
+            "Professional or major online publications regarding the beneficiary and the beneficiary’s work.",
+            "Transcript of professional or major audio or video coverage of the beneficiary and the beneficiary’s work."
+        ],
+        "Considerations": [
+            "Published material that includes only a brief citation or passing reference to the beneficiary’s work is not “about” the beneficiary. However, the beneficiary and the beneficiary’s work need not be the only subject of the material; published material that covers a broader topic but includes a substantial discussion of the beneficiary’s work and mentions the beneficiary in connection to the work may be considered material “about” the beneficiary.",
+            "Officers may consider material that focuses solely or primarily on work or research being undertaken by a team of which the beneficiary is a member, provided that the material mentions the beneficiary in connection with the work, or other evidence in the record documents the beneficiary’s significant role in the work or research.",
+            "Relevant factors include the intended audience (for professional and major trade publications) and the relative circulation, readership, or viewership."
+        ]
+    },
+    {
+        "citation_name": "Judging",
+        "description": "Evidence of the beneficiary's participation on a panel, or individually, as a judge of the work of others in the same or in an allied field of specialization for which classification is sought.",
+        "Examples": [
+            "Reviewer of abstracts or papers submitted for presentation at scholarly conferences in the respective field.",
+            "Peer reviewer for scholarly publications.",
+            "Member of doctoral dissertation committees.",
+            "Peer reviewer for government research funding programs."
+        ],
+        "Considerations": [
+            "The petitioner must show that the beneficiary has not only been invited to judge the work of others, but also that the beneficiary actually participated in the judging of the work of others in the same or allied field of specialization.",
+            "Documentation should include a copy of a request from a journal to the beneficiary to do the review, accompanied by evidence confirming that the beneficiary actually completed the review."
+        ]
+    },
+    {
+        "citation_name": "Original contribution",
+        "description": "Evidence of the beneficiary's original scientific, scholarly, or business-related contributions of major significance in the field.",
+        "Examples": [
+            "Published materials about the significance of the beneficiary’s original work.",
+            "Testimonials, letters, and affidavits about the beneficiary’s original work.",
+            "Documentation that the beneficiary’s original work was cited at a level indicative of major significance in the field.",
+            "Patents or licenses deriving from the beneficiary’s work or evidence of commercial use of the beneficiary’s work."
+        ],
+        "Considerations": [
+            "Analysis focuses on whether the beneficiary’s original work constitutes major, significant contributions to the field.",
+            "Evidence that the beneficiary’s work was funded, patented, or published, while potentially demonstrating the work’s originality, will not necessarily establish, on its own, that the work is of major significance to the field.",
+            "Detailed letters from experts in the field explaining the nature and significance of the beneficiary’s contribution(s) may also provide valuable context."
+        ]
+    },
+    {
+        "citation_name": "Scholarly articles",
+        "description": "Evidence of the beneficiary's authorship of scholarly articles in the field, in professional journals, or other major media.",
+        "Examples": [
+            "Publications in professionally-relevant journals.",
+            "Published conference presentations at nationally or internationally recognized conferences."
+        ],
+        "Considerations": [
+            "The beneficiary must be a listed author of the submitted article(s) but need not be the sole or first author.",
+            "The articles must be scholarly and written for learned persons in the field.",
+            "Relevant factors include the intended audience (for professional journals) and the circulation or readership relative to other media in the field (for major media)."
+        ]
+    },
+    {
+        "citation_name": "Critical employment",
+        "description": "Evidence that the beneficiary has been employed in a critical or essential capacity for organizations and establishments that have a distinguished reputation.",
+        "Examples": [
+            "Senior faculty or senior research position for a distinguished academic department or program.",
+            "Senior research position for a distinguished non-academic institution or company.",
+            "Principal or named investigator for a department, institution, or business that received a merit-based government award, such as an academic research or Small Business Innovation Research (SBIR) grant.",
+            "Member of a key committee within a distinguished organization.",
+            "Founder or co-founder of, or contributor of intellectual property to, a startup business that has a distinguished reputation.",
+            "Critical or essential supporting role for a distinguished organization or a distinguished division of an institution or company."
+        ],
+        "Considerations": [
+            "To show a critical role, the evidence should establish that the beneficiary has contributed in a way that is of significant importance to the organization or establishment’s activities.",
+            "To show an essential role, the evidence should establish that the beneficiary’s role is (or was) integral to the entity.",
+            "The organization or establishment must be recognized as having a distinguished reputation. Relevant factors include the scale of its customer base, longevity, or relevant media coverage."
+        ]
+    },
+    {
+        "citation_name": "High remuneration",
+        "description": "Evidence that the beneficiary has either commanded a high salary or will command a high salary or other remuneration for services as evidenced by contracts or other reliable evidence.",
+        "Examples": [
+            "Tax returns, pay statements, or other evidence of past salary or remuneration for services.",
+            "Contract, job offer letter, or other evidence of prospective salary or remuneration for services.",
+            "Comparative wage or remuneration data for the beneficiary’s field, such as geographical or position-appropriate compensation surveys."
+        ],
+        "Considerations": [
+            "If the petitioner is claiming to meet this criterion, then the burden is on the petitioner to provide appropriate evidence establishing that the beneficiary’s compensation is high relative to others working in similar occupations in the field.",
+            "The Bureau of Labor Statistics (BLS) Overview of BLS Wage Data by Area and Occupation webpage; and the Department of Labor's Career One Stop webpage may be helpful in evaluating the relative compensation for a given field.",
+            "Officers should evaluate persons working outside of the United States based on the wage statistics or comparable evidence for that locality."
+        ]
+    }
+]
