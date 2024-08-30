@@ -17,6 +17,7 @@ frozenlist==1.4.1
 fsspec==2024.6.1
 huggingface-hub==0.24.6
 idna==3.8
+iniconfig==2.0.0
 ipykernel==6.29.5
 ipython==8.27.0
 ipywidgets==8.1.5
@@ -34,12 +35,14 @@ pandas==2.2.2
 parso==0.8.4
 pexpect==4.9.0
 platformdirs==4.2.2
+pluggy==1.5.0
 prompt_toolkit==3.0.47
 psutil==6.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
 pyarrow==17.0.0
 Pygments==2.18.0
+pytest==8.3.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.1

@@ -8,5 +8,12 @@ AI application to roughly assess how a person is qualified for an O-1A immigrati
 1. Activate the virtual environment: `source .venv/bin/activate`
 1. Install the requirements: `pip install -r requirements.txt`
 
+### Setting up the environment variables
+1. Create a `.env` file in the root of the project
+1. Add the following environment variables to the `.env` file:
+    ```
+    DATA_DIR=<absolute path to data directory where we store dataset artifacts. Example: "/Users/alexandersivura/Developer/visafit/data">
+    ```
+
 
 *Important* when you add new packages to the project after you intall it with pip please run the following command to update the requirements.txt file `pip freeze > requirements.txt`
