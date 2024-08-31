@@ -1,0 +1,47 @@
+{
+    "generated_cv": "# Robert Smith\n\n## Personal Information\n\n- **Phone:** 0123456789\n- **Email:** info@qwikresume.com\n- **Website:** [qwikresume.com](http://qwikresume.com)\n- **Address:** 2259 Oak Street, Old Forge, New York, 13420\n\n## Professional Summary\n\nExperienced in cluster configuration, including Hadoop, Spark standalone, and Cassandra database. Proficient in processing large volumes of data using Hadoop MapReduce and Spark frameworks.\n\n## Core Competencies\n\n- Spark\n- Scala\n- SparkSQL\n- HDFS\n- Sqoop\n- MapReduce\n- Hive\n- Pig\n- Cassandra\n- DB2\n- ETL\n- Datawarehouse\n- SQL\n\n## Professional Experience\n\n### ETL Developer/Analyst, ABC Corporation\n*April 2010 - December 2013*\n\n**Key Deliverables:**\n\n- Project: Finance Transformation Program/Financial Processing\n- Responsibilities:\n  - Designed, developed, and executed test cases for unit and integration testing\n  - Hands-on experience with ETL tool and scalable architecture for financial reporting (SAFR IBM tool)\n  - Created extract views, summary views, and copy input views using SAFR ETL tool\n  - Created metadata like logical records, physical files, and logical files required for views\n  - Mapped fields to views from source LR to view per business requirements\n  - Created dynamic and static fields for creating views\n  - Participated as a peer reviewer for scholarly publications in the field of data processing\n\n### ETL Developer, ABC Corporation\n*April 2008 - April 2010*\n\n**Key Deliverables:**\n\n- Location: Noida, India\n- Project: Johnson & Johnson\n- Responsibilities:\n  - Worked with business users and business analysts for requirements gathering and business analysis\n  - Designed and customized data models and data warehouse to support data from multiple sources in real-time\n  - Extracted data from different flat files, MS Excel, and MS Access\n  - Transformed data based on user requirements using Informatica Power Center\n  - Loaded data to target and scheduled sessions\n  - Worked with Informatica Power Center 9.1/8.6/8.5 and Informatica Power Exchange Center 8.6 tools\n  - Used Source Analyzer, Data Warehousing Designer, Mapping Transformation Designer for tuning mappings for better performance\n  - Created reusable mapplets and transformations\n  - Managed concurrent batch processes, server backup, recovery, and tuning sessions\n  - Authored several scholarly articles on data warehousing and ETL processes published in professional journals\n\n## Education\n\n*Details not provided in the original CV*\n\n## Achievements or Awards\n\n- Received a high remuneration package at ABC Corporation, significantly above the industry average for ETL Developers\n\n## Additional Sections\n\n- Member of the Data Management Association (DAMA), which requires outstanding achievements in the field of data management\n\n---\n\nFree resume template copyright [qwikresume.com](http://qwikresume.com) usage guidelines",
+    "criterations": [
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Received a high remuneration package at ABC Corporation, significantly above the industry average for ETL Developers",
+            "reasoning": "This statement provides evidence that Robert Smith commanded a high salary, which is a key indicator of his high remuneration relative to others in his field."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "medium",
+            "reference": "Participated as a peer reviewer for scholarly publications in the field of data processing",
+            "reasoning": "This fact demonstrates Robert Smith's role in judging the work of others in his field, which supports the 'Judging' criterion."
+        },
+        {
+            "criteration": "Memberships",
+            "rating": "low",
+            "reference": "Member of the Data Management Association (DAMA), which requires outstanding achievements in the field of data management",
+            "reasoning": "This membership indicates that Robert Smith has been recognized for his outstanding achievements by a professional association, supporting the 'Memberships' criterion."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Authored several scholarly articles on data warehousing and ETL processes published in professional journals",
+            "reasoning": "This fact shows that Robert Smith has contributed scholarly articles to professional journals, which supports the 'Scholarly articles' criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Participated as a peer reviewer for scholarly publications in the field of data processing"
+        },
+        {
+            "type": "added",
+            "text": "Authored several scholarly articles on data warehousing and ETL processes published in professional journals"
+        },
+        {
+            "type": "added",
+            "text": "Received a high remuneration package at ABC Corporation, significantly above the industry average for ETL Developers"
+        },
+        {
+            "type": "added",
+            "text": "Member of the Data Management Association (DAMA), which requires outstanding achievements in the field of data management"
+        }
+    ]
+}

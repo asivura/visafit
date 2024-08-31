@@ -1,0 +1,39 @@
+{
+    "generated_cv": "# Bridget Spector\n\n## Contact Information\n\n- **Current Address:** SMC 123, 5032 Forbes Avenue, Pittsburgh, PA 15289\n- **Permanent Address:** 21 School Avenue, Philadelphia, PA 19111\n- **Phone:** 412-511-4422\n\n## Objective\n\nObtain a summer internship in the field of civil engineering to utilize problem-solving and leadership skills.\n\n## Education\n\n### Carnegie Mellon University\n\n- **Degree:** Bachelor of Science in Civil Engineering\n- **Graduation Date:** *May 2015*\n- **Location:** Pittsburgh, PA\n- **GPA:** 3.20/4.0\n\n### Best High School\n\n- **Degree:** High School Diploma\n- **Graduation Date:** *June 2011*\n- **Location:** Philadelphia, PA\n- **GPA:** 3.82/4.0\n\n## Projects\n\n### Cardboard Structure (Fall 2011)\n\n- Designed and constructed a cardboard bridge meant to support an average adult male.\n- Prepared scale models and analyzed alternatives prior to the final test.\n\n### Brick Wall Scheduling (Fall 2011)\n\n- Developed a bid proposal for building a brick wall.\n- Conducted time studies and generated Gantt charts.\n- Investigated economical methods for using resources.\n\n### Traffic Light Timing (Fall 2011)\n\n- Conducted studies on the flow of traffic at three intersections on Forbes Avenue.\n- Designed efficient traffic light cycles based on collected data.\n\n## Work Experience\n\n### Pennsylvania Governor's School for the Sciences, Pittsburgh, PA\n\n- **Position:** Teaching Assistant\n- **Dates:** *Summer 2012*\n- Graded papers, fielded questions, and held review sessions for organic chemistry.\n- Led a group of students in the area of spectroscopic analysis.\n- Acted as a residential assistant for 90 students, providing support, enforcing dorm policy, and sponsoring recreational activities.\n\n### Happy Summer Camp, Springfield, NJ\n\n- **Position:** Camp Counselor\n- **Dates:** *Summer 2010*\n- Created and coordinated activities for ten campers aged 10-12 years old.\n- Helped administrators set up for parents' weekend.\n\n### XYZ Engineering Firm, Philadelphia, PA\n\n- **Position:** Senior Civil Engineer\n- **Dates:** *June 2015 - Present*\n- Led a team of engineers in designing and implementing infrastructure projects.\n- Played a critical role in securing a multi-million dollar contract for the firm.\n- Recognized for outstanding performance with the \"Engineer of the Year\" award in 2018.\n- Featured in a local newspaper for innovative solutions in urban planning.\n- Commanded a salary in the top 10% of civil engineers in the region.\n",
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "low",
+            "reference": "Recognized for outstanding performance with the \"Engineer of the Year\" award in 2018.",
+            "reasoning": "This addition supports the 'Awards' criterion by documenting a recognized award for excellence in the field, albeit at a local level, which aligns with a low rating."
+        },
+        {
+            "criteration": "Press",
+            "rating": "low",
+            "reference": "Featured in a local newspaper for innovative solutions in urban planning.",
+            "reasoning": "This addition supports the 'Press' criterion by providing evidence of published material in a local newspaper about the beneficiary's work, which aligns with a low rating."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "high",
+            "reference": "Played a critical role in securing a multi-million dollar contract for the firm.",
+            "reasoning": "This addition supports the 'Critical employment' criterion by demonstrating the beneficiary's significant contribution to the organization, which aligns with a high rating."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "medium",
+            "reference": "Commanded a salary in the top 10% of civil engineers in the region.",
+            "reasoning": "This addition supports the 'High remuneration' criterion by providing evidence of a high salary relative to others in the field, which aligns with a medium rating."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "### XYZ Engineering Firm, Philadelphia, PA\n\n- **Position:** Senior Civil Engineer\n- **Dates:** *June 2015 - Present*\n- Led a team of engineers in designing and implementing infrastructure projects.\n- Played a critical role in securing a multi-million dollar contract for the firm.\n- Recognized for outstanding performance with the \"Engineer of the Year\" award in 2018.\n- Featured in a local newspaper for innovative solutions in urban planning.\n- Commanded a salary in the top 10% of civil engineers in the region.\n"
+        },
+        {
+            "type": "removed",
+            "text": "Objective\n\nObtain a summer internship in the field of civil engineering to utilize problem-solving and leadership skills.\n"
+        }
+    ]
+}

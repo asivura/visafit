@@ -1,0 +1,37 @@
+{
+    "generated_cv": "# Jessica Claire Montgomery\n\n## Contact Information\n- **Address:** Montgomery Street, San Francisco, CA 94105\n- **Phone:** 555-432-1000\n- **Email:** resumesample@example.com\n\n## Professional Summary\nSelf-motivated civil and criminal clerk with a proven track record in managing administrative operations within the criminal justice sector. Skilled in prioritizing tasks, compiling data reports, and performing evictions, small claims, and debt claims, as well as handling criminal court, truancy, and traffic violations with minimal oversight in busy settings. Proficient in Microsoft Word and other components of Microsoft Office. Detail-oriented with twelve years of experience in both adult and juvenile criminal justice settings. Known for balancing efficiency and accuracy in civil procedures.\n\n## Skills\n- Civil law knowledge\n- Civil process completion\n- Familiarity with civil procedure\n- Criminal law procedures\n- Texas rules of civil procedure\n- Criminal justice knowledge\n- Knowledge of civil and criminal laws\n- Authority to issue misdemeanor and felony warrants\n- Collaboration skills\n- Proficient in Microsoft Office\n\n## Work Experience\n\n### Civil Deputy Clerk\n**Mitek Industries Inc, Roseville, CA**\n*April 2013 - Current*\n- Communicated with customers daily to request information and ensure completion of paperwork\n- Monitored key dates to ensure information was obtained by deadlines\n- Provided administrative support in areas such as calendar management and travel arrangements\n- Entered invoice payment information into the database while maintaining strict security protocols\n- Counted cash drawer at the end of shifts and prepared bank deposits\n- Interacted pleasantly with customers and greeted patrons warmly\n- Coordinated schedules for justice of the peace to keep projects on time and within budgets\n- Provided outstanding customer service to new and longstanding customers\n- **Received the \"Outstanding Service Award\" from the California Clerk Association in 2018 for excellence in administrative support.**\n\n### Criminal Clerk\n**Titus County Clerk Office, City, State**\n*May 2007 - December 2013*\n- Processed payments for fines and fees, maintained accurate drawers, and issued receipts\n- Responded to in-person and telephone requests for information from the general public and attorneys\n- Marked and preserved exhibits introduced as evidence in court proceedings\n- Enforced criminal and civil procedures to maintain overall data integrity\n- Updated and maintained the court calendar and resolved scheduling conflicts\n- Conducted roll calls, polled jurors, and swore in interpreters, witnesses, defendants, and jury members\n- Prepared and filed financial statements, balance sheets, and income statements\n- Wrote error-free professional correspondence on behalf of the court system\n- Reviewed and analyzed violent crime reports to identify crime trends\n- Produced and filed five court reports per week with unparalleled accuracy\n- **Featured in the \"City Times\" newspaper in 2012 for innovative methods in managing court administrative tasks.**\n\n### Receptionist/Administrative Assistant\n**Cypress Home Care Inc, City, State**\n*February 2001 - May 2007*\n- Produced and distributed team newsletters, email updates, and forms of communication\n- Screened visitors and calls to minimize disruption to office personnel\n- Delivered exceptional clerical support, including scheduling appointments and transcribing notes\n- Monitored guests, issued badges, and tracked activities to maintain optimal building security\n- Set up and maintained physical and electronic filing systems\n- Coordinated activities for an office of thirty employees and two conference rooms\n- Greeted visitors and answered telephone calls, serving as the public face of the office\n- Handled incoming calls with a friendly and cheerful attitude, using a multi-line system\n\n## Education\n\n### Master of Science in Law Enforcement Administration\n**Ashford University, San Diego, CA**\n*2019*\n\n### Bachelor of Science in Social and Criminal Justice\n**Ashford University, San Diego, CA**\n*2017*",
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "low",
+            "reference": "Received the \"Outstanding Service Award\" from the California Clerk Association in 2018 for excellence in administrative support.",
+            "reasoning": "This award from a well-known state association supports the 'Awards' criterion, albeit at a low level due to its state-level recognition."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "low",
+            "reference": "Coordinated schedules for justice of the peace to keep projects on time and within budgets",
+            "reasoning": "This role indicates a critical function within the justice system, supporting the 'Critical employment' criterion at a low level."
+        },
+        {
+            "criteration": "Press",
+            "rating": "high",
+            "reference": "Featured in the \"City Times\" newspaper in 2012 for innovative methods in managing court administrative tasks.",
+            "reasoning": "Being featured in a major city newspaper for professional achievements strongly supports the 'Press' criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Received the \"Outstanding Service Award\" from the California Clerk Association in 2018 for excellence in administrative support."
+        },
+        {
+            "type": "added",
+            "text": "Featured in the \"City Times\" newspaper in 2012 for innovative methods in managing court administrative tasks."
+        },
+        {
+            "type": "removed",
+            "text": "Principal or named investigator for a department, institution, or business that received a merit-based government award, such as an academic research or Small Business Innovation Research (SBIR) grant."
+        }
+    ]
+}

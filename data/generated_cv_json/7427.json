@@ -1,0 +1,31 @@
+{
+    "generated_cv": "# Jessica Claire\n\n## Personal Information\n\n- **Address:** Montgomery Street, San Francisco, CA 94105\n- **Phone:** 555-432-1000\n- **Email:** resumesample@example.com\n\n## Professional Summary\n\nCybersecurity professional with newly acquired skills in information security from Columbia University. Background in sales and finance, driven by analytical reasoning and effective problem-solving. Highly motivated with superior skills in both team-based and independent capacities. Excited to begin a new challenge with a successful team.\n\n## Skills\n\n- Variance risk analysis\n- Sales communication and presentation\n- Excellent oral and written communication\n- Windows, Linux (Ubuntu, Kali Linux), VM hosting (VirtualBox)\n- Linux administration, scripting, archiving, log monitoring (cron)\n- Wireshark, PacketBoat, Snort, Firewalls, IDS, Incident response\n- Autopsy forensics, Metasploit, Nmap, SIEM, Incident response alerting\n- Splunk, Kibana, Elasticsearch, Logstash (ELK stack deployment)\n- Cryptography, digital certificates, networks, protocols\n- Docker, Ansible (deploying microservices, configuring necessary files)\n- Cloud application security, cryptocurrency, blockchain\n\n## Experience\n\n### Consultant, Capital Vacations\n*Wisconsin Dells, WI* \n*03/2017 - 06/2020*\n\n- Consulted DeFi companies to advance platform adoption and growth\n- Assumed full responsibility for trading top cryptos and altcoins using Coinbase, Bancor, Waves, IDEX\n- Conducted in-depth research on various coins and blockchains to locate undervalued assets\n- Consulted various blockchain startups on best practices and custody solutions\n\n### Executive, Green Payment Solutions\n*City, State* \n*01/2016 - 06/2019*\n\n- Sold alternative payment solutions to cannabis dispensaries\n- Created and delivered in-depth sales presentations to potential customers\n- Formed impactful relationships with current customers through cold and warm calls\n- Developed and implemented new sales strategies to update product lines\n- Established long-term relationships with customers, resolving issues and delivering exemplary service\n- Exceeded sales goals by 30% using a data-driven approach\n- Captured new multi-state account worth $250K in yearly revenue\n- Reduced process gaps and mentored 5 sales representatives on sales strategies and best practices\n\n### Precious Metals/Energy Broker, Great Lakes Trading\n*City, State* \n*01/2004 - 04/2016*\n\n- Grew brokerage department by soliciting new business and expanding into new markets\n- Expanded operations by 25% and created a base of 20 clients\n- Built and grew relationships with institutions, capturing larger flow orders\n- Applied multiple strategies to analyze data and risk efficiently\n- Developed and implemented trading plans based on technical and fundamental market analysis\n- Introduced and managed complex trading strategies, increasing volume by 30%\n- Executed trading strategies for banks, funds, hedgers, and various institutional and retail orders\n- Provided market commentary and insight to the Wall Street Journal\n- Managed a team of 8 clerks, reporting directly to the floor manager\n\n## Education\n\n### Cyber Security Engineering, Columbia University\n*New York, NY*\n\n### Bachelor of Science in Business Administration and Management, Tulane University\n*New Orleans, LA*\n\n## Certifications\n\n- Splunk Fundamentals (07/2020)\n- Blockchain Certified (05/1994)\n\n## Publications\n\n- Claire, J. (2021). \"Blockchain Security: Challenges and Solutions.\" *Journal of Cybersecurity Research*, 15(3), 45-67.\n\n## Compensation\n\n- Commanded a high salary of $200,000 per annum as a Consultant at Capital Vacations, reflecting expertise and high demand in the field.",
+    "criterations": [
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Claire, J. (2021). \"Blockchain Security: Challenges and Solutions.\" *Journal of Cybersecurity Research*, 15(3), 45-67.",
+            "reasoning": "The added publication demonstrates Jessica's authorship of a scholarly article in a professional journal, which is a medium rating criterion for scholarly articles."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary of $200,000 per annum as a Consultant at Capital Vacations, reflecting expertise and high demand in the field.",
+            "reasoning": "The added information about commanding a high salary of $200,000 per annum supports the high rating criterion for high remuneration, showing that Jessica's compensation is high relative to others in the field."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "## Publications\n\n- Claire, J. (2021). \"Blockchain Security: Challenges and Solutions.\" *Journal of Cybersecurity Research*, 15(3), 45-67."
+        },
+        {
+            "type": "added",
+            "text": "## Compensation\n\n- Commanded a high salary of $200,000 per annum as a Consultant at Capital Vacations, reflecting expertise and high demand in the field."
+        },
+        {
+            "type": "removed",
+            "text": "- Provided market commentary and insight to the Wall Street Journal"
+        }
+    ]
+}

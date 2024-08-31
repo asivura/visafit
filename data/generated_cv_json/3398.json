@@ -1,0 +1,47 @@
+{
+    "generated_cv": "# Ilse Pasciuto\n\n**Blockchain Engineer**\n\n**Email:** ilsepasciuto@gmail.com\n\n**Phone:** 930-940-0612\n\n**Location:** Wichita, KS\n\n---\n\n## Professional Summary\n\nBlockchain engineer with 3 years of experience in the development, maintenance, and optimization of blockchain networks. Expertise in creating distributed ledger technology (DLT) on a variety of platforms including Hyperledger Fabric and Ethereum. Proven track record in architecting and managing multi-node distributed networks, developing and deploying smart contracts, and creating secure private blockchain applications.\n\n---\n\n## Work Experience\n\n### Lead Blockchain Engineer, BlockMedx, KS\n*Jan 2023 - Present*\n\n- Developed secure distributed blockchain infrastructure for the company's medical records platform, resulting in an 80% reduction in data breaches and a 50% overall improvement in security.\n- Designed an innovative blockchain-based algorithm for authenticating patient records, increasing the accuracy of record-keeping by 95%.\n- Led a team of developers in creating a blockchain-based platform for managing medical records, enabling healthcare providers to securely access patient information with a few clicks, reducing the time required to access records by 30%.\n- Implemented a blockchain-based system that allowed healthcare providers to share medical records among multiple hospitals and clinics, resulting in a 40% increase in efficiency and cost savings of $2 million.\n\n### Senior Blockchain Engineer, Praxis Technologies, KS\n*Jul 2020 - Dec 2022*\n\n- Developed and launched a new blockchain-based platform for Praxis Technologies, improving the company's operational efficiency by 15%.\n- Improved the security of Praxis Technologies' existing blockchain-based applications by implementing advanced encryption algorithms and protocols, resulting in a 25% reduction in data breaches.\n- Created and implemented a smart contract system to automate the settlement process for Praxis Technologies, resulting in cost savings of $50,000 annually.\n- Designed and built a distributed ledger technology (DLT) platform to support Praxis Technologies' business operations, resulting in a 40% increase in transaction throughput.\n\n---\n\n## Education\n\n**Bachelor of Science in Blockchain Engineering**\n\n*Kansas State University, KS*\n\n*Sep 2015 - May 2020*\n\n### Relevant Coursework\n\n- Cryptography\n- Data Structures\n- Computer Networks\n- Operating Systems\n- Programming Languages\n- Smart Contracts\n- Blockchain Technologies\n\n---\n\n## Skills\n\n- Cryptography\n- Smart Contracts\n- Distributed Ledger Technology (DLT)\n- Solidity/Ethereum\n- Hyperledger Fabric/Corda\n- Network Security\n- Data Structures\n\n---\n\n## Languages\n\n- English\n- Indonesian\n\n---\n\n## Certifications\n\n- **Certified Blockchain Solutions Architect (CBSA)**, *Jun 2021*\n- **Certified Ethereum Developer (CED)**, *Jun 2020*\n\n---\n\n## Memberships\n\n- **Member of the International Association for Cryptologic Research (IACR)**, *Jan 2022 - Present*\n\n---\n\n## Awards\n\n- **Recipient of the Blockchain Innovation Award from the National Blockchain Association**, *Dec 2021*\n\n---\n\n## Judging Experience\n\n- **Peer Reviewer for the Journal of Blockchain Research**, *Mar 2022 - Present*\n\n---\n\n## Hobbies\n\n- Cryptocurrency Trading\n\n---\n\n## Links\n\n- [LinkedIn](https://linkedin.com/in/ilsepasciuto)",
+    "criterations": [
+        {
+            "criteration": "Critical employment",
+            "rating": "low",
+            "reference": "Led a team of developers in creating a blockchain-based platform for managing medical records, enabling healthcare providers to securely access patient information with a few clicks, reducing the time required to access records by 30%.",
+            "reasoning": "This fact demonstrates Ilse's critical role in leading a team to develop a significant platform for BlockMedx, which is essential for the company's operations."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "medium",
+            "reference": "Peer Reviewer for the Journal of Blockchain Research",
+            "reasoning": "Ilse's role as a peer reviewer for a scholarly journal indicates her participation in judging the work of others in her field, which aligns with the medium rating for this criterion."
+        },
+        {
+            "criteration": "Memberships",
+            "rating": "high",
+            "reference": "Member of the International Association for Cryptologic Research (IACR)",
+            "reasoning": "Membership in the IACR, which requires outstanding achievements in cryptologic research, supports the high rating for this criterion."
+        },
+        {
+            "criteration": "Awards",
+            "rating": "medium",
+            "reference": "Recipient of the Blockchain Innovation Award from the National Blockchain Association",
+            "reasoning": "Receiving an award from a recognized national association demonstrates Ilse's excellence in her field, supporting a medium rating for this criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Member of the International Association for Cryptologic Research (IACR), *Jan 2022 - Present*"
+        },
+        {
+            "type": "added",
+            "text": "Recipient of the Blockchain Innovation Award from the National Blockchain Association, *Dec 2021*"
+        },
+        {
+            "type": "added",
+            "text": "Peer Reviewer for the Journal of Blockchain Research, *Mar 2022 - Present*"
+        },
+        {
+            "type": "removed",
+            "text": "Principal or named investigator for a department, institution, or business that received a merit-based government award, such as an academic research or Small Business Innovation Research (SBIR) grant."
+        }
+    ]
+}

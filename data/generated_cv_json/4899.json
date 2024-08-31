@@ -1,0 +1,51 @@
+{
+    "generated_cv": "# Jared Arthur Maica\n\n## Contact Information\n- **Phone:** 179-945-68777\n- **Email:** jamaicagmailcom\n- **LinkedIn:** [linkedin.com/in/jamaica](http://linkedin.com/in/jamaica)\n- **Twitter:** [twitter.com/jamaica](http://twitter.com/jamaica)\n\n## Professional Summary\nEnthusiastic and well-organized Java Developer with 3 years of experience. Eager to join Microsoft to bring top-class Java development and problem-solving skills. In previous roles, reduced app memory consumption by 30% and decreased startup time of apps by 70%.\n\n## Work Experience\n\n### Java Developer\n**Dacoderz, Los Angeles, CA**\n*2017 - 2018*\n- Analyzed and designed program changes.\n- Reviewed and updated requirements documentation.\n- Wrote design documents (PRD, FRD, UIRD, TRD, SRS, SDD).\n- Planned, documented, and executed tests to ensure code changes met requirements and specifications.\n- Supported programming changes, quality assurance, user acceptance testing, and post-implementation.\n- Applied relevant technical skills to deliver specifications, program changes, unit test scripts, and documentation.\n\n**Key Achievements:**\n- Achieved a 30% reduction in app memory consumption by eliminating duplicate strings via garbage collection logs analysis and refactoring code.\n- Recognized for improved code inefficiencies, leading to a 40% increase in app stability.\n- Published two scholarly articles in the Journal of Software Engineering and Applications.\n\n### Junior Java Developer\n**Quantexx, New York, NY**\n*2015 - 2016*\n- Designed, developed, troubleshot, debugged, and implemented software code, software components, and web applications.\n- Cooperated with graphic designers and project team members to develop website concepts, interface design, and architecture.\n- Integrated web applications with backend databases.\n- Deployed large web-based transaction systems using application servers.\n- Researched, tested, built, and coordinated the integration of new products per production and client requirements.\n\n**Key Achievement:**\n- Reduced startup time of Java apps by 70% via CDS implementation.\n- Served as a peer reviewer for the International Journal of Computer Science and Information Security.\n\n## Education\n**UCLA**\n*B.S. in Computer Science, GPA: 3.9*\n*2013 - 2016*\n- Coursework: Computer Systems Architecture, Programming Languages, Algorithms, Complexity, Automata Theory\n\n## Key Skills\n- JSP\n- Advanced Java\n\n## Professional Memberships\n- Member of the Association for Computing Machinery (ACM)\n\n## High Remuneration\n- Commanded a salary in the top 10% of Java Developers in Los Angeles during tenure at Dacoderz.",
+    "criterations": [
+        {
+            "criteration": "Memberships",
+            "rating": "low",
+            "reference": "Member of the Association for Computing Machinery (ACM)",
+            "reasoning": "Membership in ACM is a recognized professional association in the field of computing, which supports the criterion of professional memberships."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Published two scholarly articles in the Journal of Software Engineering and Applications.",
+            "reasoning": "Publishing scholarly articles in a recognized journal demonstrates significant contributions to the field and aligns with the criterion of authorship of scholarly articles."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "medium",
+            "reference": "Commanded a salary in the top 10% of Java Developers in Los Angeles during tenure at Dacoderz.",
+            "reasoning": "Earning a salary in the top 10% of Java Developers in a major city like Los Angeles indicates high remuneration relative to peers in the field."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "medium",
+            "reference": "Served as a peer reviewer for the International Journal of Computer Science and Information Security.",
+            "reasoning": "Acting as a peer reviewer for a recognized journal demonstrates participation in judging the work of others in the field."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Published two scholarly articles in the Journal of Software Engineering and Applications."
+        },
+        {
+            "type": "added",
+            "text": "- Served as a peer reviewer for the International Journal of Computer Science and Information Security."
+        },
+        {
+            "type": "added",
+            "text": "## Professional Memberships\n- Member of the Association for Computing Machinery (ACM)"
+        },
+        {
+            "type": "added",
+            "text": "## High Remuneration\n- Commanded a salary in the top 10% of Java Developers in Los Angeles during tenure at Dacoderz."
+        },
+        {
+            "type": "removed",
+            "text": "- Recognized for improved code inefficiencies, leading to a 40% increase in app stability."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "generated_cv": "# Robert Smith\n\n## Contact Information\n- Email: info@qwikresume.com\n\n## Professional Summary\n\nRecords Management Specialist with extensive experience in managing electronic filing systems, reviewing and analyzing legal and technical documents, and ensuring quality assurance. Proven ability to maintain company standards and promote a team environment.\n\n## Work Experience\n\n### Records Management Specialist/Representative, ABC Corporation\n*August 2008 - December 2008*\n\n- Managed electronic filing system by reviewing and analyzing legal and technical documents.\n- Validated documents for quality assurance and manually scanned documents.\n- Corrected errors found in folders and documentation as part of the quality control process.\n- Indexed and batched documents, processed quality control electronic orders, and prevented unnecessary file duplication.\n- Maintained company standards by following established policies and procedures.\n- Assisted with assignments including redacting documents as needed.\n- Worked with others to promote a team environment and good working relationships.\n\n### Records Management Specialist/Representative, ABC Corporation\n*2003 - 2008*\n\n- Provided records processes and disposition rules for the Defense Advanced Research Project Agency (DARPA) records in accordance with administrative instruction AL15 and Office of the Secretary of Defense records management administrative procedures.\n- Prepared and maintained records inventory project spreadsheets.\n- Served as liaison for the Records Declassification Division, DOD/WHS, for shipment and retrieval of records to/from semi-permanent storage at the Washington National Records Center.\n- Provided records management, Freedom of Information Act (FOIA), and Privacy Act training to personnel.\n- Managed the creation, accumulation, and maintenance of records.\n- Uploaded official records to the Records Management Application (Tower Records Information Management - TRIM).\n- Identified appropriate file series and disposition to identify the life cycle of a record.\n- Prepared weekly and monthly reports as required.\n- Assisted with records management administrative duties as needed.\n\n## Education\n\n*Details not provided in the original CV*\n\n## Skills\n\n- Records Management\n- Quality Assurance\n- Document Scanning\n- Indexing and Batching\n- Policy and Procedure Compliance\n- Team Collaboration\n- FOIA and Privacy Act Training\n\n## Achievements\n\n- Published an article on electronic records management in the Journal of Information Science.\n- Featured in a major trade publication for innovative records management techniques.\n\n---\n\n*Free resume templates copyright qwikresume.com usage guidelines*",
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "high",
+            "reference": "Featured in a major trade publication for innovative records management techniques.",
+            "reasoning": "This fact supports the 'Press' criterion as it demonstrates that Robert Smith's work has been recognized and featured in a major trade publication, indicating significant recognition in his field."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Published an article on electronic records management in the Journal of Information Science.",
+            "reasoning": "This fact supports the 'Scholarly articles' criterion as it shows that Robert Smith has authored a scholarly article in a professional journal, which is a key indicator of his expertise and contributions to his field."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Published an article on electronic records management in the Journal of Information Science."
+        },
+        {
+            "type": "added",
+            "text": "- Featured in a major trade publication for innovative records management techniques."
+        }
+    ]
+}

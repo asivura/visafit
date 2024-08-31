@@ -1,0 +1,41 @@
+{
+    "generated_cv": "# Robert Smith\n\n## Personal Information\n\n- **Phone:** 123-456-7899\n- **Email:** info@qwikresume.com\n- **Website:** [www.qwikresume.com](http://www.qwikresume.com)\n- **LinkedIn:** [linkedin.com/qwikresume](http://linkedin.com/qwikresume)\n- **Address:** 1737 Marshville Road, Alabama\n\n## Professional Summary\n\nConsultant with expertise in software sales and technical support. Proven ability to provide onsite technical solutions and ensure customer satisfaction. Experienced in hardware and software troubleshooting, client-server platforms, and advanced technical support.\n\n## Skills\n\n- Microsoft Office Suite\n- Inventory Management\n- Computer Literate\n- Basic Networking\n- Hardware/Software Troubleshooting\n\n## Work Experience\n\n### Consultant, ABC Corporation\n*December 2014 - April 2016*\n\n- Managed and developed marketing and operations plans.\n- Handled time and material contracts, providing 24/7 on-call support for network, server, and workstation repairs.\n- Troubleshot and repaired commercial retail point of sale (POS) equipment, TCP/IP networks, servers, and printers.\n- Designed disaster recovery plans and backup procedures to protect servers and workstations.\n- Provided installation and upgrade support for web and database application services.\n- Conducted network vulnerability and penetration analysis using tools like Nessus and Wireshark.\n- **Served as a senior consultant for a distinguished tech company, playing a critical role in the development of their flagship software product.**\n\n### Business Consultant, ABC Corporation\n*June 2012 - December 2014*\n\n- Provided remote and onsite support for clients' email, desktops, servers, and networks.\n- Implemented network and server projects, including VPN and LAN/WAN systems.\n- Configured and maintained servers, MS Exchange, Windows Active Directory, and networking equipment.\n- Performed virus removal, server patch installs, and updates.\n- Troubleshot and resolved moderately complex software and device issues.\n- Maintained good relations with agency management, vendors, coworkers, and end-users.\n- **Reviewed and judged technical papers for a mid-tier tech conference, contributing to the selection of high-quality presentations.**\n\n## Education\n\n*Dummy description data to replace with relevant current role*\n\n## Compensation\n\n- **Commanded a high salary in the top 10% of the industry standard for software consultants, as evidenced by pay statements and contract details.**\n\n---\n\n*Free resume template copyright Qwikresume.com. Usage guidelines apply.*",
+    "criterations": [
+        {
+            "criteration": "Critical employment",
+            "rating": "low",
+            "reference": "Served as a senior consultant for a distinguished tech company, playing a critical role in the development of their flagship software product.",
+            "reasoning": "This fact demonstrates that Robert held a critical role in a distinguished organization, contributing significantly to a major project."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary in the top 10% of the industry standard for software consultants, as evidenced by pay statements and contract details.",
+            "reasoning": "This fact shows that Robert's salary was in the top 10% of the industry standard, indicating high remuneration."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "medium",
+            "reference": "Reviewed and judged technical papers for a mid-tier tech conference, contributing to the selection of high-quality presentations.",
+            "reasoning": "This fact indicates that Robert participated as a judge in a professional capacity, which aligns with the medium rating for the judging criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Served as a senior consultant for a distinguished tech company, playing a critical role in the development of their flagship software product."
+        },
+        {
+            "type": "added",
+            "text": "Commanded a high salary in the top 10% of the industry standard for software consultants, as evidenced by pay statements and contract details."
+        },
+        {
+            "type": "added",
+            "text": "Reviewed and judged technical papers for a mid-tier tech conference, contributing to the selection of high-quality presentations."
+        },
+        {
+            "type": "removed",
+            "text": "Dummy description data to replace with relevant current role"
+        }
+    ]
+}

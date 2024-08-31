@@ -1,0 +1,27 @@
+{
+    "generated_cv": "# Chad Davies\n\n## Personal Information\n\n- **Location:** New York, 10005, USA\n- **Email:** exampleemailcom\n- **Phone:** 890-555-0401\n- **Date of Birth:** 1989-2003\n- **Nationality:** American\n- **Driving License:** Full\n\n## Professional Summary\n\nProfessional, caring, and organized teacher with 7 years of experience teaching multiple grades. Dedicated to providing students with appropriate learning activities and adventures designed to fulfill their potential for emotional, intellectual, social, and physical growth. Committed to enabling students to develop skills to function successfully in life.\n\n## Employment History\n\n### Elementary Teacher, Grade 6\n**Jefferson Independent School**\n*Feb 2013 - Present, New York*\n\n- Plan, prepare, and deliver instructional activities\n- Create a confident educational environment for students\n- Meet course and school-wide student performance goals\n- Participate in ongoing training sessions\n- Create and modify lesson plans throughout the year\n- Grade papers and perform administrative duties as needed\n- Stay informed on current topics in education\n- Establish goals and learning activities\n- Prepare and distribute parent communications\n- Develop and implement curriculum programs with effective teaching strategies\n- Utilize various curriculum resources and technologies to enhance student learning\n- Blend competencies and goals into lesson programs\n- Plan and implement instruction programs adhering to the school's concept, goals, and intentions\n- **Served as a member of the National Education Association, which requires outstanding achievements in the field of education.**\n\n### Elementary Teacher, Grade 4\n**Chippenham School**\n*Apr 2009 - Feb 2013, New York*\n\n- Provided education to fourth graders\n- Encouraged enthusiasm for the learning process and development of good study habits\n- Observed and evaluated students' performance\n- Managed classroom behavior and created appropriate behavior strategies\n- Maintained regular, on-time attendance\n- Kept current with subject matter knowledge and learning theory\n- Provided progress and interim reports as required\n- Assisted in the selection of equipment and books\n- Communicated and interacted with students, parents, and colleagues in a positive manner\n- **Played a critical role in developing and implementing a new curriculum program that significantly improved student performance, contributing to the school's distinguished reputation.**\n\n## Skills\n\n- Caring\n- Effective communication\n- Reliable\n- Professional\n- Good listener\n- Problem-solving\n- Authoritative\n\n## Hobbies\n\n- Reading\n- Walking\n- Cooking",
+    "criterations": [
+        {
+            "criteration": "Memberships",
+            "rating": "high",
+            "reference": "Served as a member of the National Education Association, which requires outstanding achievements in the field of education.",
+            "reasoning": "This addition demonstrates that Chad Davies is a member of a prestigious association that requires outstanding achievements, fulfilling the high rating for the Membership criterion."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "Played a critical role in developing and implementing a new curriculum program that significantly improved student performance, contributing to the school's distinguished reputation.",
+            "reasoning": "This addition shows that Chad Davies played a critical role in a significant project that improved student performance and contributed to the school's reputation, fulfilling the medium rating for the Critical employment criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Served as a member of the National Education Association, which requires outstanding achievements in the field of education."
+        },
+        {
+            "type": "added",
+            "text": "Played a critical role in developing and implementing a new curriculum program that significantly improved student performance, contributing to the school's distinguished reputation."
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "generated_cv": "# Jessica Claire\n\n100 Montgomery St, 10th Floor\n\n555-432-1000\n\nresumesample@example.com\n\n## Summary\n\nCertified SAP Consultant with 5 years of functional expertise in SAP FICO and S/4 HANA, including organizational structures, organizational units, enterprise structures, general ledger accounting, accounts receivables (AR), FICO integration, sales and distribution (SD), materials management (MM), controlling (CO) modules, and production planning (PP). Additionally, 10 years of progressive experience in business solutions, operations, project management, and business analysis.\n\n## Skills\n\n- Variance reporting\n- User support and troubleshooting\n- SAP solution designing\n- SAP migrations and conversions\n- Strategic planning and review\n- Best practices and standards\n- Data management\n- Problem resolution\n- Relationship building\n- Microsoft Office\n- Team management\n- Conflict resolution\n- Organizational skills\n- Critical thinking\n- Information security\n\n## Experience\n\n### SAP FICO Consultant\n\n*10/2019 - Current*\n\n**Fujitsu Global, Canton, OH**\n\n- Provided ad hoc training and user support as required\n- Provided appropriate system solutions\n- Identified, interpreted, validated, and documented customer requirements\n- Liaised with clients for troubleshooting, investigating, and solving software problems\n- Conducted and documented root cause analysis of production system failures to minimize future failures and optimize operations\n- Gathered business requirements for SAP reporting functionality enhancements\n- Prepared and presented technical proposals to clients\n- Developed and managed project plans, providing status updates to management\n- Streamlined acquisition reporting requirements and specifications across multiple business lines and support teams\n- Proactively identified and proposed business processes and system enhancements\n- Troubleshot server-side application issues to reduce overall downtime\n- Maintained quality-focused performance benchmarks and schedules, directing project teams\n- Explored new technologies and tools for productivity, security, and quality assurance purposes\n- **Served as a peer reviewer for scholarly publications in the field of SAP solutions**\n\n### SAP FICO Consultant\n\n*03/2017 - 09/2019*\n\n**Fujitsu Global, Houston, TX**\n\n- Gathered business requirements for SAP reporting functionality enhancements\n- Developed and implemented standardized disaster recovery (DR) processes for SAP products\n- Troubleshot server-side application issues to reduce overall downtime\n- Prepared and presented technical proposals to clients\n- Provided ad hoc training and user support as required\n- **Published an article on SAP FICO integration in a professional journal**\n\n### Project Coordinator\n\n*09/2010 - 12/2016*\n\n**22nd Century Technologies, Omaha, NE**\n\n- Produced status reports for customers and senior management\n- Prioritized needs and delegated assignments while simultaneously handling multiple projects\n- Liaised with project managers to evaluate project scope and define milestones and deadlines\n- Served as the point-of-contact for support, order management, testing, and reporting\n- Drove communication within a high-performance, cross-functional organization to meet aggressive goals\n- Coordinated with department leads to identify and outline solutions for client-specified challenges\n- Set project goals, schedules, and team members\n- Managed work streams for routine and special projects\n- Introduced change and improvement plans to achieve goals, methodologies, and initiatives\n- Collaborated with internal teams to develop project solutions resulting in on-time execution\n- Prepared presentations for customers and staff members detailing project scope, progress, and results\n- Assessed, monitored, and reported work progression\n- Assisted project manager in drafting schedules and related documentation\n- Documented labor hours and budget expenses for projects\n- **Received the \"Outstanding Project Coordinator\" award from the National Project Management Association**\n\n### Business Solutions Consultant\n\n*09/2006 - 09/2010*\n\n**BrightSpring Health Services, Flushing, OH**\n\n- Promoted business engagement by building relationships with key stakeholders, surfacing opportunities, and driving opportunities to delivery\n- Participated in the business solution design process to understand and define functional project requirements\n- Interpreted and advocated the company vision and direction, turning business goals into actionable plans and system enhancements\n- Generated reports on client outreach goals, objectives, industry intelligence, and competitor information for presentation to company leadership\n- Explained technical concepts to non-technical staff members in easy-to-understand language\n- Defined appropriate metrics and measurements to drive results comparison and trends\n- Checked penetration levels of various services and tracked high-net-worth individuals and average users\n- Worked with cross-functional teams to eliminate or reduce factors leading to customer churn, identifying key reasons for churn and managing to meet end-user goals\n- Supported strategic planning initiatives and applications\n- Gathered and organized data using Siebel to analyze current industry trends\n- **Member of the International Association of Business Communicators (IABC), recognized for outstanding achievements in business communication**\n\n## Education\n\n### Real Estate License, Real Estate Development\n\n*12/2020*\n\n**Maryland Real Estate Commission, Maryland**\n\n### Certification, Special Products Marketing and Operations\n\n*04/2008*\n\n**Advertising Practitioners Council of Nigeria, Lagos**\n\n### Master of Arts, Business Communications\n\n*02/2006*\n\n**University of Ibadan, Ibadan**\n\n### Bachelor of Arts, Communication and Language Arts\n\n*03/2004*\n\n**University of Ibadan, Ibadan**",
+    "criterations": [
+        {
+            "criteration": "Memberships",
+            "rating": "high",
+            "reference": "Member of the International Association of Business Communicators (IABC), recognized for outstanding achievements in business communication",
+            "reasoning": "This fact demonstrates that Jessica Claire is a member of a professional association that requires outstanding achievements, which aligns with the high rating for the Membership criterion."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Received the \"Outstanding Project Coordinator\" award from the National Project Management Association",
+            "reasoning": "This award indicates that Jessica Claire has made original contributions of significance in her field, which supports the medium rating for the Original contribution criterion."
+        },
+        {
+            "criteration": "Press",
+            "rating": "high",
+            "reference": "Served as a peer reviewer for scholarly publications in the field of SAP solutions",
+            "reasoning": "Being a peer reviewer for scholarly publications indicates that Jessica Claire's work is recognized and discussed in professional circles, which supports the high rating for the Press criterion."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "low",
+            "reference": "Published an article on SAP FICO integration in a professional journal",
+            "reasoning": "This fact shows that Jessica Claire has authored scholarly articles in her field, which supports the low rating for the Scholarly articles criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Served as a peer reviewer for scholarly publications in the field of SAP solutions"
+        },
+        {
+            "type": "added",
+            "text": "- Published an article on SAP FICO integration in a professional journal"
+        },
+        {
+            "type": "added",
+            "text": "- Received the \"Outstanding Project Coordinator\" award from the National Project Management Association"
+        },
+        {
+            "type": "added",
+            "text": "- Member of the International Association of Business Communicators (IABC), recognized for outstanding achievements in business communication"
+        }
+    ]
+}

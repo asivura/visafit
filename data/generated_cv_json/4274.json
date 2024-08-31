@@ -1,0 +1,51 @@
+{
+    "generated_cv": "# John Doe\n\n## Contact Information\n\n- **Website:** [www.yourwebsite.com](http://www.yourwebsite.com)\n- **Address:** Street Location, ABC Country\n- **Phone:** 00 0123 456 78\n- **Email:** [youremail@gmail.com](mailto:youremail@gmail.com)\n\n## Professional Summary\n\nTeacher who encourages creativity and higher-order thinking in a way that increases student performance.\n\n## Education\n\n### Degree Name, University Name\n*2011-2012*\n\n### Degree Name, University Name\n*2012-2014*\n\n### Degree Name, University Name\n*2014-2016*\n\n## Professional Experience\n\n### Teacher, School Name\n*Mar 2016 - May 2017*\n- Worked with teachers and administrators to evaluate and revise elementary school programs.\n- Ensured students understood the curriculum.\n- Supported weak students requiring extra guidance, resulting in writing and reading comprehension test scores increasing by 20% year over year.\n\n### Teacher, School Name\n*Jun 2017 - Jan 2018*\n- Implemented personalized education plans for students' unique needs to increase individual growth.\n- Crafted a unique program for the school library to foster interest in history and social studies education.\n- Awarded Best Teacher of the Year at XYZ School.\n\n### Senior Teacher, School Name\n*Jun 2017 - Jan 2018*\n- Created a reward system to manage classroom behavior, resulting in a marked decrease in detentions.\n- Crafted a unique program for the school library to foster interest in history and social studies education.\n- Served as a peer reviewer for scholarly publications in the field of education.\n\n## Skills\n\n- Skill 01\n- Skill 02\n- Skill 03\n- Skill 04\n- Skill 05\n\n## Publications\n\n- Doe, J. (2018). Innovative Teaching Methods in Elementary Education. Journal of Modern Education, 12(3), 45-67.\n- Doe, J. (2019). The Impact of Personalized Education Plans. International Journal of Educational Research, 23(1), 89-102.\n\n## Languages\n\n- English\n- Spanish\n- Chinese\n- French\n- Dutch\n\n## Memberships\n\n- Member of the National Education Association (NEA)\n\n## Media Coverage\n\n- Featured in the article \"Top Educators of 2019\" in Education Today Magazine.\n\n## Hobbies\n\n- [Hobby 1]\n- [Hobby 2]\n- [Hobby 3]",
+    "criterations": [
+        {
+            "criteration": "Judging",
+            "rating": "high",
+            "reference": "Served as a peer reviewer for scholarly publications in the field of education.",
+            "reasoning": "This fact demonstrates that John Doe has participated as a judge of the work of others in his field, fulfilling the 'Judging' criterion."
+        },
+        {
+            "criteration": "Press",
+            "rating": "high",
+            "reference": "Featured in the article \"Top Educators of 2019\" in Education Today Magazine.",
+            "reasoning": "This fact shows that John Doe has been featured in a major publication, fulfilling the 'Press' criterion."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Doe, J. (2018). Innovative Teaching Methods in Elementary Education. Journal of Modern Education, 12(3), 45-67.",
+            "reasoning": "This fact demonstrates that John Doe has authored scholarly articles in professional journals, fulfilling the 'Scholarly articles' criterion."
+        },
+        {
+            "criteration": "Memberships",
+            "rating": "low",
+            "reference": "Member of the National Education Association (NEA)",
+            "reasoning": "This fact shows that John Doe is a member of a professional association, fulfilling the 'Memberships' criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Served as a peer reviewer for scholarly publications in the field of education."
+        },
+        {
+            "type": "added",
+            "text": "## Publications\n\n- Doe, J. (2018). Innovative Teaching Methods in Elementary Education. Journal of Modern Education, 12(3), 45-67.\n- Doe, J. (2019). The Impact of Personalized Education Plans. International Journal of Educational Research, 23(1), 89-102."
+        },
+        {
+            "type": "added",
+            "text": "## Memberships\n\n- Member of the National Education Association (NEA)"
+        },
+        {
+            "type": "added",
+            "text": "## Media Coverage\n\n- Featured in the article \"Top Educators of 2019\" in Education Today Magazine."
+        },
+        {
+            "type": "removed",
+            "text": "- Awarded Best Teacher of the Year at XYZ School."
+        }
+    ]
+}

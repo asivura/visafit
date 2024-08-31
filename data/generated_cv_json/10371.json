@@ -1,0 +1,55 @@
+{
+    "generated_cv": "# Jessica Claire Montgomery\n\n## Contact Information\n- **Address:** Montgomery Street, San Francisco, CA 94105\n- **Phone:** 555-432-1000\n- **Email:** resumesample@example.com\n\n## Professional Summary\nPassionate personal fitness trainer adept at making workouts fun and rewarding. Expertise in instructing clients on proper lifting techniques and educating them on proper nutrition and hydration needs. Experienced in providing instruction in one-on-one sessions, buddy sessions, and group training classes. IFBB Pro Bodybuilder with competition prep experience. Certified personal trainer with 18 years of experience guiding diverse clients to successfully achieve health and wellness goals. Results-oriented and adaptable with a passion for designing training and nutrition plans to maximize performance, improve endurance, and increase overall well-being.\n\n## Skills\n- Passion for fitness\n- Safety compliance\n- NCCPT certification\n- Weight management\n- Healthy living role model\n- CPR/AED certification\n\n## Work Experience\n\n### Certified Personal Trainer, YMCA Greater Boston Inc, Charlestown\n*January 2011 - Current*\n- Designed specific workout systems for individual clients based on performance and ability\n- Designed and executed individual and small group exercise and fitness programs and regimens\n- Created inspirational physical training initiatives to foster healthy lifestyle decisions\n- Supplied clients with dietary restrictions and guidelines\n- Educated club members on the relationship between nutrition and fitness\n- Built customer loyalty by executing effective training initiatives\n- Organized files and created a new system for personal fitness plans, records, and contracts\n- Provided clients with safe and reasonable exercises to perform at home or in the gym\n- Trained clients in strength training, cardiovascular exercise, and stretching\n- Grew customer base through word-of-mouth referrals based on customer satisfaction and results\n- Published articles on fitness and nutrition in professional journals\n\n### Certified Personal Trainer, YMCA Greater Boston Inc, Wakefield\n*November 2015 - April 2018*\n- Promoted a safe and interactive environment for club clients and members\n- Served as a point of reference for fitness expertise within the club\n- Informed clients about nutrition, lifestyle issues, and weight control\n- Motivated clients to achieve personal fitness goals by developing and modifying routines\n- Educated clients on effective ways to exercise during business travel, at home, or on vacation\n- Scheduled and conducted fitness orientation appointments for new members\n- Assessed individual progress and suggested appropriate changes\n- Maintained detailed personal training records and updated progress after each session\n- Created personal training programs that addressed specific injuries and health problems\n- Assisted clients in finding new ways to inspire healthier habits\n- Provided exceptional customer service to obtain new clients and referrals\n- Designed enjoyable and innovative customized training programs based on fitness goals\n- Developed challenging and effective workouts to meet specific customer needs\n\n### Certified Personal Trainer, YMCA Greater Boston Inc, Boston\n*February 2015 - November 2015*\n- Promoted a safe and interactive environment for club clients and members\n- Monitored proper execution and form of clients, adjusting positions to improve results and safety\n- Served as a point of reference for fitness expertise within the club\n- Informed clients about nutrition, lifestyle issues, and weight control\n- Motivated clients to achieve personal fitness goals by developing and modifying routines\n- Educated clients on effective ways to exercise during business travel, at home, or on vacation\n- Instructed gym members on the correct use of weight resistance and cardiovascular equipment\n- Worked directly with management, owners, and the sales department to brainstorm and discuss strategies to mitigate customer issues\n- Conducted fitness orientation programs for new members\n- Designed and implemented athletic training, rehabilitation, and reconditioning programs\n\n### Certified Personal Trainer, Gold's Gym / EOS Fitness\n*February 2011 - February 2015*\n- Cultivated positive relationships with participants by interacting in group fitness classes\n- Promoted a safe and interactive environment for club clients and members\n- Maintained cleanliness of the group fitness room, mirrors, floor, and fitness equipment\n- Served as a point of reference for fitness expertise within the club\n- Informed clients about nutrition, lifestyle issues, and weight control\n- Motivated clients to achieve personal fitness goals by developing and modifying routines\n- Instructed gym members on the correct use of weight resistance and cardiovascular equipment\n- Educated clients on effective ways to exercise during business travel, at home, or on vacation\n- Conducted 2 staff meetings and trainings per month\n- Scheduled and conducted fitness orientation appointments for new members\n- Assessed individual progress and suggested appropriate changes\n- Assisted clients in finding new ways to inspire healthier habits\n- Conducted fitness orientation programs for new members\n- Worked across disciplines to ensure a cohesive and comprehensive approach to care\n- Supported the implementation of patient health plans, including nutritional wellness and weight loss programs\n- Personalized fitness and exercise programs\n\n## Education\n- **NCCPT, CA** - Certified Personal Trainer, *2012*\n- **Health Science Academy** - Sports Nutrition Advisor, *2013*\n- **DotFit** - Certified Trainer, *2014*\n- **DeVry University, Phoenix, AZ** - Electrical Engineering\n- **Oakland Community College, Royal Oak, MI** - Business Administration and Management\n- **Computer Learning Centers Inc, Madison Heights, MI** - MCSA Tech\n\n## Achievements\n- **IFBB Pro Bodybuilder**, *2017*\n- Led successful week-long boot camps consisting of 10-18 team members\n- Transitioned private training sessions using a bootcamp addendum custom-designed program\n- Featured in local news articles for innovative fitness programs\n- Served as a judge for national fitness competitions\n- Commanded a high salary as a personal trainer, significantly above the industry average\n",
+    "criterations": [
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Published articles on fitness and nutrition in professional journals",
+            "reasoning": "This addition demonstrates that Jessica has authored scholarly articles in her field, which is a medium-level support for the 'Scholarly articles' criterion."
+        },
+        {
+            "criteration": "Press",
+            "rating": "low",
+            "reference": "Featured in local news articles for innovative fitness programs",
+            "reasoning": "This addition shows that Jessica has been mentioned in local news articles, which provides low-level support for the 'Press' criterion."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "high",
+            "reference": "Served as a judge for national fitness competitions",
+            "reasoning": "This addition indicates that Jessica has participated as a judge in national fitness competitions, providing high-level support for the 'Judging' criterion."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "medium",
+            "reference": "Commanded a high salary as a personal trainer, significantly above the industry average",
+            "reasoning": "This addition shows that Jessica has commanded a high salary relative to others in her field, which is medium-level support for the 'High remuneration' criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Published articles on fitness and nutrition in professional journals"
+        },
+        {
+            "type": "added",
+            "text": "Featured in local news articles for innovative fitness programs"
+        },
+        {
+            "type": "added",
+            "text": "Served as a judge for national fitness competitions"
+        },
+        {
+            "type": "added",
+            "text": "Commanded a high salary as a personal trainer, significantly above the industry average"
+        },
+        {
+            "type": "removed",
+            "text": "Led successful week-long boot camps consisting of 10-18 team members"
+        },
+        {
+            "type": "removed",
+            "text": "Transitioned private training sessions using a bootcamp addendum custom-designed program"
+        }
+    ]
+}

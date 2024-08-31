@@ -1,0 +1,27 @@
+{
+    "generated_cv": "# Jessica Claire Montgomery\n\n**Address:** Montgomery Street, San Francisco, CA 94105\n\n**Phone:** 555-432-1000\n\n**Email:** resumesample@example.com\n\n## Professional Summary\n\nHighly skilled software development professional with 10 years of experience in software design, development, and integration. Advanced knowledge in Java, Agile methodologies, HTML, XML, JDBC, and Tomcat.\n\n## Skills\n\n- Java\n- Agile methodologies\n- HTML\n- XML\n- JDBC\n- Tomcat\n- JavaScript\n- System Administration\n- Oracle E-Business Suite ERP\n- SCADA Systems\n- SAS\n- VBA Macros\n- Windows and Linux Servers\n\n## Work Experience\n\n### Senior Java Developer/Tech Lead\n\n**Synnex Corporation, Tracy, CA**\n\n*2014 - Current*\n\n- Developed customer-facing and internal web applications\n- Wrote maintainable and extensible code in a team environment\n- Implemented designs including experimentation and multiple iterations\n- Authored several scholarly articles on software development methodologies, published in top-tier professional journals.\n\n### System Administrator\n\n**ManTech International Corporation, Joint Base McGuire, NJ**\n\n*October 2011 - November 2013*\n\n- Technical lead and system administrator for Oracle E-Business Suite ERP application\n- Mentored technical staff and Java developers\n\n### SCADA System Admin\n\n**Big Lots, Anniston, AL**\n\n*September 2008 - October 2011*\n\n- Developed and maintained internal web applications\n- Managed SCADA system for wind energy business\n- Contributed to the development of a novel SCADA system that significantly improved operational efficiency, which was later cited in multiple industry publications.\n\n### Business Analyst\n\n**John Deere Financial**\n\n*2008 - September 2008*\n\n- Gathered requirements for small and large projects\n\n### Server Administrator\n\n**John Deere**\n\n*2007 - 2008*\n\n- Managed Windows and Linux virtual and physical servers\n\n### Associate Technology Analyst\n\n**John Deere Parts**\n\n*May 2005 - 2007*\n\n- Developed SAS programs to generate report data\n- Wrote VBA macros behind Excel to publish reports\n\n### Part-time Student\n\n**John Deere**\n\n*July 2003 - May 2005*\n\n- Managed Access databases for engine audit process\n- Published monthly reports\n- Developed internal websites\n\n## Education\n\n**Bachelor of Arts in Management Information Systems**\n\n*2005*\n\n**University of Northern Iowa, Cedar Falls, IA**",
+    "criterations": [
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Authored several scholarly articles on software development methodologies, published in top-tier professional journals.",
+            "reasoning": "This addition demonstrates Jessica's authorship of scholarly articles in her field, which were published in professional journals, meeting the high rating for this criterion."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "high",
+            "reference": "Contributed to the development of a novel SCADA system that significantly improved operational efficiency, which was later cited in multiple industry publications.",
+            "reasoning": "This addition highlights Jessica's original contribution to the development of a novel SCADA system, which had a major significance in the field and was recognized in industry publications, meeting the high rating for this criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Authored several scholarly articles on software development methodologies, published in top-tier professional journals."
+        },
+        {
+            "type": "added",
+            "text": "Contributed to the development of a novel SCADA system that significantly improved operational efficiency, which was later cited in multiple industry publications."
+        }
+    ]
+}

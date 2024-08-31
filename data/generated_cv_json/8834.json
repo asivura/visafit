@@ -1,0 +1,41 @@
+{
+    "generated_cv": "# Jessica Claire\n\n100 Montgomery St, 10th Floor\n555-432-1000\nresumesample@example.com\n\n## Summary\n\n**Hybrid Cloud Engineer** with eight (8) years of experience working with several customers. Adept at developing solutions, procedures, and service standards for project transformation and business excellence. Proficient in designing effective solutions for cloud deployment and transitioning multiple projects, ensuring seamless delivery of services. Exceptional hands-on experience in managing server infrastructures, database migration, and implementing upgradable and scalable infrastructure in AWS Cloud and Azure Cloud.\n\n## Technical Skills\n\n- **Cloud Technologies**: AWS, Azure\n- **Azure Services**: ADF, ADB, Storage Account, VNet, Subnet, Automation Runbook, ACR, ACS, AKS, KeyVaults, Azure Apps, Logic Apps, Express Route, SQL Instances, Azure Repo, Azure Pipelines, Azure Boards, Azure Artifacts\n- **AWS Services**: VPC, Subnet, VPN, Direct Connect, CloudTrail, CloudWatch, CodeCommit, CodeDeploy, CodePipeline, API Gateway, ALB, Auto Scaling Group, EKS, Docker, AWS Control Tower, Terraform, CloudFormations, CloudEndure, Cloud Native, AWS RDS, ECS, Cloud Security, Landing Zone, Transit Gateway, Control Tower, EKS, SNS, Cloud Networking, Load Balancer, Elastic Cache\n- **DevOps Tools**: Terraform, Ansible, CFT, ARM Templates, Jenkins, Docker, Docker Compose, Docker Swarm, Kubernetes, OpenShift, Grafana, Nagios, Bamboo, Nexus, Checkmarx, Ant\n- **Scripting Languages**: Python, Shell Script, PowerShell, Groovy\n\n## Experience\n\n### DevOps Engineer\n*08/2020 - Current*\n**Foundation Capital, Spokane, WA**\n\n- Cloud automation using Terraform, Ansible, CFT, ARM Templates\n- DevOps CI/CD with Jenkins, Ansible, Docker, Docker Compose, Docker Swarm, Kubernetes, OpenShift, Grafana, Nagios, Bamboo, Nexus, Checkmarx, Ant\n- Scripting with Python, Shell Script, PowerShell, Groovy\n- Analyzed customers' AWS environments to identify cost-saving opportunities\n- Implemented and configured security services to properly harden infrastructure\n- Coordinated with customers to implement cost-saving strategies\n- Monitored customer environments daily for anomalies, trends, and savings opportunities\n- Handled offshore junior team using Agile methodology\n- **Published a research paper on cloud security in a major trade publication, highlighting innovative security measures implemented at Foundation Capital.**\n\n### Site Reliability Engineer\n*02/2017 - 07/2020*\n**Accenture (Contractor), Tacoma, WA**\n\n- Worked with distributed teams to design and develop frameworks, solution accelerators, and proofs of concept for external customer-facing products\n- Deployed AWS services to solve customer application issues such as latency and unavailability\n- Managed AWS-provided portal account access, credentials, and privileges\n- Rotated IAM access keys regularly and standardized password expiration\n- Ensured architecture solutions were compliant with security frameworks\n- Wrote IAM policies to grant users and groups necessary privileges\n- Designed and contributed to security architecture processes\n- Involved in the design and security oversight of next-generation firewalls, intrusion prevention systems, DDoS solutions, SSL-terminating load balancers, WAF, security groups, NACL, and encrypted data stored in EBS and Amazon RDS\n- **Developed a novel cloud deployment strategy that significantly reduced latency and improved system reliability, which was later adopted by multiple teams within Accenture.**\n\n### DevOps Engineer\n*03/2015 - 01/2017*\n**Foundation Capital, Golden, CO**\n\n- Created documentation and roadmap for implementation\n- Curated Terraform modules for multiple services including VM, Storage Account, ADF, Data Bricks, Automation Runbook, etc.\n- Set DFS algorithm to complement ADF deployment flow\n- Helped set up linked templates to solve ARM template deployment issues\n- Created CI/CD pipelines using Azure DevOps for end-to-end code testing and implementation\n- Designed Git hierarchy to enable optimal versioning\n- Improved security using Key Vault and security best practices\n- Handled offshore junior team using Agile methodology\n- **Received a high remuneration package, placing her in the top 10% of earners in her field, as evidenced by her pay statements and contract details.**\n\n## Education\n\n### High School Diploma\n*01/2009*\n**Nayabander BI High School, Bangladesh**\n\n## Certifications\n\n- **AWS Certified Solutions Architect \u2013 Associate**\n- **AWS Certified DevOps Engineer \u2013 Professional**\n- **Microsoft Azure Fundamentals Certified**\n",
+    "criterations": [
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Developed a novel cloud deployment strategy that significantly reduced latency and improved system reliability, which was later adopted by multiple teams within Accenture.",
+            "reasoning": "This fact demonstrates Jessica's original contribution to the field by developing a novel strategy that had a significant impact on system reliability and was recognized and adopted by multiple teams."
+        },
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Published a research paper on cloud security in a major trade publication, highlighting innovative security measures implemented at Foundation Capital.",
+            "reasoning": "This fact supports the criterion by showing that Jessica's work was significant enough to be published in a major trade publication, thereby gaining professional recognition."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Received a high remuneration package, placing her in the top 10% of earners in her field, as evidenced by her pay statements and contract details.",
+            "reasoning": "This fact clearly demonstrates that Jessica commands a high salary, placing her in the top 10% of earners in her field, which is a strong indicator of her high remuneration."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Published a research paper on cloud security in a major trade publication, highlighting innovative security measures implemented at Foundation Capital."
+        },
+        {
+            "type": "added",
+            "text": "Developed a novel cloud deployment strategy that significantly reduced latency and improved system reliability, which was later adopted by multiple teams within Accenture."
+        },
+        {
+            "type": "added",
+            "text": "Received a high remuneration package, placing her in the top 10% of earners in her field, as evidenced by her pay statements and contract details."
+        },
+        {
+            "type": "removed",
+            "text": "Senior faculty or senior research position for a distinguished academic department or program."
+        }
+    ]
+}

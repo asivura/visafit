@@ -1,0 +1,37 @@
+{
+    "generated_cv": "# Jessica Claire Montgomery\n\n## Contact Information\n- **Address:** Montgomery Street, San Francisco, CA 94105\n- **Phone:** 555-432-1000\n- **Email:** resumesample@example.com\n\n## Professional Summary\nProduct Development Manager and Senior Designer with extensive experience in apparel, packaging, and graphics. Proven ability to deliver fashion needs across a wide range of products. Skilled in collaborating with product development teams to execute production, create trend/theme boards, color palettes, and hand/computer sketches. Strong understanding of production, cost structure, and technical packages. Adept at providing clear, accurate, and complete specifications.\n\n## Skills\n- Adobe Creative Suite (Illustrator, Photoshop, InDesign CC)\n- Microsoft Office (Excel, Word, PowerPoint, Lotus Notes, Outlook)\n- CAD (Ned Graphics, Easy Weave, Easy Knit, Coloring Repeat)\n- Working knowledge of U4ia, Kaledo, PDM/PLM\n- Strong fabric knowledge (cut and sew, wovens, sweaters)\n- Product/brand development\n- Sourcing/negotiation\n- Technical fit\n- Trend/color/print repeat\n- Textile design\n- Knitwear expert\n\n## Work Experience\n\n### Senior Freelance Designer/Product Development Manager\n**Michelle Designs** - *City, State* \n*July 2012 - Current*\n- Worked cross-functionally to build and maintain relationships with product development departments.\n- Executed product details including construction, color, form, style, fit, graphic application, trim, etc.\n- Collaborated directly with clients through all stages of development and production.\n- Designed interior homes for clients including Ballard Designs and Pottery Barn Kids.\n- Developed packaging for multiple apparel and footwear companies including TJX and Avery Dennison.\n- Designed graphic t-shirts and pet wear for B Positive Project and Petrageous Designs.\n- Created children's apparel including sleepwear, sweater sets, rompers, dresses for Baby Togs, Baby Fair, and Zutano.\n- Published several scholarly articles on textile design and product development in professional journals.\n\n### Apparel Designer/Product Manager\n**TJX Corporation** - *City, State* \n*October 2002 - June 2012*\n- Managed and developed the product development process.\n- Designed artwork and graphics for men's, ladies', and children's apparel.\n- Worked with product teams to build and design garments, fit, and costing structure.\n- Led cross-functional teams including merchants, overseas offices, and management.\n- Grew children's sweater business from $100,000 to $1,000,000 in 10 years.\n- Designed 600 unique styles in a 4-month period.\n- Saved $30,000 in print development by utilizing artwork prints from other departments.\n- Monitored production flow and ensured timely delivery.\n- Provided accurate sketches and technical designs.\n- Trained and mentored a team of 3 designers and 20 freelance contractors.\n- Contributed original design concepts that significantly influenced the company's product lines.\n\n### Senior Designer/Product Manager\n**May Merchandising Corporation** - *City, State* \n*September 1999 - October 2002*\n- Merchandised and designed product lines for children's and juniors' cut and sew woven fabrications.\n- Supervised the sourcing process to achieve the best possible cost.\n- Managed sourcing and ordering of fabric yardage and trim details.\n- Created and utilized PDM design sketches and specification pages.\n- Attended fittings, prototype meetings, and production samples.\n- Partnered with the team throughout the development cycle.\n- Completed technical line drawings and built detailed tech packs.\n- Prepared global price proposals and consulted buyers in competitive situations.\n- Traveled to overseas offices in Asia up to 24 times a year.\n- Managed 2 designers and mentored their growth.\n\n### Home Textiles Account Manager\n**AMC/Target Corporation** - *City, State* \n*Date*\n- Managed the development, design, and implementation of home d\u00e9cor, candles, seasonal products, and home textiles.\n- Worked with overseas factories to sample, negotiate prices, and package line items for sale.\n- Collaborated with buyers on offshore sourcing and seasonal programs.\n- Presented and merchandised planograms and seasonal programs.\n- Managed a team of 4 assistants.\n- Commanded a high salary relative to industry standards, reflecting expertise and value brought to the company.\n\n## Education\n**Bachelor of Science in Textile Design**\n*Syracuse University, Syracuse, NY* \n*1992*\n\n---\n",
+    "criterations": [
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Published several scholarly articles on textile design and product development in professional journals.",
+            "reasoning": "This addition demonstrates that Jessica has authored scholarly articles in her field, which is a medium-level support for the 'Scholarly articles' criterion."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "low",
+            "reference": "Commanded a high salary relative to industry standards, reflecting expertise and value brought to the company.",
+            "reasoning": "This statement provides evidence that Jessica commanded a high salary, which supports the 'High remuneration' criterion at a low level."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Contributed original design concepts that significantly influenced the company's product lines.",
+            "reasoning": "This addition shows that Jessica made original contributions of major significance to her field, supporting the 'Original contribution' criterion at a medium level."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Published several scholarly articles on textile design and product development in professional journals."
+        },
+        {
+            "type": "added",
+            "text": "Commanded a high salary relative to industry standards, reflecting expertise and value brought to the company."
+        },
+        {
+            "type": "added",
+            "text": "Contributed original design concepts that significantly influenced the company's product lines."
+        }
+    ]
+}

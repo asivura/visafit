@@ -1,0 +1,31 @@
+{
+    "generated_cv": "# Jessica Claire Montgomery\n\n## Contact Information\n- **Address:** Montgomery Street, San Francisco, CA 94105\n- **Phone:** 555-432-1000\n- **Email:** resumesample@example.com\n\n## Professional Summary\nStore Manager equipped with extensive experience in retail management and sales. Employs excellent leadership skills and multitasking strengths.\n\n## Highlights\n- Retail inventory management\n- Outstanding communication skills\n- Accurate cash handling\n- Exceptional leadership\n- Store opening and closing procedures\n- Store operations\n\n## Accomplishments\n- Supervised a team of 55 staff members\n- Served as a key contributing member of the leadership team\n- Researched, calmed, and rapidly resolved client conflicts to prevent the loss of key accounts\n- **Recipient of the National Retail Federation's Award for Excellence in Retail Management (2020)**\n\n## Work Experience\n\n### Management, Auto Plus Pep Boys, Hamburg, NY\n*August 2015 - Current*\n- Worked closely with the district manager to formulate and build the store brand\n- Trained staff to deliver outstanding customer service\n- Wrote order supply requests to replenish merchandise\n- Trained new managers on store procedures and policies\n- Completed a series of training sessions to advance from assistant manager to store manager\n- Determined staff promotions and demotions; terminated employees when necessary\n- Directed and supervised employees engaged in sales, inventory-taking, and reconciling cash receipts\n- Opened a new store location and assisted in recruiting and training new staff\n- Addressed customer inquiries and resolved complaints\n- Delivered excellent customer service by greeting and assisting customers\n- **Achieved a salary in the top 10% of retail managers in the region, as evidenced by annual compensation reports**\n\n### Store Manager, Cost Plus World Market, Peoria, AZ\n*May 2014 - August 2015*\n- Worked closely with the district manager to formulate and build the store brand\n- Trained staff to deliver outstanding customer service\n- Wrote order supply requests to replenish merchandise\n- Trained new managers on store procedures and policies\n- Completed a series of training sessions to advance from assistant manager to store manager\n- Determined staff promotions and demotions; terminated employees when necessary\n- Directed and supervised employees engaged in sales, inventory-taking, and reconciling cash receipts\n- Opened a new store location and assisted in recruiting and training new staff\n- Addressed customer inquiries and resolved complaints\n- Delivered excellent customer service by greeting and assisting customers\n\n### Assistant Manager, United Pacific West, Los Angeles, CA\n*June 2008 - May 2014*\n- Opened and closed the store, including counting cash drawers and making bank deposits\n- Maintained visually appealing and effective displays throughout the store\n- Held team members accountable for achieving brand performance goals\n- Recruited, hired, developed, and retained retail talent for the company\n- Directed strategic, brand-appropriate marketing initiatives to improve presentation and maximize sales\n- Directed and supervised employees engaged in sales, inventory-taking, and reconciling cash receipts\n- Completed weekly schedules according to payroll policies\n\n### Lead Cashier, Ulta Salon, Cosmetics & Fragrance Inc., Pasadena, TX\n*August 2006 - June 2008*\n- Maintained knowledge of current promotions and policies regarding payment, exchanges, and security practices\n- Operated cash register to process cash, check, and credit card transactions\n- Administered point of sale opening and closing procedures\n- Replenished floor stock and processed shipments to ensure product availability for customers\n\n## Education\n\n### High School Diploma, Riverhead High School, Riverhead, NY\n*2006*\n- Regents Diploma\n\n### Accounting Coursework, Suffolk County Community College, Riverhead, NY\n- Business Management Coursework\n- Advanced Financial Accounting\n\n## Skills\n- Assistant Manager\n- Cash Receipts\n- Cash Handling\n- Cash Register\n- Closing\n- Communication Skills\n- Conflict Resolution\n- Credit\n- Excellent Customer Service\n- Customer Service\n- Financial Accounting\n- Inventory Management\n- Inventory\n- Marketing\n- Payroll Policies\n- Reconciling\n- Recruiting\n- Retail Sales\n- Store Manager\n- Strategic\n",
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Recipient of the National Retail Federation's Award for Excellence in Retail Management (2020)",
+            "reasoning": "This award is from a well-known national institution and recognizes excellence in the field of retail management, meeting the high rating criteria for nationally recognized awards."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "medium",
+            "reference": "Achieved a salary in the top 10% of retail managers in the region, as evidenced by annual compensation reports",
+            "reasoning": "This fact demonstrates that Jessica's salary is high relative to others in similar positions within the region, meeting the medium rating criteria for high remuneration."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Recipient of the National Retail Federation's Award for Excellence in Retail Management (2020)"
+        },
+        {
+            "type": "added",
+            "text": "Achieved a salary in the top 10% of retail managers in the region, as evidenced by annual compensation reports"
+        },
+        {
+            "type": "removed",
+            "text": "Served as a key contributing member of the leadership team"
+        }
+    ]
+}

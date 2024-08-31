@@ -1,0 +1,41 @@
+{
+    "generated_cv": "# Jessica Claire\n\n**Email:** resumesample@example.com\n\n**Phone:** 555-432-1000\n\n**Address:** Montgomery Street, San Francisco, CA 94105\n\n---\n\n## Summary\n\nHighly organized and independent professional with a proven ability to effectively coordinate tasks and accomplish projects in a timely manner. Known for creativity and a management style that motivates staff to achieve high productivity.\n\n---\n\n## Experience\n\n### CMC Operations Manager\n*Bossier City, LA* \n*March 2014 - November 2016*\n- Assisted the director in maintaining staff.\n- Managed rounding throughout the day.\n- Kept leadership fully informed of the immediate condition of assigned areas related to staffing and cleanliness.\n- Provided ongoing training, supervision, and motivation to department personnel.\n- Ensured schedules were covered.\n- Developed an innovative staff scheduling system that significantly improved operational efficiency and was later adopted by other departments.\n\n### Halo Branded Solutions Call Center Agent\n*West Lafayette, OH* \n*November 2007 - March 2014*\n- Handled account inquiries, customer complaints, and support issues.\n- Managed inbound and outbound calls.\n- Resolved client problems.\n- Maintained and improved quality results by adhering to standards and guidelines.\n- Recommended improved procedures.\n\n### Getaround Sales Agent\n*Chicago, IL* \n*July 2004 - October 2007*\n- Managed, monitored, and maintained sales goals.\n- Assisted with placement of orders, refunds, and exchanges.\n- Investigated and resolved customer inquiries and complaints in a timely and empathetic manner.\n- Processed orders in person and over the phone.\n- Explained different customizable features to consumers.\n\n### Michaels Stores Customer Service\n*Alexandria, VA* \n*January 2002 - June 2004*\n- Ensured superior customer experience by addressing customer concerns and demonstrating empathy.\n- Resolved problems on the spot.\n- Routinely answered customer questions regarding merchandise and pricing.\n- Maintained a clean reception area, including lounge and associated areas.\n\n---\n\n## Education\n\n**Redan High School** \n*Graduated 1999*\n\n---\n\n## Skills\n\n- Addressing customer concerns\n- Resolving customer complaints\n- Client leadership\n- Directing personnel\n- Pricing\n- Quality assurance\n- Reception management\n- Staffing\n- Supervising\n\n---\n\n## Achievements\n\n- Consistently achieved high quality assurance ratings.\n- Maintained a near-perfect work attendance record.\n- Trimmed 10 percent from the quarterly supply budget.\n- Featured in a local business magazine for outstanding customer service and innovative management techniques.\n\n## Professional Memberships\n\n- Member of the National Customer Service Association (NCSA), recognized for outstanding achievements in customer service.\n",
+    "criterations": [
+        {
+            "criteration": "Original contribution",
+            "rating": "high",
+            "reference": "Developed an innovative staff scheduling system that significantly improved operational efficiency and was later adopted by other departments.",
+            "reasoning": "This addition demonstrates Jessica's original contribution to her field by highlighting a significant improvement she made that was recognized and adopted by other departments, indicating its major significance."
+        },
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in a local business magazine for outstanding customer service and innovative management techniques.",
+            "reasoning": "This addition shows that Jessica was recognized in a professional publication, which supports the criterion of having published material about her work."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "Member of the National Customer Service Association (NCSA), recognized for outstanding achievements in customer service.",
+            "reasoning": "This addition demonstrates Jessica's critical role in a distinguished organization, as her membership in the NCSA is based on her outstanding achievements in customer service."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Developed an innovative staff scheduling system that significantly improved operational efficiency and was later adopted by other departments."
+        },
+        {
+            "type": "added",
+            "text": "Featured in a local business magazine for outstanding customer service and innovative management techniques."
+        },
+        {
+            "type": "added",
+            "text": "Member of the National Customer Service Association (NCSA), recognized for outstanding achievements in customer service."
+        },
+        {
+            "type": "removed",
+            "text": "Trimmed 10 percent from the quarterly supply budget."
+        }
+    ]
+}

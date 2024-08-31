@@ -1,0 +1,37 @@
+{
+    "generated_cv": "# Jessica Claire\n\n**Email:** resumesample@example.com\n\n**Phone:** 555-432-1000\n\n**Address:** 100 Montgomery St, 10th Floor\n\n## Summary\n\nDedicated engineering technician with 17 years of experience in designing, developing, and repairing machines and electrical equipment. Hardworking and passionate with strong organizational skills, ready to help the team achieve company goals.\n\n## Skills\n\n- Problem-solving\n- Disaster recovery\n- Virus protection\n- Technical troubleshooting\n- System testing\n- Network security\n- Hardware installation\n- Performance monitoring and optimization\n- Verbal and written communication\n- Software management\n- User support\n- Permissions and access control\n- Router installation and optimization\n- Quick learner\n- Mobile device management\n- Cloud management\n- Workstation maintenance\n- Firewall management\n- Decision making\n- Infrastructure upgrades\n- Cisco installations\n- Network performance analysis\n- Document organization\n- Computer hardware knowledge\n- Technical specifications\n\n## Education and Training\n\n**University of New Mexico, Albuquerque, NM**\n\n*Associate of Science in Computer Engineering, 05/2004*\n\n## Certifications\n\n- Cisco CCNA Certification\n- CompTIA Network+ Certification\n- CompTIA A+ Certification\n\n## Experience\n\n### Android Industries\n\n**Engineer Network Consultant, Belvidere, IL**\n\n*01/2016 - Current*\n\n- Configured hardware devices and software to set up workstations for employees\n- Installed, modified, and repaired software and hardware to resolve technical issues\n- Followed up with clients to verify optimal customer satisfaction following support engagement and problem resolution\n- Managed customers' expectations and supported technology functionality to provide a positive user experience\n- Created support documentation to enable the user community to extend skills, leverage system features, and find resolutions to questions without intervention from the support team\n- Loaded software, granted permissions, and configured hardware for new employees as part of the onboarding process\n- Analyzed issues to identify troubleshooting methods needed for quick remediation\n- Assisted customers with product selection based on stated needs, proposed use, and budget\n- Trained and supported end-users on software, hardware, network standards, use processes, and responded to technical concerns quickly and effectively\n- Devised solutions and performed quality control procedures on equipment and materials\n- Implemented safety and accident prevention programs for the project\n- Researched and investigated project requirements and monitored project progress to ensure conformance to design specifications and safety standards\n- **Received the \"Employee of the Year\" award for outstanding performance in 2018**\n\n### Android Industries\n\n**Engineering Technician, Detroit, MI**\n\n*08/2012 - 08/2015*\n\n- Maintained timely and accurate oral and written technical reports on engineering activities\n- Ran operational tests on systems and equipment to reinforce proper processes and remedy malfunctions\n- Inspected precision machine parts using micrometers, height gauges, and optical comparators\n- Executed root cause analysis to improve yield and reliability\n- Expanded technical skills through continuing education courses, outside seminars, and webinars\n- Maintained safety by verifying compliance and assuring proper factory testing\n- Applied engineering principles to develop and operate electrical, mechanical, and data processing systems\n- Organized, analyzed, and prepared technical data and reports\n- Assembled and tested components and wiring systems, locating and correcting faults to optimize production results\n- Worked with engineers to troubleshoot and resolve testing failures\n\n### Booz Allen Hamilton Inc.\n\n**Engineering Technician, Colorado Springs, CO**\n\n*09/2007 - 08/2012*\n\n- Implemented schematics, diagrams, and written and verbal descriptions to effectively solve engineering project issues\n- Collaborated with engineers during new product introduction phases to develop and verify design changes\n- Applied engineering principles to develop and operate electrical, mechanical, and data processing systems\n- Improved product quality by customizing tools and eliminating variability\n- Compiled, processed, and analyzed test data and results to improve product quality\n- Maintained station switchboards and adjusted project plans to account for dynamic targets, staffing changes, and operational specifications\n- Conferred with executives to advise and plan short-term and long-term system upgrade needs\n- **Served as a member of the IEEE, which requires outstanding achievements in the field**\n\n### Citadel Broadcasting Corp.\n\n**Engineering Technician, [City, State]**\n\n*07/2004 - 09/2007*\n\n- Maintained station switchboards, servers, and phone systems\n- Updated and maintained studio computer systems and radio Scott system software\n- Managed network system performance by conducting troubleshooting, security patching, and maintenance\n- Completed projects effectively by applying engineering and technical maintenance procedures\n- Performed work according to project schedules and high-quality standards\n- Implemented schematics, diagrams, and written and verbal descriptions to effectively solve engineering project issues\n\n## High Remuneration\n\n- **Commanded a high salary of $120,000 per year at Android Industries, significantly above the industry average for similar roles**",
+    "criterations": [
+        {
+            "criteration": "Memberships",
+            "rating": "low",
+            "reference": "Served as a member of the IEEE, which requires outstanding achievements in the field",
+            "reasoning": "Membership in the IEEE is a professional association that requires outstanding achievements in the field, aligning with the criterion for memberships."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary of $120,000 per year at Android Industries, significantly above the industry average for similar roles",
+            "reasoning": "The salary of $120,000 per year is high relative to others working in similar occupations in the field, meeting the criterion for high remuneration."
+        },
+        {
+            "criteration": "Awards",
+            "rating": "low",
+            "reference": "Received the \"Employee of the Year\" award for outstanding performance in 2018",
+            "reasoning": "The \"Employee of the Year\" award is a recognized prize for excellence in the field, supporting the criterion for awards."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- **Received the \"Employee of the Year\" award for outstanding performance in 2018**"
+        },
+        {
+            "type": "added",
+            "text": "- **Served as a member of the IEEE, which requires outstanding achievements in the field**"
+        },
+        {
+            "type": "added",
+            "text": "- **Commanded a high salary of $120,000 per year at Android Industries, significantly above the industry average for similar roles**"
+        }
+    ]
+}

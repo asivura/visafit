@@ -1,0 +1,31 @@
+{
+    "generated_cv": "# Richard Williams\n\n## Contact Information\n\n- **Address:** 3665 Margaret Street, Houston, TX 47587\n- **Email:** richardwilliams@gmail.com\n- **Phone:** 770-625-9669\n\n## Professional Summary\n\nTechnical Business Analyst with 7 years of experience supporting eCommerce retailers and developing innovative solutions. Possess a degree in Business Administration and certification in Business Analysis. Proven track record of saving retailers $500K annually through strategic solutions and gap analysis techniques. Thrive in multicultural environments and have contributed to the global growth of employers.\n\n## Professional Experience\n\n### Giant Co, Boston\n\n**Business Analyst**\n\n*September 2019 - Present*\n\n- Develop business architecture using requirements, scope, processes, alternatives, and risks.\n- Analyze clients' business requirements and processes through document analysis, interviews, workshops, and workflow analysis.\n- Liaise between business and technical personnel to ensure mutual understanding of processes and applications.\n- Redesigned customer communication and fulfillment protocols, increasing customer satisfaction rates by 35% and saving the company $500K annually by reducing refund requests.\n- Conduct 5 levels of testing including functional, regression, user acceptance, integration, and performance.\n- Featured in a major trade publication for innovative business analysis techniques that significantly improved company processes.\n\n### Quality Solutions Inc, Boston\n\n**Business Analyst**\n\n*July 2014 - August 2019*\n\n- Engaged clients to gather software requirements and business rules, ensuring alignment with development teams.\n- Facilitated monthly meetings with clients to document requirements and explore solutions.\n- Completed in-depth analysis of business processes, boosting revenue by 15%.\n- Evaluated risks related to requirements, implementation, testing processes, project communications, and training, saving the company an average of $5,000 annually.\n- Translated stakeholder requirements into 10 different tangible deliverables including functional specifications, user cases, user stories, workflow/process diagrams, and data flow/data model diagrams.\n- Authored several scholarly articles on business analysis and process optimization, published in professional journals.\n\n## Education\n\n### Cowell University, Chicago, IL\n\n**Bachelor of Arts in Business Administration**\n\n*Concentration in Finance, Honors: Cum Laude, GPA: 3.84*\n\n*June 2014*\n\n## Skills\n\n- Familiar with Agile software development\n- Expert knowledge of SQL and relational database management systems\n- Skilled in Wrike and AtTask project management software\n- Proficient in Microsoft Office (Word, Excel, Outlook, PowerPoint, Visio)\n\n---\n",
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "low",
+            "reference": "Featured in a major trade publication for innovative business analysis techniques that significantly improved company processes.",
+            "reasoning": "This fact supports the 'Press' criterion as it indicates that Richard Williams was featured in a major trade publication, which aligns with the examples and considerations for this criterion."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Authored several scholarly articles on business analysis and process optimization, published in professional journals.",
+            "reasoning": "This fact supports the 'Scholarly articles' criterion as it demonstrates that Richard Williams has authored multiple scholarly articles published in professional journals, which is a strong indicator of his expertise and contributions to the field."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Featured in a major trade publication for innovative business analysis techniques that significantly improved company processes."
+        },
+        {
+            "type": "added",
+            "text": "- Authored several scholarly articles on business analysis and process optimization, published in professional journals."
+        },
+        {
+            "type": "removed",
+            "text": "- Senior faculty or senior research position for a distinguished academic department or program."
+        }
+    ]
+}

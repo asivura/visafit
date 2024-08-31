@@ -1,0 +1,37 @@
+{
+    "generated_cv": "# RG Artist\n\n## Contact Information\n- **Email:** youremail@gmail.com\n- **Phone:** 895-555-555\n- **Address:** 4397 Aaron Smith Drive, Harrisburg, PA 17101\n- **Social:**\n  - [Facebook](http://facebook.com/username)\n  - [Instagram](http://instagram.com/username)\n  - [LinkedIn](http://linkedin.com/username)\n  - [Twitter](http://twitter.com/username)\n\n## Professional Summary\nArtist with 5 years of related work experience and a well-rounded portfolio showcasing varied accomplishments, including referenced articles, exhibitions, and academic achievements. Possesses a strong sense of artistry and forward-thinking consistently displayed across art pieces.\n\n## Work Experience\n\n### Artist (Freelance)\n**Self-Employed, New York, NY**\n*September 2016 - Present*\n- Design, develop, and deliver art pieces to clients according to specifications.\n- Create abstract sculptures displayed in local establishments.\n- Produce stylized and realistic photos for 3 online websites.\n- Collaborate with local museums to develop and fit art installations across indoor and outdoor areas.\n- Invited to judge the annual New York Art Awards, evaluating submissions in the sculpture category.\n\n### Collections Cataloguer\n**Mexic-Arte Museum, Austin, TX**\n*June 2013 - August 2016*\n- Catalogued a total of 1200 items according to different categories, completing the project 30 days ahead of schedule.\n- Analyzed database records and ensured the integrity of bibliographic contents.\n- Rewrote new descriptions for 30 items with outdated or insufficient information.\n\n## Exhibitions\n\n### Two-Person Exhibition\n**Moore Contemporary Industrial Artist, Lisa Meyer, New York, NY**\n*February 2017*\n\n### Solo Exhibition\n**Thesis Exhibition, John Kempt Gallery, Austin, TX**\n*March 2015*\n\n## Skills\n- Photography\n- Sculpture\n- Adobe Photoshop\n- Strong work ethic\n- Time management\n- Critical thinking\n- Attention to detail\n\n## Education\n\n### Bachelor of Fine Arts in Industrial Arts\n**Academy of Art University, San Francisco, CA**\n*2015*\n\n### Bachelor of Science in Fine Arts Studio Art and Art History\n**University of the Arts, Philadelphia, PA**\n*2013*\n\n## Memberships\n- Member of the National Sculpture Society, which requires peer recognition of outstanding achievements in sculpture.\n\n## High Remuneration\n- Commanded a high salary for commissioned sculptures, with contracts averaging $50,000 per piece, significantly higher than the industry average.",
+    "criterations": [
+        {
+            "criteration": "Memberships",
+            "rating": "low",
+            "reference": "Member of the National Sculpture Society, which requires peer recognition of outstanding achievements in sculpture.",
+            "reasoning": "This addition supports the 'Memberships' criterion by demonstrating that the individual is a member of a professional association that requires outstanding achievements, as judged by peers."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "medium",
+            "reference": "Invited to judge the annual New York Art Awards, evaluating submissions in the sculpture category.",
+            "reasoning": "This addition supports the 'Judging' criterion by showing that the individual has participated as a judge in a relevant field, which is a medium-level achievement."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary for commissioned sculptures, with contracts averaging $50,000 per piece, significantly higher than the industry average.",
+            "reasoning": "This addition supports the 'High remuneration' criterion by providing evidence of commanding a high salary, which is a high-level achievement."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Invited to judge the annual New York Art Awards, evaluating submissions in the sculpture category."
+        },
+        {
+            "type": "added",
+            "text": "## Memberships\n- Member of the National Sculpture Society, which requires peer recognition of outstanding achievements in sculpture."
+        },
+        {
+            "type": "added",
+            "text": "## High Remuneration\n- Commanded a high salary for commissioned sculptures, with contracts averaging $50,000 per piece, significantly higher than the industry average."
+        }
+    ]
+}

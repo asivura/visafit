@@ -1,0 +1,41 @@
+{
+    "generated_cv": "# Marie Pearce\n\n## Personal Information\n- **Location:** San Francisco, CA\n- **Email:** andyemailcom\n- **Phone:** 555-555-5555\n- **Website:** andycobcom\n\n## Professional Summary\n\nUX Designer with six years of experience designing products used by millions of people. Proven track record in leading design projects and improving user experience across various platforms.\n\n## Work Experience\n\n### Lead UX Designer, Figma\n*Mar 2017 - Current*\n- Led design of the Auto Layout feature, allowing customers to easily resize components.\n- Served as a judge for the annual UX Design Awards, evaluating submissions from designers worldwide.\n\n### UX Designer, Google\n*2014 - 2017*\n- Improved layout grid interface, allowing for precise and consistent layouts.\n- Collaborated with the product team to improve site-wide accessibility.\n- Led the Material Design team of 6 designers, responsible for standardizing design across Google properties.\n- Received the Google Design Award for Excellence in User Experience in 2016.\n\n### Human Interface Designer, Apple\n*2012 - 2014*\n- Created a color palette for hierarchical, expressive, and legible websites, meeting accessibility standards for contrast and color blindness.\n- Designed the Spotlight search interface for iOS 8.\n- Worked closely with engineering on interactions and transitions.\n- Worked with a team of three designers on widget-based notifications.\n\n## Education\n\n### BFA in Graphic Design, Rhode Island School of Design (RISD)\n*2008 - 2012*\n\n## Skills\n- Product Design\n- Design Systems\n- Figma\n- Sketch\n- Illustrator\n- Accessibility\n- Usability Testing\n- Web Design\n- HTML\n- CSS\n\n## Additional Information\n- Played a critical role in the development of Figma's design system, which is now used by major tech companies worldwide.",
+    "criterations": [
+        {
+            "criteration": "Judging",
+            "rating": "low",
+            "reference": "Served as a judge for the annual UX Design Awards, evaluating submissions from designers worldwide.",
+            "reasoning": "This fact demonstrates participation as a judge in a professional capacity, which aligns with the 'Judging' criterion at a low rating."
+        },
+        {
+            "criteration": "Awards",
+            "rating": "medium",
+            "reference": "Received the Google Design Award for Excellence in User Experience in 2016.",
+            "reasoning": "This award from a well-known institution (Google) supports the 'Awards' criterion at a medium rating due to its national recognition and relevance to the field."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "low",
+            "reference": "Played a critical role in the development of Figma's design system, which is now used by major tech companies worldwide.",
+            "reasoning": "This fact shows that the beneficiary had a critical role in a project of significant importance to a distinguished organization, supporting the 'Critical employment' criterion at a low rating."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Served as a judge for the annual UX Design Awards, evaluating submissions from designers worldwide."
+        },
+        {
+            "type": "added",
+            "text": "- Received the Google Design Award for Excellence in User Experience in 2016."
+        },
+        {
+            "type": "added",
+            "text": "- Played a critical role in the development of Figma's design system, which is now used by major tech companies worldwide."
+        },
+        {
+            "type": "removed",
+            "text": "Proven track record in leading design projects and improving user experience across various platforms."
+        }
+    ]
+}

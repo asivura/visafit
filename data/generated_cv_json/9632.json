@@ -1,0 +1,35 @@
+{
+    "generated_cv": "# Jessica Claire Montgomery\n\n**Address:** Montgomery Street, San Francisco, CA 94105\n\n**Phone:** 555-432-1000\n\n**Email:** resumesample@example.com\n\n## Summary\n\nCertified Journeyman Electrician with 13 years of commercial and residential experience. Knowledgeable in all areas of the National Electric Code.\n\n## Key Skills\n\n- Electrical systems and controls\n- Installation and maintenance\n- Blueprints and schematics\n- Generators and transformers\n- Switches and circuit breakers\n\n## Work Experience\n\n### Electrical Foreman\n*Huntington Ingalls Industries, Chesapeake, VA*\n*2002 - Current*\n\n- Managed projects from start to finish, supervising 23-man crews\n- Installed electrical panels, conduit, and fire alarms\n- Installed, repaired, and maintained power distribution systems, panels, and subpanels\n- Studied blueprints to layout work for helpers\n- Ordered materials for future work\n- Installed and wired switchboards and transformers\n- Troubleshot and repaired electrical systems in a timely manner\n\n## Certifications\n\n- **2012:** State of Maryland Electrical Journeyman Certification\n- **2006:** Code Refresher Course, James Rumsey Tech High, West Virginia\n- **2003:** Electrical Associated Builders and Contractors, Hagerstown, Maryland\n- **2001:** Electrical Apprentice Certification\n\n## Education\n\n### High School Diploma in Electrical\n*Washington County Technical High School, Hagerstown, MD*\n\n## Additional Achievements\n\n- **2020:** Invited as a panel judge for the National Electrical Contractors Association (NECA) annual conference.\n- **2019:** Featured in Electrical Contractor Magazine for innovative electrical system designs.\n- **2018:** Published an article on advanced electrical troubleshooting in the Journal of Electrical Engineering.\n- **2017:** Led a critical project for Huntington Ingalls Industries that significantly improved power distribution efficiency.",
+    "criterations": [
+        {
+            "criteration": "Judging",
+            "rating": "high",
+            "reference": "Invited as a panel judge for the National Electrical Contractors Association (NECA) annual conference.",
+            "reasoning": "This fact demonstrates Jessica's participation as a judge in a significant industry event, which aligns with the high rating for the 'Judging' criterion."
+        },
+        {
+            "criteration": "Press",
+            "rating": "high",
+            "reference": "Featured in Electrical Contractor Magazine for innovative electrical system designs.",
+            "reasoning": "Being featured in a major industry publication highlights Jessica's work and contributions, supporting the 'Press' criterion with a high rating."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "low",
+            "reference": "Led a critical project for Huntington Ingalls Industries that significantly improved power distribution efficiency.",
+            "reasoning": "This fact shows Jessica's role in a critical project, which is essential for the 'Critical employment' criterion, albeit with a low rating due to the limited scope of the example."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Published an article on advanced electrical troubleshooting in the Journal of Electrical Engineering.",
+            "reasoning": "Publishing an article in a professional journal supports the 'Scholarly articles' criterion with a high rating, as it demonstrates Jessica's expertise and contribution to the field."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "## Additional Achievements\n\n- **2020:** Invited as a panel judge for the National Electrical Contractors Association (NECA) annual conference.\n- **2019:** Featured in Electrical Contractor Magazine for innovative electrical system designs.\n- **2018:** Published an article on advanced electrical troubleshooting in the Journal of Electrical Engineering.\n- **2017:** Led a critical project for Huntington Ingalls Industries that significantly improved power distribution efficiency."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "generated_cv": "# Jessica Claire\n\n## Contact Information\n- Email: resumesample@example.com\n- Phone: 555-432-1000\n- Address: Montgomery Street, San Francisco, CA 94105\n\n## Professional Summary\nMilitary professional transitioning from a career in the United States Navy. Experienced in intelligence with a strong work ethic. Proven leader with the ability to accomplish tasks assigned to the team.\n\n## Skills\n- Critical thinking\n- ASVAB score: 82\n- Secret security clearance\n- Organized\n- Quick learner\n- Team leader\n\n## Education\n### Wake Technical Community College, Raleigh, NC\n- *Current*\n- High School Diploma\n- Completed credits necessary for transfer\n\n### American Military University\n- *Starting*\n- Dual major in Intelligence Collections and Intelligence Operations\n- President's List\n- Dean's List\n\n## Work Experience\n### Aviation Ordnance, DRM Arbys, Beatrice, NE\n- *04/2011 - 04/2015*\n- Assembled ordnance for combat readiness\n- Maintained magazines and storage for munitions\n- Loaded and maintained millions of dollars worth of ordnance\n- Assistant Command Fitness Leader (ACFL)\n  - Oversaw fitness enhancement program\n  - Conducted fitness sessions ranging from individualized training to large group sessions\n  - Monitored and logged sailors' fitness in accordance with program guidelines\n\n### Assistant Manager, Department of Defense, Niagara Falls, NY\n- *04/2015 - 08/2016*\n- Led employees to maximize time management and proper car washing procedures\n- Ensured overall maintenance of car wash tunnel\n- Delegated tasks to 40 employees to maximize labor hours and minimize costs\n- Logged daily numbers in Microsoft Excel for district manager\n\n### Intelligence Specialist, United States Navy\n- *01/2016 - Current*\n- Collected, processed, analyzed, organized, and disseminated information\n- Prepared detailed briefs and communicated intelligence\n- Plotted data using maps and charts\n- Utilized intelligence databases and libraries to prepare information\n- Served as a peer reviewer for scholarly publications in the field of intelligence\n- Member of the International Association for Intelligence Education (IAFIE)\n",
+    "criterations": [
+        {
+            "criteration": "Judging",
+            "rating": "medium",
+            "reference": "Served as a peer reviewer for scholarly publications in the field of intelligence",
+            "reasoning": "This addition demonstrates Jessica's role in judging the work of others in her field, which aligns with the 'Judging' criterion. The medium rating is appropriate as it shows active participation but not necessarily leadership in the judging process."
+        },
+        {
+            "criteration": "Memberships",
+            "rating": "low",
+            "reference": "Member of the International Association for Intelligence Education (IAFIE)",
+            "reasoning": "This addition shows Jessica's membership in a professional association relevant to her field. The low rating is appropriate as it indicates membership but does not specify outstanding achievements required for membership."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Served as a peer reviewer for scholarly publications in the field of intelligence"
+        },
+        {
+            "type": "added",
+            "text": "- Member of the International Association for Intelligence Education (IAFIE)"
+        }
+    ]
+}

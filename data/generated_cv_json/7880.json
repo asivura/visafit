@@ -1,0 +1,31 @@
+{
+    "generated_cv": "# Jessica Claire Montgomery\n\n## Contact Information\n- **Address:** Montgomery Street, San Francisco, CA 94105\n- **Phone:** 555-432-1000\n- **Email:** resumesample@example.com\n\n## Professional Summary\nExperienced professional with a strong background in banking, accounting, financial services, and healthcare sectors. Possesses strong financial, quantitative, and qualitative analytical problem-solving skills. Proven ability to deliver quality enterprise solutions by coordinating cross-functional activities among customers, executive management, stakeholders, vendors, engineers, and network teams. Solid project management skills with hands-on experience in software development lifecycles and software tools.\n\n## Skills\n- Microsoft Windows, Word, Excel, PowerPoint, Visio\n- Depreciation Solutions, CaseWare, ProSystems FX, SAP, Winshuttle, XML, Mind, TortoiseHG Workbench\n- Working knowledge of payments industry, SWIFT, ISO 20022, low value and high value payments\n- Proven experience interacting directly with end users and clients\n- Strong project management and analytical skills\n\n## Professional Experience\n\n### Business Analyst\n**Total System Services Inc.**\n*January 2012 - Current*\n- Assigned as functional lead based on comprehensive understanding of clients' intricate banking processes\n- Created client deliverables within a 3-week deadline\n- Convinced client to accept $18 million worth of customization from an original estimate of $300k\n- Collected, understood, and transmitted business requirements for the project\n- Translated functional specifications into detailed test analysis\n- Facilitated scoping and specification of client change initiatives\n- Documented results of business analysis and obtained sign-off on client specifications\n- Designed and executed business scenarios and test definitions\n- Analyzed and solved problems in integrated technology systems\n- Developed and provided structured training classes for system users\n- Featured in Financial Times for innovative solutions in banking processes\n\n### Sourcing Accountant\n**Kimberly-Clark Corporation**\n*March 2011 - May 2011*\n- Created standard operating procedures for recording financial activity\n- Recorded monthly Far East financial activity in the general ledger\n- Reconciled inter-company accounts and ran monthly sourcing trial balance\n- Updated full-year income statement with latest actual and projected expenses\n- Assisted with Sarbanes-Oxley quarterly testing\n\n### Associate Auditor\n**Kimberly-Clark Corporation**\n*January 2008 - April 2010*\n- Selected for a team targeting the new check cashing market sector\n- Completed audit of financial statements and planned and executed fieldwork\n- Summarized results of audit, review, and compilation engagements\n- Assisted in the preparation and analysis of financial statements and related footnotes\n- Trained lower-level staff members on engagements\n- Prepared partnership, individual, and S-Corp tax returns\n\n### Associate Auditor\n**Horizon Blue Cross**\n*June 2007 - August 2008*\n- Assisted in upgrading the payments system\n- Analyzed issues and documented business needs\n- Coordinated development, testing, and implementation of system specifications\n- Conducted trend analysis on various consumer-directed healthcare products\n\n## Education\n\n### Bachelor of Science in Accounting\n**Rowan University, NJ**\n\n## Achievements\n- Convinced client to accept $18 million worth of customization from an original estimate of $300k\n- Selected for a team targeting the new check cashing market sector\n- Earned a salary in the top 10% of the industry for the role of Business Analyst\n\n## Additional Information\n- Assisted with Sarbanes-Oxley quarterly testing\n- Proven experience interacting directly with end users and clients\n",
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in Financial Times for innovative solutions in banking processes",
+            "reasoning": "This addition supports the 'Press' criterion as it provides evidence of published material in a major media outlet about Jessica's work, which is a significant recognition in her field."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Earned a salary in the top 10% of the industry for the role of Business Analyst",
+            "reasoning": "This addition supports the 'High remuneration' criterion by providing evidence that Jessica has commanded a high salary relative to others in her field, which is indicative of her outstanding achievements and value in her profession."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Featured in Financial Times for innovative solutions in banking processes"
+        },
+        {
+            "type": "added",
+            "text": "- Earned a salary in the top 10% of the industry for the role of Business Analyst"
+        },
+        {
+            "type": "removed",
+            "text": "- Proven ability to deliver quality enterprise solutions by coordinating cross-functional activities among customers, executive management, stakeholders, vendors, engineers, and network teams."
+        }
+    ]
+}

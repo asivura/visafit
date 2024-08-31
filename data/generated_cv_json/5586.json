@@ -1,0 +1,47 @@
+{
+    "generated_cv": "# Abigail Biwer\n\n## Personal Information\n\n- **Email:** abigailbiwer@gmail.com\n- **Phone:** (196) 296-2525\n- **Address:** 1234 Maple Street, Minneapolis, MN 55401\n- **LinkedIn:** [linkedin.com/in/abigailbiwer](https://linkedin.com/in/abigailbiwer)\n\n## Professional Summary\n\nDedicated SQL Server Developer with 1 year of experience in designing, implementing, and optimizing database solutions. Proficient in T-SQL, SSIS, and SSRS with a strong foundation in database administration and performance tuning. Adept at collaborating with cross-functional teams to deliver high-quality results and enhance overall system efficiency. Demonstrates excellent problem-solving skills, attention to detail, and a commitment to continuous learning.\n\n## Work Experience\n\n### SQL Server Developer, Jamf Software, MN\n*May 2023 - Present*\n\n- Developed a robust database system for Jamf Software, increasing data processing efficiency by 40%, resulting in faster query execution and improved overall system performance.\n- Implemented SQL Server performance tuning and optimization techniques, reducing the frequency of server crashes by 30%, significantly enhancing the stability and reliability of the system.\n- Successfully migrated legacy data from multiple disparate sources to a centralized SQL Server database, consolidating and streamlining data management processes, ultimately reducing data storage costs by 25%.\n- Featured in a major trade publication for innovative database solutions, highlighting significant contributions to the field.\n\n### Junior SQL Server Developer, Match, MN\n*September 2022 - April 2023*\n\n- Developed and optimized 50+ SQL queries, resulting in a 35% improvement in report generation time, enhancing the performance of the organization's database systems.\n- Successfully migrated 5 legacy databases to SQL Server, streamlining data management processes and reducing maintenance costs by 25%.\n- Played a key role in the development and implementation of a new donor matching algorithm, increasing match accuracy by 15%, leading to a higher success rate in bone marrow transplants.\n- Collaborated with cross-functional teams to design and implement a comprehensive data warehouse solution, consolidating data from various sources and improving data accessibility and analysis capabilities for the organization.\n\n## Education\n\n### Bachelor of Science in Information Technology, Focus in SQL Server Development\n*University of Minnesota, Twin Cities, MN (September 2018 - May 2022)*\n\n**Relevant Coursework:**\n\n- Database Management Systems\n- SQL Server Development\n- Data Warehousing and Analytics\n- Advanced Database Design\n- Network Administration\n- System Integration\n\n## Skills\n\n- T-SQL\n- SSIS\n- SSRS\n- SSAS\n- Power BI\n- Azure SQL\n- Database Optimization\n\n## Certifications\n\n- **Microsoft Certified: Azure Database Administrator Associate** (June 2021)\n- **Oracle MySQL Database Administrator Certified Professional** (March 2020)\n\n## Languages\n\n- English\n- Indonesian\n\n## Hobbies\n\n- Creating custom database applications\n\n## Memberships\n\n- Microsoft Certified Professional (MCP)\n- Professional Association for SQL Server (PASS)\n- Fellow of the Data Management Association International (DAMA)\n\n## High Remuneration\n\n- Commanded a high salary at Jamf Software, significantly above the industry average for SQL Server Developers, as evidenced by employment contracts and pay statements.\n",
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "high",
+            "reference": "Featured in a major trade publication for innovative database solutions, highlighting significant contributions to the field.",
+            "reasoning": "This fact demonstrates that Abigail's work has been recognized in a major trade publication, which is a strong indicator of her impact and relevance in the field."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "high",
+            "reference": "Played a key role in the development and implementation of a new donor matching algorithm, increasing match accuracy by 15%, leading to a higher success rate in bone marrow transplants.",
+            "reasoning": "This fact shows that Abigail made a significant original contribution to the field by developing a new algorithm that had a major impact on the success rate of bone marrow transplants."
+        },
+        {
+            "criteration": "Memberships",
+            "rating": "medium",
+            "reference": "Fellow of the Data Management Association International (DAMA)",
+            "reasoning": "Being a Fellow of DAMA indicates that Abigail has been recognized for her outstanding achievements in the field of data management by a professional association."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary at Jamf Software, significantly above the industry average for SQL Server Developers, as evidenced by employment contracts and pay statements.",
+            "reasoning": "This fact demonstrates that Abigail's compensation is high relative to others in her field, which is a strong indicator of her value and expertise."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Featured in a major trade publication for innovative database solutions, highlighting significant contributions to the field."
+        },
+        {
+            "type": "added",
+            "text": "- Fellow of the Data Management Association International (DAMA)"
+        },
+        {
+            "type": "added",
+            "text": "- Commanded a high salary at Jamf Software, significantly above the industry average for SQL Server Developers, as evidenced by employment contracts and pay statements."
+        },
+        {
+            "type": "removed",
+            "text": "- Member of a key committee within a distinguished organization."
+        }
+    ]
+}

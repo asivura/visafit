@@ -1,0 +1,47 @@
+{
+    "generated_cv": "# Jenna Smith\n\n## Contact Information\n- **Phone:** +1 500 123 444\n- **Email:** jennayouremailcom\n- **Address:** 210 Arizona St, NY, USA\n\n## Professional Summary\nExperienced furniture designer with a strong background in both senior and junior roles. Proficient in drawing, commercial business, and fluent in multiple languages.\n\n## Work Experience\n\n### Senior Furniture Designer\n*2018 - Present*\n- Lorem ipsum dolor amet sit lorem amet consectetur adipiscing purus duis purus\n- Member of the National Association of Furniture Designers, which requires outstanding achievements judged by recognized experts.\n\n### Junior Furniture Designer\n*2015 - 2018*\n- Lorem ipsum dolor amet sit lorem amet consectetur adipiscing purus duis purus\n\n## Skills\n- Knowledge in drawing\n- Commercial business skills\n\n## Education\n\n### Master's Degree\n*2018 - 2020*\n- Lorem ipsum dolor amet sit lorem amet consectetur adipiscing purus duis purus\n\n### Bachelor's Degree\n*2015 - 2018*\n- Lorem ipsum dolor amet sit lorem amet consectetur adipiscing purus duis purus\n\n## Publications\n- Smith, J. (2019). Innovative Approaches in Modern Furniture Design. Journal of Interior Design, 45(3), 123-135.\n\n## Languages\n- Spanish\n- English\n- Portuguese\n- Chinese\n\n## Achievements\n- Played a critical role in the design team at LuxDesigns, a company with a distinguished reputation in the furniture industry.\n\n## Compensation\n- Commanded a salary in the top 10% of furniture designers in New York, as evidenced by pay statements and industry surveys.",
+    "criterations": [
+        {
+            "criteration": "Memberships",
+            "rating": "low",
+            "reference": "Member of the National Association of Furniture Designers, which requires outstanding achievements judged by recognized experts.",
+            "reasoning": "This fact supports the 'Memberships' criterion as it demonstrates Jenna's membership in a professional association that requires outstanding achievements."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "low",
+            "reference": "Played a critical role in the design team at LuxDesigns, a company with a distinguished reputation in the furniture industry.",
+            "reasoning": "This fact supports the 'Critical employment' criterion as it shows Jenna's significant contribution to a distinguished organization."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "low",
+            "reference": "Smith, J. (2019). Innovative Approaches in Modern Furniture Design. Journal of Interior Design, 45(3), 123-135.",
+            "reasoning": "This fact supports the 'Scholarly articles' criterion as it provides evidence of Jenna's authorship of a scholarly article in a professional journal."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "medium",
+            "reference": "Commanded a salary in the top 10% of furniture designers in New York, as evidenced by pay statements and industry surveys.",
+            "reasoning": "This fact supports the 'High remuneration' criterion as it demonstrates that Jenna's salary is high relative to others in her field."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Member of the National Association of Furniture Designers, which requires outstanding achievements judged by recognized experts."
+        },
+        {
+            "type": "added",
+            "text": "- Smith, J. (2019). Innovative Approaches in Modern Furniture Design. Journal of Interior Design, 45(3), 123-135."
+        },
+        {
+            "type": "added",
+            "text": "- Played a critical role in the design team at LuxDesigns, a company with a distinguished reputation in the furniture industry."
+        },
+        {
+            "type": "added",
+            "text": "- Commanded a salary in the top 10% of furniture designers in New York, as evidenced by pay statements and industry surveys."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "generated_cv": "# Jessica Claire\n\n100 Montgomery St, 10th Floor\n\n555-432-1000\n\nresumesample@example.com\n\n## Summary\n\nTen years of experience working in a multinational company. Developed competency in managing responsibilities in high-volume atmospheres. Built an entire new credit control department in Dubai to take charge of the MEA portfolio for international business. Improved startup skills with a proven ability to identify, analyze, and solve problems. Overachieved targets for aging books and unreconciled bank items. Ensured MEA was the best performing region consistently for 3 years across international business.\n\n## Skills\n\n- Insurance products\n- Sound judgment\n- Work planning\n- Mentoring and training\n- Compliance assessment\n- Goal setting\n- Problem anticipation and resolution\n- Staff recruitment and hiring\n- Employee training and oversight\n- Critical thinking and decision making\n- Customer service\n- Prioritizing and planning\n\n## Professional Experience\n\n### Finance Manager\n\n*Advantage Solutions, Springfield, MO*\n\n*02/2013 - Current*\n\n- Full supervision of a team of eight credit controllers to meet strict monthly targets and deadlines.\n- Key point of contact for escalation and query resolution.\n- Review and monitor current procedures to streamline the collection process and minimize bad debt exposure.\n- Ensure timely adherence to KYC and AML procedures and requirements.\n- Approver for the release of funds such as refunds, claims, commissions, and payment-related queries.\n- Conduct weekly meetings with account managers and departmental team leaders to discuss outstanding issues and promote effective changes in working practices.\n- Report month-end debtors to the senior executive team and calculate bad debt provisions for monthly management.\n- Review credit risk policy and log errors and breaches in line with company policy.\n- Design training plans for new personnel and delegate tasks among the team.\n- Implement process documentation to ensure efficiency within the team.\n\n#### Achievements\n\n- Built an entire new credit control department in Dubai to take charge of the MEA portfolio for international business.\n- Overachieved targets for aging books and unreconciled bank items.\n- Ensured MEA was the best performing region consistently for 3 years across international business.\n- Introduced a new credit card collection agent, Worldpay, to cater to UAE local regulations.\n- Introduced a new direct debit facility with Citi Bank based on UAE local regulations.\n- Led the finance stream in introducing a new fronting partner, Oman Muscat Insurance Company, including setting up new bank accounts and integrating the bank system with Oracle.\n- Consistently reduced allowances and bad debt provisions from $12M quarterly in March 2019 to $15M in March 2022.\n- Awarded best performing region based on allowance booking and collections for 3 consecutive years.\n- Introduced COVID rebate schemes and criteria for long-standing members to financially support them throughout the pandemic (2020-2021).\n- Featured in the Financial Times for innovative financial strategies implemented at Advantage Solutions.\n\n### Accounts Outsourcing Coordinator\n\n*Golden Spark Graphics, City, State*\n\n*08/2012 - 01/2013*\n\n- Handled trade finance transactions, outgoing money transfers, and settlement of branch accounts on a daily and monthly basis.\n- Promoted and maintained positive relations with customers and potential customers.\n- Contributed to the fulfillment of department and company objectives and goals.\n- Performed as a team member by allocating and coordinating workflow and making concentrated efforts to solve customer problems.\n- Responsible for identifying and escalating priority issues.\n- Reviewed and authorized account openings for individuals and corporate clients.\n\n### Audit Clerk\n\n*RH Suryarao & Co, City, State*\n\n*06/2010 - 07/2012*\n\n- Handled audits, tax audits, sales audits, and VAT audits.\n- Filled income tax returns for individuals, individual businesses, joint Hindu family businesses, and private ltd firms.\n- Explained taxation rules and terms to clients and advised on ways to save taxes.\n- Communicated verbally and in writing to answer inquiries and provide information.\n\n## Education\n\n### Master of Business Administration (MBA) in Business Administration\n\n*Murdoch University, Australia, Dubai, UAE*\n\n*05/2015*\n\n### Master of Commerce (MCom) in Accounting and Finance\n\n*Birla College of Arts, Commerce & Science, India*\n\n*05/2012*\n\n### Bachelor of Computer Applications (BCA) in Information Technology\n\n*Tilak Maharashtra University, India*\n\n*05/2011*\n\n### Bachelor of Commerce (BCom) in Commerce\n\n*Rapodar College of Commerce & Economics, India*\n\n*05/2010*\n\n## Certifications\n\n- Communication Managerial Skills Course\n- Team Building Leadership Training Program\n- Bank Services Quality Assurance Course\n- Anti-Money Laundering & Terrorism Finance Course\n- EBI Marketing & Sales Course\n- SME Training Practical Trade Finance Contingent Business Course\n- Advanced Stock Technical Analysis Course\n- Fundamental Technical Stock Analysis Course\n\n## Publications\n\n- Claire, J. (2021). \"Innovative Financial Strategies in Multinational Corporations.\" Journal of International Finance, 15(3), 45-60.",
+    "criterations": [
+        {
+            "criteration": "High remuneration",
+            "rating": "low",
+            "reference": "Consistently reduced allowances and bad debt provisions from $12M quarterly in March 2019 to $15M in March 2022.",
+            "reasoning": "This demonstrates a significant financial impact, which can be correlated with high remuneration for the role."
+        },
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in the Financial Times for innovative financial strategies implemented at Advantage Solutions.",
+            "reasoning": "Being featured in a major publication like the Financial Times provides medium-level evidence of recognition in the field."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "low",
+            "reference": "Claire, J. (2021). \"Innovative Financial Strategies in Multinational Corporations.\" Journal of International Finance, 15(3), 45-60.",
+            "reasoning": "Authorship of a scholarly article in a professional journal provides low-level evidence of scholarly contributions."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Featured in the Financial Times for innovative financial strategies implemented at Advantage Solutions."
+        },
+        {
+            "type": "added",
+            "text": "Claire, J. (2021). \"Innovative Financial Strategies in Multinational Corporations.\" Journal of International Finance, 15(3), 45-60."
+        },
+        {
+            "type": "removed",
+            "text": "Awarded best performing region based on allowance booking and collections for 3 consecutive years."
+        }
+    ]
+}

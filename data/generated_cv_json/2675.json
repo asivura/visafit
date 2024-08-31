@@ -1,0 +1,27 @@
+{
+    "generated_cv": "# Karthik Maruppan\n\n## Contact Information\n- **Phone:** +91 99876xxxxxx\n- **Email:** xxx@gmail.com\n\n## Professional Summary\nSeeking assignments in web design and Java application development with an organization of repute, preferably in the industry. Location preference: Chennai, Bangalore.\n\nOffering nearly 3 years of experience in software development and web design. Well-versed in technology platforms such as Java/J2EE and web application development. Gained expertise in data structures and algorithms. Demonstrated skills in managing onsite and offshore team members throughout the project lifecycle, maintaining coordination with stakeholders, and providing regular updates on projects. Skilled in performing live tracing for customers to identify the root cause of problems.\n\n## Work Experience\n\n### Infosys Limited, Trivandrum\n*August 2010 - Present*\n- **Role:** Sr. Systems Engineer\n- Implementing project plans within preset budgets and deadlines.\n- Monitoring offshore delivery management and technical deliverables for concurrent projects.\n- Understanding client needs, requirements, and expectations to devise solutions accordingly.\n- Heading service delivery functions to ensure end-to-end ownership of incidents and service requests.\n- Meeting deadlines and turnaround time without compromising quality norms.\n- Defining and adhering to SLAs.\n- Coordinating with clients for needs, enhancements, and customization.\n- Providing solutions for software-related issues.\n- Ensuring adherence to delivery schedules.\n- Coordinating development and reviewing service level targets.\n- Ensuring timely closure of priority tickets.\n- Developed a proprietary algorithm for optimizing web application performance, which has been cited in multiple industry publications.\n- Commanded a salary in the top 10% of the industry for Sr. Systems Engineers, as evidenced by pay statements and industry compensation surveys.\n\n## Technical Skills\n- **Programming Languages:**\n  - Java (Advanced)\n  - C (Advanced)\n  - C++ (Advanced)\n  - Certified in Data Structures and Algorithm Development\n- **Databases:**\n  - MS SQL Server (Advanced, Certified)\n  - MySQL (Advanced)\n  - Oracle (Intermediate)\n- **Web Designing Tools/Languages:**\n  - JSP (Advanced)\n  - JavaScript (Advanced)\n  - jQuery (Intermediate)\n  - CSS (Advanced)\n  - AJAX (Intermediate)\n- **Tools & Utilities:**\n  - Eclipse (Advanced)\n  - WebSphere Application Developer (Advanced)\n  - Tomcat (Advanced)\n- **Designing Software:**\n  - Photoshop (Advanced)\n  - 3D Studio Max (Intermediate)\n  - Illustrator (Intermediate)\n\n## Education\n- **Mechanical Engineering**\n  - College: Sriperumbdur, Tamil Nadu\n  - Year: 2010\n  - Marks: 78%\n\n## Personal Details\n- **Date of Birth:** 3rd November 1988\n- **Languages Known:**\n  - English\n  - Tamil\n  - Hindi\n  - Malayalam\n",
+    "criterations": [
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Developed a proprietary algorithm for optimizing web application performance, which has been cited in multiple industry publications.",
+            "reasoning": "The development of a proprietary algorithm that has been cited in multiple industry publications demonstrates an original contribution of major significance in the field."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a salary in the top 10% of the industry for Sr. Systems Engineers, as evidenced by pay statements and industry compensation surveys.",
+            "reasoning": "Commanding a salary in the top 10% of the industry for Sr. Systems Engineers, as evidenced by pay statements and industry compensation surveys, demonstrates high remuneration."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Developed a proprietary algorithm for optimizing web application performance, which has been cited in multiple industry publications."
+        },
+        {
+            "type": "added",
+            "text": "Commanded a salary in the top 10% of the industry for Sr. Systems Engineers, as evidenced by pay statements and industry compensation surveys."
+        }
+    ]
+}

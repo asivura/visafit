@@ -1,0 +1,51 @@
+{
+    "generated_cv": "# Kamala Pollich\n\n## Personal Information\n\n- **Address:** 189 Flatley Glens, Chicago, IL\n- **Phone:** 1 555 691 9342\n\n## Professional Summary\n\nPassionate Corporate Banking Analyst with extensive experience in capital markets, real estate, and credit/debt. Progressing towards CFA and accounting designation. Known for well-developed written communication skills, outstanding academic achievements, and previous banking and credit risk management experience. Proficient in PC skills, particularly Excel, Access, and PowerPoint, with programming experience in Python and SQL. Experienced in data visualization tools like QlikView and Power BI. Works well in collaborative environments.\n\n## Work Experience\n\n### Corporate Banking Analyst\n**Hane Stoltenberg Ortiz, Detroit, MI**\n*April 2019 - Present*\n\n- Bringing robust knowledge of complex credit risk structuring, judgmental credit lending, and banking products.\n- Ensuring well-thought credit decisions and recommendations.\n- Maintaining detailed knowledge of economic, interest rate, and global capital market conditions.\n- Fostering a learning culture and actively supporting the ongoing development of people.\n- Superior knowledge of a broad range of products along with expertise in select product services.\n- Established internal and external industry networks and relationships.\n- Strong communication, presentation, and influencing skills.\n- Previous credit review experience and strong analytical skills.\n- Proficient in PC spreadsheet skills.\n- **Played a critical role in securing a $500 million credit deal for a major client, significantly contributing to the firm's annual revenue.**\n\n### Corporate Banking\n**Wilkinson Kuhlman Labadie, Detroit, MI**\n*December 2012 - April 2019*\n\n- Previous banking experience requiring strong analytical skills.\n- Strong PC spreadsheet skills.\n\n## Education\n\n### Bachelor of Finance\n**Oregon State University**\n\n## Publications\n\n- Pollich, K. (2020). \"Innovative Credit Risk Management Strategies.\" *Journal of Corporate Finance*, 15(3), 45-60.\n\n## Skills\n\n- Familiar with concepts and ratios of corporate credit analysis.\n- Financial acumen and knowledge of accounting.\n- Proficient in the use of Excel and Hogan bank systems.\n- Proficient in Microsoft Office products suite, particularly Excel.\n- Financial analysis, research, and report development.\n- Thorough knowledge of credit analysis, credit administration, credit policy, and procedures.\n- Risk analysis.\n- Demonstrated interest and knowledge of financial markets.\n- Solid understanding of financial statements and accounting.\n- Proficiency in Spanish, Portuguese, and/or French would be an asset.\n\n## Awards\n\n- **Recipient of the 2018 National Corporate Finance Award for Excellence in Credit Risk Management.**\n\n## Contributions\n\n- **Developed an original credit risk assessment model that has been adopted by multiple financial institutions, significantly improving their risk management processes.**",
+    "criterations": [
+        {
+            "criteration": "Critical employment",
+            "rating": "high",
+            "reference": "Played a critical role in securing a $500 million credit deal for a major client, significantly contributing to the firm's annual revenue.",
+            "reasoning": "This fact demonstrates Kamala's critical role in a significant financial transaction, highlighting her importance to the organization."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Pollich, K. (2020). \"Innovative Credit Risk Management Strategies.\" Journal of Corporate Finance, 15(3), 45-60.",
+            "reasoning": "This publication in a professional journal showcases Kamala's contribution to scholarly articles in her field."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "high",
+            "reference": "Developed an original credit risk assessment model that has been adopted by multiple financial institutions, significantly improving their risk management processes.",
+            "reasoning": "This demonstrates Kamala's original contribution to the field of credit risk management, which has been recognized and adopted by other institutions."
+        },
+        {
+            "criteration": "Awards",
+            "rating": "medium",
+            "reference": "Recipient of the 2018 National Corporate Finance Award for Excellence in Credit Risk Management.",
+            "reasoning": "This award highlights Kamala's recognition for excellence in her field, supporting the criterion of receiving nationally recognized awards."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Played a critical role in securing a $500 million credit deal for a major client, significantly contributing to the firm's annual revenue."
+        },
+        {
+            "type": "added",
+            "text": "Pollich, K. (2020). \"Innovative Credit Risk Management Strategies.\" Journal of Corporate Finance, 15(3), 45-60."
+        },
+        {
+            "type": "added",
+            "text": "Developed an original credit risk assessment model that has been adopted by multiple financial institutions, significantly improving their risk management processes."
+        },
+        {
+            "type": "added",
+            "text": "Recipient of the 2018 National Corporate Finance Award for Excellence in Credit Risk Management."
+        },
+        {
+            "type": "removed",
+            "text": "Proficiency in Spanish, Portuguese, and/or French would be an asset."
+        }
+    ]
+}

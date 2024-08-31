@@ -1,0 +1,51 @@
+{
+    "generated_cv": "# Jessica Claire Montgomery\n\n## Contact Information\n- **Address:** Montgomery Street, San Francisco, CA 94105\n- **Phone:** 555-432-1000\n- **Email:** resumesample@example.com\n\n## Professional Summary\nSuccessful banking professional with unsurpassed attention to detail and superior ethics. Focused on balancing customer needs with bank sales target goals. Dedicated to building and strengthening customer relationships.\n\n## Skills\n- Customer Service\n- Proactive and Focused\n- Relationship Building\n- Prioritizing and Planning\n- Sound Judgment\n- Time Management\n\n## Work Experience\n\n### Business Banking Administrator\n*First National Bank Texas, Dallas, TX*\n*July 2021 - Current*\n- Prioritized planning with sound judgment and time management.\n- Supported the commercial loan team with clerical tasks and loan processing duties.\n- Assisted loan officers with application data acquisition and verification.\n- Examined and verified information on loan application and closing documents.\n- Prioritized and organized tasks efficiently to accomplish service goals.\n- Juggled multiple projects and tasks to ensure high-quality and timely delivery.\n\n### Senior Personal Banker\n*CrossFirst Bankshares Inc, Dallas, TX*\n*October 2019 - July 2021*\n- Built strong rapport with new and existing clients to better serve their financial needs and promote branch loyalty.\n- Partnered with loan and mortgage officers and financial advisors to provide clients with optimal financial solutions.\n- Helped customers open and close accounts, apply for loans, and make sound financial decisions.\n- Processed sales referrals and promoted bank services and products, resulting in a 40% branch sales increase.\n\n### Personal Banker\n*BancFirst Corporation, Mustang, OK*\n*May 2012 - October 2019*\n- Helped customers open and close accounts, apply for loans, and make sound financial decisions.\n- Built strong rapport with new and existing clients to better serve their financial needs and promote branch loyalty.\n- Partnered with loan and mortgage officers and financial advisors to provide clients with optimal financial solutions.\n- Surpassed annual quota by 140% in sales and consistently met service team sales targets and call handling quotas.\n\n### Teller Supervisor\n*University of Miami Miller School of Medicine, Coral Gables, FL*\n*May 2011 - May 2012*\n- Supplied tellers with coin and currency and maintained optimal financial controls.\n- Verified transactions involving cashier's checks, money orders, and account transfers.\n- Managed and balanced cash vault audits and general ledger accounts.\n- Promoted facility security by monitoring customer behaviors and following established protocols to protect individuals and assets.\n\n### Office Assistant\n*Keysight Technologies, Washington, DC/VA*\n*July 2008 - April 2011*\n- Updated financial, customer, and business records in company databases.\n- Organized files, developed spreadsheets, faxed reports, and scanned documents to bolster organizational workflow.\n- Collected payments, issued receipts, and updated accounts to reflect new balances.\n- Offered diverse clerical support to office team members, managed correspondence, answered telephone calls, tracked documentation, and maintained business records.\n\n### Customer Service Rep/Floor Support Supervisor\n*Emerson Hospital, Bedford, MA*\n*August 2007 - January 2008*\n- Responded to customer contacts, received incoming calls, and handled problems, questions, and situations for customers.\n- Accurately entered customer information and trained staff to provide excellent customer service to challenging customers.\n- Monitored a team of 16 customer service representatives to assess knowledge, tone, and adherence to company policy.\n\n### Customer Service\n*Dick Blick Art Materials, [City, State]*\n*March 2005 - February 2007*\n- Answered incoming calls and provided customer problem-solving.\n- Worked with drop ship vendors, processed vendor chargebacks, and filed damage/loss claims with freight carriers.\n- Answered customer questions about products and services and recommended appropriate solutions.\n- Reviewed customer complaints to determine appropriate methods of resolution.\n\n### Lead Teller/Personal Banker\n*Wells Fargo Bank NA, [City, State]*\n*July 1997 - March 2005*\n- Supervised teller staff and trained new employees.\n- Maintained security control manuals and monitored incoming and outgoing cash vault.\n- Developed and maintained customer relationships, prepared loan documents, and set closings.\n\n### Unit Secretary\n*St. Mary Medical Center, [City, State]*\n*April 1994 - July 1997*\n- Registered patients, answered incoming calls, ordered lab work and X-rays, and initiated and managed trauma alerts.\n- Entered patient charges for billing and scheduled outpatient procedures and admissions.\n- Conducted patient intake interviews to collect medical information and insurance details.\n\n## Education\n- **Medical Terminology, EMT-B**\n  *Carl Sandburg College, Galesburg, IL*\n  *January 2001*\n  *GPA: 3.5*\n- **Business**\n  *Carl Sandburg College, Galesburg, IL*\n\n## Accomplishments\n- Exceeded sales goals by an average of 140% in one year.\n- Promoted to Senior Banker due to sales achievements.\n- Surpassed annual goals consistently.\n- **Awarded the National Banking Excellence Award in 2020 for outstanding performance in the banking sector.**\n- **Featured in the Financial Times in 2021 for innovative banking solutions and customer service excellence.**\n- **Member of the National Association of Banking Professionals, recognized for outstanding achievements in the field.**\n- **Served as a peer reviewer for the Journal of Banking and Finance in 2022.**\n",
+    "criterations": [
+        {
+            "criteration": "Judging",
+            "rating": "low",
+            "reference": "Served as a peer reviewer for the Journal of Banking and Finance in 2022.",
+            "reasoning": "This fact demonstrates Jessica's participation as a judge of the work of others in her field, fulfilling the 'Judging' criterion at a low level."
+        },
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Awarded the National Banking Excellence Award in 2020 for outstanding performance in the banking sector.",
+            "reasoning": "This award is nationally recognized and highlights Jessica's excellence in her field, strongly supporting the 'Awards' criterion."
+        },
+        {
+            "criteration": "Press",
+            "rating": "high",
+            "reference": "Featured in the Financial Times in 2021 for innovative banking solutions and customer service excellence.",
+            "reasoning": "Being featured in a major publication like the Financial Times for her work supports the 'Press' criterion at a high level."
+        },
+        {
+            "criteration": "Memberships",
+            "rating": "medium",
+            "reference": "Member of the National Association of Banking Professionals, recognized for outstanding achievements in the field.",
+            "reasoning": "Membership in a professional association that recognizes outstanding achievements supports the 'Memberships' criterion at a medium level."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Awarded the National Banking Excellence Award in 2020 for outstanding performance in the banking sector."
+        },
+        {
+            "type": "added",
+            "text": "Featured in the Financial Times in 2021 for innovative banking solutions and customer service excellence."
+        },
+        {
+            "type": "added",
+            "text": "Member of the National Association of Banking Professionals, recognized for outstanding achievements in the field."
+        },
+        {
+            "type": "added",
+            "text": "Served as a peer reviewer for the Journal of Banking and Finance in 2022."
+        },
+        {
+            "type": "removed",
+            "text": "Promoted to Senior Banker due to sales achievements."
+        }
+    ]
+}

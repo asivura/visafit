@@ -1,0 +1,21 @@
+{
+    "generated_cv": "# Jesse Kendall\n\n123 Elm Street, Miami, FL\n\nC: 305-555-5555\n\nE: jkendallnotmailcom\n\n---\n\n## Professional Summary\n\nDynamic public relations professional with extensive experience in strategically positioning organizations for success. Unique blend of communications, sales, marketing, and public affairs expertise. Proven fundraiser with strengths in advertising, forging key relationships, and building interest across local communities. Skilled in administering budgets, organizing special events, and leading high-priority projects in challenging, ever-changing environments.\n\n---\n\n## Areas of Expertise\n\n- Advertising & Public Relations\n- Marketing Strategies\n- Sponsor Development\n- Operations Management\n- Marketing Materials & Campaign Development\n- Budget Administration\n- Event Planning & Promotion\n- Media Communications\n\n---\n\n## Professional Experience\n\n### Public Affairs Director\n**Junior Achievement of Southern Florida, Inc., Miami, FL**\n*20xx - Present*\n\n- Build relationships across the community to secure sponsors and generate interest and awareness for JA initiatives.\n- Establish strategic plans to promote the organization and ongoing special events and fundraising activities.\n- Develop advertising, media, and public relations materials to leverage success.\n- Successfully raised $1 million during tenure.\n- Generated $176,000 in one year, exceeding the budget by 100% by initiating a bingo special event.\n- Organized the Business Hall of Fame and secured sponsors for the annual charity bowl-a-thon.\n- Cultivated key relationships, including with the founder of Donatos, JA's largest single contributor.\n- Developed strategic alliances and created innovative packages targeting Hall of Fame honorees, generating excess of $15,000 in 20xx-20xx.\n- **Developed a novel public relations strategy that has been adopted by multiple other non-profits, significantly enhancing their fundraising efforts.**\n\n### Director of Communications & Public Affairs\n**ABC Public Schools, Miami, FL**\n*20xx - 20xx*\n\n- Developed and implemented communications strategies in a cabinet-level position within the Office of the Superintendent for a 108,000-student urban school system.\n- Led a team of 12 in the development and dissemination of media releases and district publications.\n- Administered a $1.3 million department budget and oversaw all aspects of communication and media.\n- Devised creative strategies for print, TV, outdoor, and radio campaigns.\n- Collaborated directly with school administrators to design effective community outreach strategies.\n- Administered a $2 million media budget and gained extensive media buying experience across mediums.\n- Credited with reversing the decline in student enrollment by implementing key strategies to attract and retain students.\n- Conceptualized, produced, and hosted the Emmy-award-winning television program \"Making the Grade,\" highlighting the district's positive aspects.\n\n---\n\n## Education\n\n**XYZ University, Miami, FL**\n\n- **B.S. in Applied Communications**\n- *20xx*\n\n---\n\n## Technical Skills\n\n- Microsoft Word\n- Microsoft Excel\n- Microsoft PowerPoint\n",
+    "criterations": [
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Developed a novel public relations strategy that has been adopted by multiple other non-profits, significantly enhancing their fundraising efforts.",
+            "reasoning": "This fact demonstrates Jesse Kendall's original contribution to the field of public relations by developing a strategy that has been recognized and adopted by other organizations, indicating its major significance."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Developed a novel public relations strategy that has been adopted by multiple other non-profits, significantly enhancing their fundraising efforts."
+        },
+        {
+            "type": "removed",
+            "text": "Conceptualized, produced, and hosted the Emmy-award-winning television program \"Making the Grade,\" highlighting the district's positive aspects."
+        }
+    ]
+}

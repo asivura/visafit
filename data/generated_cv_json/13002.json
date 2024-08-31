@@ -1,0 +1,27 @@
+{
+    "generated_cv": "# Jessica Claire\n\n## Contact Information\n- **Address:** 100 Montgomery St, 10th Floor\n- **Phone:** 555-432-1000\n- **Email:** resumesample@example.com\n\n## Professional Summary\nResourceful nurse with 20 years of experience in patient care and collaboration with healthcare staff. Well-rounded individual skilled in providing emotional support to patients and families, performing diagnostic tests, and administering medication. In-depth knowledge of emergency care, nursing techniques, and methods. Hardworking and compassionate, with a desire to positively impact patients and their families.\n\n## Skills\n- Expert in compassionate care\n- Handling needs in highly-structured and unstructured environments\n- Coordinating simultaneous patient needs\n- Charting and documentation\n- Medication and IV administration\n- Wound care\n- Taking vital signs\n- Building trust and rapport\n- HIPAA confidentiality\n- Intake and discharge\n- Dispensing medication\n- Triaging patient concerns\n- Diabetes management\n- Broad medical terminology knowledge\n\n## Work Experience\n\n### RN Staff Nurse, Pre Admission Testing\n**NorthShore, Glenview, IL**\n*September 2017 - Current*\n- Promoted healthy lifestyle choices to reduce reemergence of symptoms\n- Answered patient questions and provided take-home materials\n- Reviewed physician orders to optimize patient safety\n- Facilitated strategic goals to increase satisfaction and improve outcomes\n- Mentored new nurses in practices and procedures\n- Used facility EMR system to update patient records\n- Conducted patient assessments and diagnostic tests\n- Recognized with the \"Excellence in Nursing\" award by the Illinois Nurses Association in 2019\n\n### School Nurse\n**Sparkman, James Clemons, Madison County Schools, City, State**\n*April 2009 - September 2017*\n- Assisted in the development of school safety plans\n- Evaluated students' health concerns and injuries\n- Developed care plans and provided references to healthcare providers\n- Addressed patient care needs and collected vitals\n- Managed catheters and coordinated with families, school personnel, and healthcare professionals\n- Used facility EMR system to update patient records\n- Administered oral, intramuscular, and IV medications\n- Counseled patients and caregivers\n- Responded to emergency situations with speed and expertise\n\n### RN Staff Nurse, Preop/Post Recovery\n**Huntsville Hospital, City, State**\n*January 1999 - April 2009*\n- Administered oral, intramuscular, and IV medications\n- Answered patient questions and provided take-home materials\n- Explained treatment procedures and medication risks\n- Circulated throughout multiple hospital departments\n- Monitored and recorded patient conditions and vital signs\n- Participated in medication management to optimize patient safety\n- Addressed rapid response code situations\n\n### Staff Nurse, Emergency Room\n**Huntsville Hospital, City, State**\n*August 1996 - January 1999*\n- Triaged incoming patients and communicated with doctors\n- Managed complete processing of patients\n- Collected personal information and contacted relatives\n- Cared for patients of all ages\n- Monitored and recorded patient conditions and vital signs\n- Administered oral, intramuscular, and IV medications\n- Conducted patient assessments and diagnostic tests\n- Stabilized patients and provided direct patient care\n- Supported criminal inquiries by reporting injuries and completing evidence collection kits\n\n## Education\n\n### Bachelor of Science in Health Information Technology\n**University of Alabama, Birmingham, AL**\n\n### Bachelor of Science in Nursing\n**Auburn University, Auburn, AL**\n\n### Master of Science in Education\n**Alabama University, Normal, AL**\n*May 1993 - May 1996*\n\n## Additional Information\n- Commanded a salary in the top 10% of nurses in the state of Illinois for the past 5 years, as evidenced by tax returns and pay statements.",
+    "criterations": [
+        {
+            "criteration": "High remuneration",
+            "rating": "low",
+            "reference": "Commanded a salary in the top 10% of nurses in the state of Illinois for the past 5 years, as evidenced by tax returns and pay statements.",
+            "reasoning": "This fact demonstrates that Jessica Claire has commanded a high salary relative to others in her field, which supports the 'High remuneration' criterion with a low rating."
+        },
+        {
+            "criteration": "Awards",
+            "rating": "low",
+            "reference": "Recognized with the \"Excellence in Nursing\" award by the Illinois Nurses Association in 2019",
+            "reasoning": "This award from a well-known state-level professional association supports the 'Awards' criterion with a low rating."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Recognized with the \"Excellence in Nursing\" award by the Illinois Nurses Association in 2019"
+        },
+        {
+            "type": "added",
+            "text": "- Commanded a salary in the top 10% of nurses in the state of Illinois for the past 5 years, as evidenced by tax returns and pay statements."
+        }
+    ]
+}

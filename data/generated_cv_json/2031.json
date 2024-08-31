@@ -1,0 +1,27 @@
+{
+    "generated_cv": "# Nasrun Mohd Mokhtar, CEH\n\n**Location:** Seremban, Negeri Sembilan, Malaysia\n\n**Contact:**\n- Phone: +60 12-612-1652\n- Email: nasrunmm@gmail.com\n- LinkedIn: [linkedin.com/in/nasrunmohdmokhtar](https://www.linkedin.com/in/nasrunmohdmokhtar)\n\n## Professional Summary\n\nSenior Security Engineer with 10 years of experience in enterprise networking and network security, primarily using Cisco ISR, ASA Firewall/IPS, Firepower, Catalyst switches, and Juniper SRXes. Experienced in process control systems, plant information, PLC infrastructures, identity management systems (RSA SecurID), and various server environments (Windows, AIX, Linux). Adept at learning new technologies quickly and committed to achieving goals. Certified Ethical Hacker (CEH) and currently pursuing CISSP certification.\n\n## Certifications\n\n- **Certified Ethical Hacker (CEH)**, EC-Council\n  - License: ECC58430201775\n  - *Oct 2016*\n- **Certified Specialist Security (JNCIS-SEC)**, Juniper Networks\n  - *Oct 2016 - Oct 2010*\n- **Certified Associate Junos (JNCIA-Junos)**, Juniper Networks\n  - *Present*\n\n## Work Experience\n\n### Senior Network Security Engineer\n**ExxonMobil Business Support Center Malaysia Sdn Bhd**\n*Jan 2019 - Present*\n\n- Responsible for enterprise security using firewalls and IPSes to protect corporate DMZ, process control terminals, and external 3rd party connections, mainly using Cisco IPS, Firepower, and Juniper SRXes.\n- Led a network refresh project, reducing the number of firewalls deployed from 28 to 2 pairs, thus reducing CAPEX and maintenance costs.\n- Developed a new standard network design using VRF, combining old process control networks and corporate network within a physical network without sacrificing security.\n- Redesigned the distribution terminal network to include a new DMZ security zone, ensuring separate controls for corporate traffic and new server requirements.\n- Ensured continuous support for access control infrastructure (RSA SecurID) by migrating from RSA 6.1 Authentication Manager to the latest version 8.1 smoothly within 6 months, without interrupting business operations.\n- Played a critical role in the cybersecurity team that protected ExxonMobil's critical infrastructure, contributing significantly to the company's overall security posture.\n\n## Skills\n\n- Enterprise Networking\n- Network Security\n- Cisco ISR, ASA Firewall/IPS, Firepower\n- Juniper SRXes\n- Process Control Systems\n- Identity Management Systems (RSA SecurID)\n- Windows, AIX, Linux Servers\n- Databases: DB2, MySQL, Oracle\n- Microwave Radio (Harris Stratex/Aviat Networks)\n\n## Education\n\n*Details not provided in the original CV*\n\n## Achievements\n\n- Successfully reduced the number of firewalls deployed from 28 to 2 pairs, significantly cutting costs.\n- Smoothly migrated RSA Authentication Manager to the latest version without business interruption.\n- Awarded the \"Excellence in Network Security\" award by the Malaysian Cybersecurity Association in 2020 for outstanding contributions to the field.\n\n---\n\n*Additional sections such as Education, Publications, Volunteer Work, and Languages were not provided in the original CV.*",
+    "criterations": [
+        {
+            "criteration": "Critical employment",
+            "rating": "low",
+            "reference": "Played a critical role in the cybersecurity team that protected ExxonMobil's critical infrastructure, contributing significantly to the company's overall security posture.",
+            "reasoning": "This fact demonstrates that Nasrun played a critical role in a distinguished organization, which is a key aspect of the 'Critical employment' criterion."
+        },
+        {
+            "criteration": "Awards",
+            "rating": "medium",
+            "reference": "Awarded the \"Excellence in Network Security\" award by the Malaysian Cybersecurity Association in 2020 for outstanding contributions to the field.",
+            "reasoning": "This award from a national association supports the 'Awards' criterion, showing recognition of Nasrun's excellence in his field."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Played a critical role in the cybersecurity team that protected ExxonMobil's critical infrastructure, contributing significantly to the company's overall security posture."
+        },
+        {
+            "type": "added",
+            "text": "Awarded the \"Excellence in Network Security\" award by the Malaysian Cybersecurity Association in 2020 for outstanding contributions to the field."
+        }
+    ]
+}

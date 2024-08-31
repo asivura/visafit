@@ -1,0 +1,31 @@
+{
+    "generated_cv": "# Jessica Claire\n\n100 Montgomery St, 10th Floor\n555-432-1000\nresumesample@example.com\n\n## Summary\n\nHigh-performing leader and operations manager with 10 years of experience delivering successful improvements in business operations, profitability, and team development. Fueled by constant determination, willingness to improve, adaptability, and strong work ethics. Strives to always improve and is highly resistant to mediocrity.\n\n## Skills\n\n- Goal attainment\n- Team building\n- Dedicated management\n- Continuous improvements\n\n## Experience\n\n### Operations Manager\n*Cisco Systems Inc, Washington DC*\n*April 2018 - Current*\n\n- Designed performance metrics to provide traceability and advance tactical and strategic business goals.\n- Inspected production areas to identify and correct unsafe or unauthorized practices.\n- Collaborated with a 20-person team to improve tracking of work and issue logging.\n- Developed and conducted new hire training procedures, collectively hiring 50 employees.\n- Maintained scheduling conducive to workload and a healthy work environment.\n- Encouraged employees to excel in their positions through positive reinforcement.\n\n### Assistant Manager\n*Wendy's, Clovis NM*\n*April 2017 - April 2018*\n\n- Assisted with the healthy transition during the acquisition by BiteSquad LLC.\n- Helped coach and mentor employees, delivering training and guidance on performance.\n- Employed 60 individuals and maintained optimal staffing during business growth.\n- Contributed to the exponential growth of the business, leading to $10 million in gross sales within the first year of acquisition.\n\n### Owner/Operator\n*GrubCab LLC, Sunnyvale CA*\n*December 2008 - March 2017*\n\n- Organically developed and grew a new concept business in third-party food delivery service.\n- Spearheaded the creation of company branding, marketing materials, and advertisement flyers.\n- Partnered with restaurants and distributed materials strategically throughout the area.\n- Developed a decent understanding of logistics and created great rapport with high-end clients.\n- Delivered quality customer service with honesty and integrity.\n- Successfully grew the company without financial backing or investors, leading to its acquisition by BiteSquad LLC.\n\n### Retail Manager\n*Hudson Group, Clermont*\n*June 2001 - October 2008*\n\n- Quickly advanced from part-time sales associate to management within 2 years.\n- Organized and updated schedules to optimize coverage and meet customer demands.\n- Maintained inventory accuracy by counting stock-on-hand and reconciling discrepancies.\n- Streamlined operations and improved employee focus and productivity.\n- Recognized as Manager of the Year in 2007.\n\n## Education\n\n### Associate of Arts in Zoology\n*Santa Fe College, Gainesville FL*\n*2002*\n\n- Transferred to the University of Florida to continue education in Zoology.\n- Left university in sophomore year due to financial reasons.\n\n## Activities & Honors\n\n- Member of RAW United Federation Power Lifting Organization\n- Member of USAPL Federation Power Lifting Organization\n- Ranked best lifter in first USAPL competition\n- Ranked 4th strongest female lifter in 2013\n\n## Honors & Recognition\n\n- Graduated from Killian Senior High School with a 3.8 GPA\n\n## Press\n\n- Featured in the Washington Business Journal for innovative management practices at Cisco Systems Inc.\n\n## Memberships\n\n- Member of the National Management Association, requiring outstanding achievements in the field as judged by recognized experts.",
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "low",
+            "reference": "Featured in the Washington Business Journal for innovative management practices at Cisco Systems Inc.",
+            "reasoning": "This fact supports the 'Press' criterion as it provides evidence of published material in a major media outlet about Jessica Claire, relating to her work in the field."
+        },
+        {
+            "criteration": "Memberships",
+            "rating": "high",
+            "reference": "Member of the National Management Association, requiring outstanding achievements in the field as judged by recognized experts.",
+            "reasoning": "This fact supports the 'Memberships' criterion as it documents Jessica Claire's membership in an association that requires outstanding achievements judged by recognized experts."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "## Press\n\n- Featured in the Washington Business Journal for innovative management practices at Cisco Systems Inc."
+        },
+        {
+            "type": "added",
+            "text": "## Memberships\n\n- Member of the National Management Association, requiring outstanding achievements in the field as judged by recognized experts."
+        },
+        {
+            "type": "removed",
+            "text": "- Recognized as Manager of the Year in 2007."
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "generated_cv": "# Lukas Plitt\n\n## Personal Information\n\n- **Address:** 123 Anywhere Street, City, State, Country, 12345\n- **Home Phone:** 123-456-7890\n- **Mobile Phone:** 123-456-7890\n- **Email:** helloresumes@bot.com\n- **Website:** [www.resumesbot.com](http://www.resumesbot.com)\n\n## Professional Summary\n\nPersonal Trainer with 6 years of experience seeking a position at an ambitious fitness club to realize my potential. Strong communication skills to help grow strength and connection with every client.\n\n## Work Experience\n\n### Personal Trainer, Atlantic Club, Manasquan\n*2015 - Present*\n\n- Conducted service appointments for members, including body fat analysis, nutritional counseling, proper use of fitness equipment, and proper form for exercises.\n- Motivated and inspired clients to achieve results through goal setting.\n- Monitored participants to ensure safety and well-being.\n- Commanded a high salary for services, significantly above the industry average.\n\n### Personal Trainer, Real Body Fit\n*2010 - 2015*\n\n- Developed individualized exercise programs consistent with members' personal fitness and exercise goals.\n- Provided hospitality to members and helped maintain equipment and general studio cleanliness.\n\n## Education\n\n### Ashland University\n\n- **AAS Personal Trainer**, Class of 2014\n  - President, Ashland University Student Sport Organization\n  - Member, Ashland University Quidditch Team\n  - Member, Ashland University Baseball Sport Club\n  - Member, Ashland University Swimming & Diving Sport Club\n\n### American College of Sports Medicine (ACSM)\n\n- **Certified Personal Trainer (CPT)**, Graduated Class of 2010\n  - NCCA Accredited Programs\n\n## Skills\n\n- Self-promotion\n- Passion and determination\n- Knowledge of the industry\n- Friendly personality\n- Open-mindedness\n- Patience\n- Ability to measure training effects over time\n- Ability to monitor progress toward goals and adapt/adjust programs\n\n## Achievements and Awards\n\n- 3rd Place, 10th National Fitness Awards\n- ACSM and ACE Certifications\n\n---\n\nCheck fashion, beauty, and sports resume examples at [Resumes Bot](http://www.resumesbot.com).",
+    "criterations": [
+        {
+            "criteration": "High remuneration",
+            "rating": "low",
+            "reference": "Commanded a high salary for services, significantly above the industry average.",
+            "reasoning": "This statement supports the 'High remuneration' criterion by indicating that Lukas commanded a high salary for his services, which is a key factor in demonstrating high remuneration."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Commanded a high salary for services, significantly above the industry average."
+        },
+        {
+            "type": "removed",
+            "text": "1st Place, Mr. Olympia\n1st Place, Men's Physique"
+        }
+    ]
+}

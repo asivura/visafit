@@ -1,0 +1,27 @@
+{
+    "generated_cv": "# Robert Smith\n\n## Contact Information\n- **Phone:** 0123456789\n- **Email:** info@qwikresume.com\n- **Website:** [qwikresume.com](http://qwikresume.com)\n\n## Professional Summary\nSenior ETL Developer with 6 years of professional experience in the software/IT industry, specializing in data engineering and data warehousing. Expertise in data analysis, design, and implementation of database ETL processes using Informatica PowerCenter. Proficient in writing, optimizing, and tuning SQL queries. Domain experience in major sectors including banking, retail, and insurance.\n\n## Core Competencies\n- Informatica PowerCenter 9.x/8.x\n- Informatica Data Quality (IDQ)\n- Master Data Management (MDM)\n- Databases: SQL Server, DB2, MySQL, PostgreSQL\n- Languages: SQL, PL/SQL, C, Unix Shell Scripting, Python\n- Operating Systems: Unix, Windows, Linux, Macintosh\n- DB Tools: TOAD, SQL*Plus, SQL Developer, SQL Server Management Studio\n- Tools: AutoSys, Cognos, SSRS, APEX\n\n## Professional Experience\n\n### Senior ETL Developer, Rabobank NA\n*June 2014 - Present*\n- Involved in receiving web service calls from external vendors to perform ETL and integrate with the bank's internal host using Informatica Data Integration Hub.\n- Partnered with the BI team and multiple cross-functional teams to implement advanced analytics for customers and products.\n- Worked on integrating customer data from multiple data sources to achieve consistency and provide a single source of truth for business decision-making.\n- Gathered business requirements from business users and performed extensive data analysis on the internal host system.\n- Worked closely with business analysts to create mapping documents and design complex custom ETL code based on requirements from external vendors and internal hosts.\n- Modified schema and XSDs based on changing requirements.\n- Featured in a major trade publication for innovative data integration solutions implemented at Rabobank NA.\n\n### Senior ETL/Data Engineer, Nike Inc.\n*October 2012 - May 2014*\n- Performed unit testing and supported business users during UAT by analyzing issues raised and performing bug fixes.\n- Successfully integrated multiple web service sources and targets as a web service consumer.\n- Commanded a high salary relative to industry standards, as evidenced by pay statements and comparative wage data.\n\n## Education\n\n## Achievements\n\n## Additional Information\n- **Address:** 2259 Oak Street, Old Forge, New York, 13420\n- **Free Resume Template:** [Qwikresume.com](http://qwikresume.com)\n- **Usage Guidelines:** [Qwikresume.com](http://qwikresume.com)",
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in a major trade publication for innovative data integration solutions implemented at Rabobank NA.",
+            "reasoning": "This addition supports the 'Press' criterion by providing evidence of published material in a major trade publication about the beneficiary's work, which is a medium rating consideration."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "medium",
+            "reference": "Commanded a high salary relative to industry standards, as evidenced by pay statements and comparative wage data.",
+            "reasoning": "This addition supports the 'High remuneration' criterion by providing evidence that the beneficiary commanded a high salary relative to others in the field, which aligns with a medium rating consideration."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Featured in a major trade publication for innovative data integration solutions implemented at Rabobank NA."
+        },
+        {
+            "type": "added",
+            "text": "- Commanded a high salary relative to industry standards, as evidenced by pay statements and comparative wage data."
+        }
+    ]
+}

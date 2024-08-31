@@ -1,0 +1,39 @@
+{
+    "generated_cv": "# Robert Zebulon McCurley\n\n**Address:** Generic Sample Drive, Place, Tennessee 37000\n\n**Phone:** 615-884-1224\n\n**Email:** zeb@writersinthesky.com\n\n## Professional Summary\n\nAutomotive Electrical Technician and Expert Mechanic with 14 years of proven experience in the automotive industry. Specializing in 4-wheel drive systems, engine repair, and electrical work. Seeking full-time employment with benefits and good pay. Results-driven and respectful technician with excellent knowledge of industry business strategies. Capable of managing day-to-day shop operations and working both independently and as part of a team to support company goals and objectives.\n\n## Professional Experience\n\n### Lighting Technician\n*January 2008 - August 2008*\n**Installation Inc., Place, Tennessee**\n\n- Traveled throughout the southeastern region of the US to implement and change lighting fixtures in warehouses and businesses.\n- Worked with a team to develop strategies for safely retrofitting and upgrading lighting systems.\n- Removed existing fixtures and installed new energy-efficient fixtures and bulbs.\n- Communicated with customers to execute plans for a smooth and quick transition.\n- Skills included basic knowledge of electricity and operating articulating scissor lifts.\n\n### Automobile Mechanic\n*2005 - January 2008*\n**Global Motorsports Inc., Place, Tennessee**\n\n- Performed various types of automotive repair and maintenance, including engine mechanical repair, transmissions, brakes, timing belts, cooling systems, steering, suspension, oil leaks, differential rebuilds, AC work, and electrical repair.\n- Expertise in tire changes, balancing, and operation of shop tools and equipment such as brake lathes, AC machines, and diagnostic scan tools.\n- Proficient in using Mitchell OnDemand and Alldata computer programs.\n- Successfully maintained and increased client base by delivering top-notch service, even on simple projects.\n- Continued education to expand ability to repair European cars, including BMW, Audi, Mercedes, VW, Land Rover, and Jaguar.\n- Achieved daily production numbers and personal goal of gaining at least 45 hours of flat rate per week.\n- Organized materials and tools efficiently to ensure customer satisfaction and quick repair turnaround.\n\n### Senior Automotive Engineer\n*August 2008 - Present*\n**Elite Auto Innovations, Place, Tennessee**\n\n- Led a team of engineers in developing cutting-edge automotive technologies, including advanced 4-wheel drive systems and electric vehicle components.\n- Played a critical role in securing a $2 million government grant for research and development in automotive innovation.\n- Recognized with the National Automotive Excellence Award for significant contributions to the field of automotive engineering.\n- Commanded a high salary, placing in the top 5% of earners in the automotive engineering field.\n- Developed original contributions to automotive technology, resulting in three patents and numerous citations in industry publications.\n\n## Skills\n\n- Automotive repair and maintenance\n- 4-wheel drive systems\n- Engine repair\n- Electrical work\n- Articulating scissor lift operation\n- Tire changes and balancing\n- Use of diagnostic scan tools\n- Proficiency in Mitchell OnDemand and Alldata\n- Customer communication\n- Team collaboration\n\n## Achievements\n\n- Successfully increased client base through high-quality service.\n- Achieved personal goal of 45 hours flat rate per week.\n- Expanded expertise to include European car repairs.\n- Secured a $2 million government grant for automotive innovation research.\n- Recognized with the National Automotive Excellence Award.\n- Developed three patents in automotive technology.\n- Commanded a high salary in the top 5% of the field.\n",
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "medium",
+            "reference": "Recognized with the National Automotive Excellence Award for significant contributions to the field of automotive engineering.",
+            "reasoning": "The National Automotive Excellence Award is a nationally recognized prize for excellence in the field, meeting the medium rating for the Awards criterion."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "low",
+            "reference": "Played a critical role in securing a $2 million government grant for research and development in automotive innovation.",
+            "reasoning": "Securing a significant government grant demonstrates a critical role in a distinguished organization, supporting the low rating for the Critical employment criterion."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary, placing in the top 5% of earners in the automotive engineering field.",
+            "reasoning": "Being in the top 5% of earners in the field clearly demonstrates high remuneration, supporting the high rating for this criterion."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "high",
+            "reference": "Developed original contributions to automotive technology, resulting in three patents and numerous citations in industry publications.",
+            "reasoning": "The development of three patents and numerous citations indicates original contributions of major significance, supporting the high rating for the Original contribution criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "### Senior Automotive Engineer\n*August 2008 - Present*\n**Elite Auto Innovations, Place, Tennessee**\n\n- Led a team of engineers in developing cutting-edge automotive technologies, including advanced 4-wheel drive systems and electric vehicle components.\n- Played a critical role in securing a $2 million government grant for research and development in automotive innovation.\n- Recognized with the National Automotive Excellence Award for significant contributions to the field of automotive engineering.\n- Commanded a high salary, placing in the top 5% of earners in the automotive engineering field.\n- Developed original contributions to automotive technology, resulting in three patents and numerous citations in industry publications.\n"
+        },
+        {
+            "type": "added",
+            "text": "- Secured a $2 million government grant for automotive innovation research.\n- Recognized with the National Automotive Excellence Award.\n- Developed three patents in automotive technology.\n- Commanded a high salary in the top 5% of the field.\n"
+        }
+    ]
+}

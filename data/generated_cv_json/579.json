@@ -1,0 +1,47 @@
+{
+    "generated_cv": "# Ashton Ryder\n\n1 Main Street, New Cityland, CA 91010\n\n**Phone:** (555) 322-7337\n\n**Email:** exampleemail@example.com\n\n## Summary\n\nAccomplished salesperson with a superior work ethic and creative revenue generation ideas. Offers 10 years of experience in diverse sales environments, including lawn equipment and clothing. Able to work independently and consistently exceed sales goals. Outgoing people person with a customer service mindset. Proficient in sales, revenue generation, marketing, and merchandising.\n\n## Skills\n\n- Business development\n- Key relationship management\n- Exceptional networker\n- Negotiator\n- Consultative seller\n- Discerning eye for detail\n\n## Work Experience\n\n### Salesperson, Williams Garden Center\n\n*New Cityland, CA | 10/2010 - Current*\n\n- Primarily sell lawn equipment, including riding lawn mowers\n- Maintain thorough and updated knowledge of equipment, product offerings, and promotions\n- Explain equipment operation, maintenance details, and special tips for use\n- Upsell warranties and accessories to consistently maximize revenue opportunities\n- Network effectively with customers, increasing referrals by 20% over three years\n- Earned three top seller recognitions for exceeding sales goals\n- Featured in \"Garden Equipment Monthly\" for innovative sales techniques and exceptional customer service\n\n### Salesperson, Men's Depot\n\n*New Cityland, CA | 02/2007 - 09/2010*\n\n- Observed customers and listened closely to their questions to ascertain the best clothing options\n- Made recommendations accordingly and assisted customers in trying items\n- Brought additional items as requested and suggested accessories to match clothes, increasing purchases\n- Kept clothing racks neatly organized and fully stocked\n- Merchandised sales racks to increase customer engagement and store revenue\n- Placed special orders for out-of-stock items and unique sizes\n\n### Salesperson, Moody's Clothing\n\n*New Cityland, CA | 08/2003 - 01/2007*\n\n- Greeted every customer with a smile and friendly conversation to offer assistance\n- Enhanced customer experience by presenting flattering items based on customer preferences\n- Answered questions regarding promotions and clothing items\n- Monitored trends and provided information to customers to maximize purchases\n- Cleaned and organized the sales floor frequently to present an optimal buying environment for customers\n\n## Publications\n\n- Ryder, A. (2015). \"Innovative Sales Techniques in Retail.\" Journal of Sales and Marketing, 12(3), 45-50.\n\n## Awards\n\n- Recipient of the National Sales Excellence Award (2018) for outstanding performance in sales and customer service.\n\n## Contributions\n\n- Developed a unique customer referral program that increased sales by 20% over three years at Williams Garden Center.\n\n---\n",
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "high",
+            "reference": "Featured in \"Garden Equipment Monthly\" for innovative sales techniques and exceptional customer service",
+            "reasoning": "This fact demonstrates that Ashton Ryder has been recognized in a major trade publication for his work, which aligns with the 'Press' criterion."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "low",
+            "reference": "Developed a unique customer referral program that increased sales by 20% over three years at Williams Garden Center",
+            "reasoning": "This fact shows an original contribution to the field of sales, though it is of low significance compared to other potential contributions in more scientific or scholarly fields."
+        },
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Recipient of the National Sales Excellence Award (2018) for outstanding performance in sales and customer service",
+            "reasoning": "This award is nationally recognized and highlights Ashton's excellence in his field, meeting the 'Awards' criterion."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "low",
+            "reference": "Ryder, A. (2015). \"Innovative Sales Techniques in Retail.\" Journal of Sales and Marketing, 12(3), 45-50.",
+            "reasoning": "This publication in a professional journal supports the 'Scholarly articles' criterion, though it is a single article and thus rated low."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Featured in \"Garden Equipment Monthly\" for innovative sales techniques and exceptional customer service"
+        },
+        {
+            "type": "added",
+            "text": "Developed a unique customer referral program that increased sales by 20% over three years at Williams Garden Center"
+        },
+        {
+            "type": "added",
+            "text": "Recipient of the National Sales Excellence Award (2018) for outstanding performance in sales and customer service"
+        },
+        {
+            "type": "added",
+            "text": "Ryder, A. (2015). \"Innovative Sales Techniques in Retail.\" Journal of Sales and Marketing, 12(3), 45-50."
+        }
+    ]
+}

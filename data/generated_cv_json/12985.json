@@ -1,0 +1,51 @@
+{
+    "generated_cv": "# Jessica Claire Montgomery\n\n## Contact Information\n- **Address:** Montgomery Street, San Francisco, CA 94105\n- **Phone:** 555-432-1000\n- **Email:** resumesample@example.com\n\n## Professional Summary\n2 years of experience as an SQL Server Database Developer with expertise in analysis, design, development, implementation, and testing of client-server applications using Microsoft SQL Server suite. Proficient in software development life cycle methodologies including Waterfall and Agile. Strong skills in database normalization, stored procedures, constraints, querying, joins, keys, indexes, data import, DDL/DML, triggers, hints, views, user-defined data types, and cursors using SQL/PLSQL and TSQL.\n\n## Skills\n- Analysis, design, development, and implementation of client-server applications\n- Software development life cycle (Waterfall, Agile)\n- SQL Server, Oracle Hyperion Essbase\n- Database normalization, stored procedures, constraints, querying, joins, keys, indexes\n- Data import, DDL/DML, triggers, hints, views, user-defined data types, cursors\n- Essbase application design and development\n- Application security, user groups, security profiles, filters\n- Calc scripts, business rules, dynamic calculations\n- Data loading, report queries, business intelligence modeling\n- Strong communication, organizational, and interpersonal skills\n- Detail-oriented problem-solving skills\n\n## Work Experience\n\n### Data Analyst/SQL Developer\n*USA Vein Clinics, Northbrook, IL (07/2012 - Current)*\n- Environment: MS SQL Server 2008-2012, Oracle Hyperion Essbase 11x, 9x, Essbase Administration Services, Hyperion Planning, Excel Add-in, SmartView, Web Analysis\n- Developed complex stored procedures, functions, triggers, views, and queries to support application development\n- Reviewed and optimized existing stored procedures, functions, triggers, and queries\n- Developed custom scripts to automate various database management processes\n- Wrote single-time reports on demand\n- Diagnosed, isolated, and debugged software and hardware problems\n- Ensured adherence to standards and best practices for backup and restore\n- Defined maintenance plans and troubleshooting blocking\n- Created SQL jobs and handled errors using TRY/CATCH function\n- Wrote advanced TSQL queries using joins and subqueries\n- Managed index statistics, tables, views, and cursors\n- Optimized queries using execution plan tuning\n- **Published an article in the Journal of Database Management on optimizing SQL queries, which has been cited over 50 times.**\n\n### Multiunit Manager\n*OTG, Saint Paul, MN (04/2008 - 07/2012)*\n- Led all aspects of operations including development of people, sales, and profit for assigned areas comprising 6 restaurants with 75 employees and $22-35 million in annual revenue\n- Managed restaurants' profit and loss centers including food supply and labor costs to meet annual operating budgets\n- Performed monthly financial analysis to evaluate financial position\n- Clearly communicated expectations and actions to maximize restaurants' financial performance\n- Operated and managed the following units:\n  - Uptown Brasserie Marcus Samuelson (Fine Dining, $6.9M)\n  - La Brea Bakery (QSR, $5.8M)\n  - Pizza Vino (Casual Dining, $4.3M)\n  - Full Bar (Casual Dining, $1.12M)\n  - Jet Box (QSR, $2.2M)\n  - Cake Tin (QSR, $1.8M)\n- Hired as Supervisor, promoted to Assistant Manager within 1 year, and promoted to General Manager within 1 month\n- Increased sales from $30K/week to $55K at La Brea Bakery through promotional advertisements\n- Increased sales by 41% year-over-year at three locations\n- Decreased food and labor costs by 10% at Cake Tin and ZPizza\n- Decreased labor cost by $3000 and food cost by 12% at ZPizza\n- Increased sales by 20% by adding additional seating area and marketing new promotional ideas\n- Added new grab-and-go workstation to expedite service speed\n- Achieved 96% customer service ratings in Market Force surveys\n- Consistently obtained high ratings from NYC Health Department for 5 locations\n\n## Education\n\n### Bachelor of Science in Business Management\n*SUNY Farmingdale State College, Farmingdale, NY (2013)*\n- Minor in Finance\n- Coursework: Business Management, Communications, Management Information Systems, Strategic Leadership, Operations Quality Management\n- **Member of the Beta Gamma Sigma honor society, which recognizes outstanding academic achievements in business studies.**\n\n### High School Diploma\n*Sewanhaka High School, Floral Park, NY (2008)*\n\n## Media Coverage\n- **Featured in a TechCrunch article discussing innovative database management solutions implemented at USA Vein Clinics.**\n\n## Compensation\n- **Received a salary offer of $120,000 per year for a senior SQL Developer position at a leading tech firm, which is significantly higher than the industry average.**\n\n---\n",
+    "criterations": [
+        {
+            "criteration": "Memberships",
+            "rating": "low",
+            "reference": "Member of the Beta Gamma Sigma honor society, which recognizes outstanding academic achievements in business studies.",
+            "reasoning": "Membership in Beta Gamma Sigma is an example of a professional association that requires outstanding achievements, supporting the 'Memberships' criterion."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "high",
+            "reference": "Published an article in the Journal of Database Management on optimizing SQL queries, which has been cited over 50 times.",
+            "reasoning": "The publication and citation of the article demonstrate original contributions of major significance in the field of database management."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "medium",
+            "reference": "Received a salary offer of $120,000 per year for a senior SQL Developer position at a leading tech firm, which is significantly higher than the industry average.",
+            "reasoning": "The salary offer is evidence of high remuneration, as it is significantly higher than the industry average for similar positions."
+        },
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in a TechCrunch article discussing innovative database management solutions implemented at USA Vein Clinics.",
+            "reasoning": "The feature in TechCrunch provides published material in major media about the beneficiary's work, supporting the 'Press' criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Published an article in the Journal of Database Management on optimizing SQL queries, which has been cited over 50 times."
+        },
+        {
+            "type": "added",
+            "text": "Member of the Beta Gamma Sigma honor society, which recognizes outstanding academic achievements in business studies."
+        },
+        {
+            "type": "added",
+            "text": "Featured in a TechCrunch article discussing innovative database management solutions implemented at USA Vein Clinics."
+        },
+        {
+            "type": "added",
+            "text": "Received a salary offer of $120,000 per year for a senior SQL Developer position at a leading tech firm, which is significantly higher than the industry average."
+        },
+        {
+            "type": "removed",
+            "text": "Certain details about the original work experience and skills that were not directly supporting the new criteria."
+        }
+    ]
+}

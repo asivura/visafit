@@ -1,0 +1,37 @@
+{
+    "generated_cv": "# Jessica Claire\n\n## Contact Information\n- **Address:** Montgomery Street, San Francisco, CA 94105\n- **Phone:** 555-432-1000\n- **Email:** resumesample@example.com\n\n## Professional Summary\nSeeking a Store Manager position to utilize nearly nine years of retail management experience, including fresh food preparation and service experience.\n\n## Work Experience\n\n### Assistant Store Manager\n**Lands' End, Staten Island, NY**\n*June 2014 - Present*\n- Managing a team of 7 department managers\n- Hiring, termination, and annual evaluation of employees\n- Providing coaching and training to existing employees\n- Ensuring store schedules and objectives are met by employees\n- Coordinating retail store operations\n- Analyzing data and store reports\n- Organizing, planning, and implementing strategy\n- Overseeing the operation of the entire store\n- **Participated as a judge in the annual retail management awards, evaluating the performance of other store managers.**\n\n### Zone Manager\n**Spencer Gifts LLC, Brick, NJ**\n*October 2013 - June 2014*\n- Managing a team of 5 department managers\n- Overseeing daily operations of 6 different departments within the store\n- Working closely with asset protection to monitor and minimize risk and loss\n- Analyzing reports for salaried management\n- Partnering with local vendors to drive sales and increase overall store volume\n\n### Department Manager, Garden Center\n**Gulfshore Insurance, Naples, FL**\n*February 2013 - October 2013*\n- Making critical departmental business decisions\n- Monitoring shrink and ensuring modular integrity daily\n- Utilizing customer value program to assist with live plant rotation\n- Gaining knowledge of the department by reading weekly department manager SWAS reports\n- Ordering, stocking, building displays, and scanning outs\n- Creating manual picks and providing clear, full, and concise directions to associates\n\n### Claims Associate\n**Ingles Markets Incorporated, West Jefferson, NC**\n*June 2012 - February 2013*\n- Processing and shipping damaged goods and merchandise according to company guidelines\n- Processing hazardous materials according to state and company guidelines\n- Monitoring donation tracking\n- Regularly attending store safety meetings\n- Creating and submitting bill of lading paperwork for claims pallets\n- Ensuring merchandise from departments in the store is shipped properly via FedEx and UPS\n- Processing recalls daily\n\n### DSD/Receiving Associate\n**Bass Pro Shops, Fort Mill, SC**\n*April 2012 - June 2012*\n- Checking vendor merchandise at the back door as needed\n- Processing ASN and auditing ASN pallets as needed\n- Processing vendor credits\n- Assisting with unloading process and staging pallets, apparel, rolling racks, and rocket carts as needed\n- Making cardboard and plastic sandwich bales\n- Processing site-to-store, FedEx, and UPS merchandise delivered at the back door appropriately\n- Ensuring refrigerated and frozen items come in at acceptable temperatures\n- Documenting frozen/dairy deliveries\n\n### Garden Center Associate\n**Walmart, City, State**\n*June 2011 - April 2012*\n- Assisting customers and running the register\n- Zoning, stocking, and organizing merchandise\n- Watering and pruning plants as needed\n- Assisting in areas of hardlines and pad/store as needed\n- Building displays and setting modulars\n\n### Apparel Associate\n**Walmart, City, State**\n*September 2010 - June 2011*\n- Stocking, zoning, and organizing merchandise\n- Binning and picking merchandise\n- Answering phones and monitoring fitting rooms\n- Setting modulars and checking out-of-date merchandise in the infant consumables department\n- Building seasonal and special event displays\n\n## Education\n**High School Diploma, General**\n*2002*\nLincoln West Senior High School, Cleveland, OH\n\n## Skills\n- **Languages:** English, Spanish\n- **Certifications:** Fork Lift Certified, Walkie Pallet Jack Certified, Food Safety Certified, Fresh Food Safety Certified, Store Champion Stock Process Change Implementation\n- **Recognized for critical role in increasing store sales by 20% during tenure at Lands' End.**\n- **Earned a salary in the top 10% of retail managers in the region during tenure at Spencer Gifts LLC.**\n\n---\n",
+    "criterations": [
+        {
+            "criteration": "High remuneration",
+            "rating": "low",
+            "reference": "Earned a salary in the top 10% of retail managers in the region during tenure at Spencer Gifts LLC.",
+            "reasoning": "This statement supports the 'High remuneration' criterion by indicating that Jessica earned a salary that is high relative to others in her field, which aligns with the considerations for this criterion."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "low",
+            "reference": "Participated as a judge in the annual retail management awards, evaluating the performance of other store managers.",
+            "reasoning": "This statement supports the 'Judging' criterion by showing that Jessica has participated as a judge in her field, which is a key consideration for this criterion."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "low",
+            "reference": "Recognized for critical role in increasing store sales by 20% during tenure at Lands' End.",
+            "reasoning": "This statement supports the 'Critical employment' criterion by demonstrating that Jessica played a critical role in a significant achievement for a distinguished organization."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Participated as a judge in the annual retail management awards, evaluating the performance of other store managers."
+        },
+        {
+            "type": "added",
+            "text": "Recognized for critical role in increasing store sales by 20% during tenure at Lands' End."
+        },
+        {
+            "type": "added",
+            "text": "Earned a salary in the top 10% of retail managers in the region during tenure at Spencer Gifts LLC."
+        }
+    ]
+}

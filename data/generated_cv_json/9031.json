@@ -1,0 +1,51 @@
+{
+    "generated_cv": "# Jessica Claire Montgomery\n\n**Address:** Montgomery Street, San Francisco, CA 94105\n\n**Phone:** 555-432-1000\n\n**Email:** resumesample@example.com\n\n## Summary\n\nDedicated professional with 5 years of experience in creative and high-quality content production, focused on achieving excellence in fast-paced life production and social digital media.\n\n## Skills\n\n- Microsoft Word, Excel, PowerPoint\n- Final Cut Pro, Avid\n- Adobe Premiere, Adobe Lightroom, Photoshop\n- CMS, Grabyo, SnappyTV, Shareablee\n- Google Analytics\n- Fluent in Spanish, English, French (basic)\n\n## Professional Experience\n\n### Digital Content Producer\n**TEGNA, Dallas, TX**\n*November 2016 - Present*\n\n- Supervise digital media editing team\n- Produce web-specific highlights, video match recaps, and interviews\n- Create original content like Ray Hudson Raw and Sin Filtro\n- Compose digestible marketing videos for social media properties\n- Coordinate asset delivery for VOD and television producers\n- Published articles in professional journals on digital content production\n\n### Online Content Editor\n**Jerry, Kansas City, MO**\n*April 2013 - November 2016*\n\n- Create original content for social media communities\n- Follow editorial storylines and social trends\n- Organize and produce game highlights, interviews, and video reports\n- Strategize weekly storylines in conjunction with the television team\n- Provide detailed editorial content for web and mobile devices\n- Part of the digital team covering the 2014 World Cup and 2015 Copa America\n\n### Camera Operator/Editor\n**Deli Star Corporation, Saint Louis, MO**\n*July 2012 - December 2012*\n\n- Operated jib, Panasonic DVCPro, P2 series, AF100, Canon 7D, 5D, 60D, and Sony F3 cameras\n- Edited 2-3 video segments weekly for live television\n- On-field producing experience\n\n### Freelance Writer\n**Alley Times Magazine, City, State**\n*October 2010 - January 2011*\n\n- November 2010: 1st issue, Divine Samurai (Page 84)\n- June 2011: 3rd issue, Coppola's Epic\n\n### Production Assistant\n**Capsule Media, City, State**\n*June - July 2010*\n\n- Assisted producer with lighting and set design\n- Handled off-set responsibilities including filing permits, insurances, and releases\n\n## Education\n\n### Bachelor of Film and Digital Production\n**Miami International University, Miami, FL**\n*March 2013*\n\n### Film and Digital Production\n**Valley Forge Military Academy, Wayne, PA**\n*June 2007*\n\n- President's Award\n- Ranked 14th in a class of 80\n- Audio Visual Club\n\n## Languages\n\n- Fluent in Spanish, English\n- Basic French\n\n## Achievements\n\n- President's Award at Valley Forge Military Academy\n- Part of the digital team covering the 2014 World Cup and 2015 Copa America\n- Awarded the Digital Content Producer of the Year by the National Association of Broadcasters in 2019\n- Senior Digital Content Producer at TEGNA, a distinguished media company\n- Commanded a high salary at TEGNA, significantly above the industry average",
+    "criterations": [
+        {
+            "criteration": "Scholarly articles",
+            "rating": "low",
+            "reference": "Published articles in professional journals on digital content production",
+            "reasoning": "This addition demonstrates that Jessica has authored scholarly articles in her field, which is a requirement for the 'Scholarly articles' criterion."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "Senior Digital Content Producer at TEGNA, a distinguished media company",
+            "reasoning": "This addition shows that Jessica has held a critical role at a distinguished organization, fulfilling the 'Critical employment' criterion."
+        },
+        {
+            "criteration": "Awards",
+            "rating": "medium",
+            "reference": "Awarded the Digital Content Producer of the Year by the National Association of Broadcasters in 2019",
+            "reasoning": "This award is nationally recognized and demonstrates excellence in her field, meeting the 'Awards' criterion."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary at TEGNA, significantly above the industry average",
+            "reasoning": "This statement provides evidence of high remuneration, which is a key requirement for the 'High remuneration' criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Published articles in professional journals on digital content production"
+        },
+        {
+            "type": "added",
+            "text": "- Awarded the Digital Content Producer of the Year by the National Association of Broadcasters in 2019"
+        },
+        {
+            "type": "added",
+            "text": "- Senior Digital Content Producer at TEGNA, a distinguished media company"
+        },
+        {
+            "type": "added",
+            "text": "- Commanded a high salary at TEGNA, significantly above the industry average"
+        },
+        {
+            "type": "removed",
+            "text": "- Part of the digital team covering the 2014 World Cup and 2015 Copa America"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "generated_cv": "# Latia Waters\n\n**Address:** 3371 Crooks Forges, New York, NY\n**Phone:** 1-555-590-1771\n\n## Professional Summary\n\nExperienced Digital Media Manager with a strong background in media planning, data analysis, and performance optimization. Proven ability to manage large-scale software product launches and drive business objectives through strategic media campaigns. Highly analytical and creative, with excellent project management skills.\n\n## Work Experience\n\n### Manager, Digital Media\n**Klinggislason**, Los Angeles, CA\n*November 2019 - Present*\n\n- Experience using standard media planning data tools including Adobe Analytics, Omniture, BlueKai, TradeDesk, and 3rd party data providers\n- Established media metrics and performed data analysis to improve results and lower CPICPV\n- Built performance models based on available data\n- Oversaw the planning and buying process while working with media agencies\n- Demonstrated strong project management skills and the ability to work independently\n- Recognized for original contributions in developing a new data analysis model that significantly improved campaign performance\n\n### Manager, Digital Media\n**Ward LLC**, Los Angeles, CA\n*March 2015 - May 2019*\n\n- Managed multiple deadlines and deliverables, ensuring launch dates were met\n- Maintained an eye for detail while keeping big picture goals in mind\n- Delivered results with a strong sense of ownership\n- Launched enterprise-level and large-scale software products\n- Mastered lean methodology practices across multiple development teams\n- Demonstrated a strong understanding of lifecycle management for large-scale programs and projects\n- Awarded the \"Digital Media Excellence Award\" by the National Media Association in 2018\n\n## Education\n\n**Pratt Institute**\n*Bachelor's in Marketing*\n\n## Skills\n\n- Experience with paid social platforms like Facebook Power Editor and Twitter\n- Proactive organization and daily task management\n- Meticulous attention to detail\n- Expertise in programmatic advertising\n- Client campaign performance optimization\n- Analytical mindset for strategy execution and performance reporting\n- Experience with digital media campaigns across various buying platforms\n\n## Additional Information\n\n- Responsible for platform strategy, execution, and performance reporting for digital media campaigns on behalf of CPG clients and retail media networks\n- Commanded a high salary relative to peers in the digital media field, as evidenced by annual compensation reports\n",
+    "criterations": [
+        {
+            "criteration": "High remuneration",
+            "rating": "low",
+            "reference": "Commanded a high salary relative to peers in the digital media field, as evidenced by annual compensation reports",
+            "reasoning": "This statement supports the 'High remuneration' criterion by indicating that Latia Waters received a high salary compared to her peers, which is a key consideration for this criterion."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "high",
+            "reference": "Recognized for original contributions in developing a new data analysis model that significantly improved campaign performance",
+            "reasoning": "This statement supports the 'Original contribution' criterion by highlighting Latia Waters' development of a new data analysis model that had a major impact on campaign performance, demonstrating her significant contributions to the field."
+        },
+        {
+            "criteration": "Awards",
+            "rating": "medium",
+            "reference": "Awarded the \"Digital Media Excellence Award\" by the National Media Association in 2018",
+            "reasoning": "This statement supports the 'Awards' criterion by documenting Latia Waters' receipt of a nationally recognized award for excellence in digital media, which aligns with the examples and considerations for this criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Recognized for original contributions in developing a new data analysis model that significantly improved campaign performance"
+        },
+        {
+            "type": "added",
+            "text": "- Awarded the \"Digital Media Excellence Award\" by the National Media Association in 2018"
+        },
+        {
+            "type": "added",
+            "text": "- Commanded a high salary relative to peers in the digital media field, as evidenced by annual compensation reports"
+        }
+    ]
+}

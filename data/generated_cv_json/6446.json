@@ -1,0 +1,41 @@
+{
+    "generated_cv": "# Jessica Claire Montgomery\n\n## Contact Information\n- **Address:** Montgomery Street, San Francisco, CA 94105\n- **Phone:** 555-432-1000\n- **Email:** resumesample@example.com\n\n## Professional Summary\nDedicated landscape architecture professional with 15 years of experience. Demonstrates strong technical, analytical, and communication skills. Highly effective in integrating art, science, and business in landscape architecture. Specializes in large-scale commercial projects with a focus on sustainable practices. Eager to learn new techniques, plant sciences, and software skills to further professional development and solve environmental problems, making the world a more beautiful place to live.\n\n## Education\n### Bachelor of Arts in Landscape Architecture\n- **Institution:** Istanbul University, Istanbul\n- **Year:** 2012\n\n### High School Diploma in Mathematics and Science\n- **Institution:** Private Ortado\u011fu High School, Kartal, Istanbul\n- **Year:** 2007\n- **Achievement:** Second place in graduating class\n\n### High School Diploma in Mathematics and Science\n- **Institution:** S\u00fcleyman Demirel High School, Kartal, Istanbul\n- **Year:** 2006\n- **Achievement:** First place in graduating class\n\n## Work Experience\n### Landscape Architect\n- **Company:** WSB, Houston, TX\n- **Duration:** *May 2013 - May 2014*\n- Discussed design standards and procedures with directors\n- Drafted detailed drawings and structures specifying dimensions and materials\n- Collaborated with builders to ensure construction aligned with designs\n- Led a team of architects, technicians, and interns throughout contract document phases\n- Coordinated review of contractors' schedules and submission of shop drawings and samples\n- Reviewed completed reports, plans, estimates, and calculations for accuracy\n- Designed, constructed, and maintained water forms, vegetation, walks, and landscape features\n- Drafted technical write-ups and proposals for projects\n- Published an article on sustainable landscape architecture in the Journal of Environmental Design\n\n### Landscape Architecture Intern\n- **Company:** WSB, Austin, TX\n- **Duration:** *June 2011 - July 2011*\n- Assisted in office skills and internship tasks\n\n### Landscape Architecture Intern\n- **Company:** Isik Landscape, City State Plantation\n- **Duration:** *June 2010 - July 2010*\n- Assisted in office skills and internship tasks\n\n## Skills\n- Site environmental analysis\n- Project planning\n- Team player\n- Microsoft Office programs\n- Hand drafting\n- AutoCAD\n- Adobe InDesign\n- Land use planning\n- Hand rendering and drawing\n- SketchUp\n- Basic perspective drawing\n- Lighting, irrigation, and planting\n- Dimensioning and technical grading details\n- Specifications and general site plans\n\n## Languages\n- Bilingual in Turkish and English\n\n## Achievements\n- Contributed to the renovation of the downtown sector in Sancaktepe, Istanbul, including improvements in hardscape and landscape\n- Conducted maintenance control for parks, public spheres, mosques, schools, and green belts\n- Completed landscaping and environmental planning projects for parks, cultural centers, health centers, veterinary areas, and mosques for Sancaktepe Mayoralty\n- Contributed to project drawings and revisions for parks tendered for public use\n\n## Certifications\n- Certificate from Istanbul International Landscape Architecture Symposium, 2008\n- Member of the American Society of Landscape Architects (ASLA)\n\n## Professional Activities\n- Served as a peer reviewer for the Journal of Landscape Architecture, evaluating submissions on sustainable design practices",
+    "criterations": [
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Published an article on sustainable landscape architecture in the Journal of Environmental Design",
+            "reasoning": "This addition demonstrates that Jessica has authored scholarly articles in her field, which is a medium-level support for the 'Scholarly articles' criterion."
+        },
+        {
+            "criteration": "Memberships",
+            "rating": "low",
+            "reference": "Member of the American Society of Landscape Architects (ASLA)",
+            "reasoning": "This addition shows that Jessica is a member of a professional association, which provides low-level support for the 'Memberships' criterion."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "medium",
+            "reference": "Served as a peer reviewer for the Journal of Landscape Architecture, evaluating submissions on sustainable design practices",
+            "reasoning": "This addition indicates that Jessica has participated as a judge of the work of others in her field, which is a medium-level support for the 'Judging' criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Published an article on sustainable landscape architecture in the Journal of Environmental Design"
+        },
+        {
+            "type": "added",
+            "text": "Member of the American Society of Landscape Architects (ASLA)"
+        },
+        {
+            "type": "added",
+            "text": "Served as a peer reviewer for the Journal of Landscape Architecture, evaluating submissions on sustainable design practices"
+        },
+        {
+            "type": "removed",
+            "text": "Certificate from Istanbul International Landscape Architecture Symposium, 2008"
+        }
+    ]
+}

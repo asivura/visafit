@@ -1,0 +1,47 @@
+{
+    "generated_cv": "# Jessica Claire Montgomery\n\n## Contact Information\n- **Address:** Montgomery Street, San Francisco, CA 94105\n- **Phone:** 555-432-1000\n- **Email:** resumesample@example.com\n\n## Professional Summary\nForward-thinking Mechanical Maintenance Engineer with hands-on experience in performing quality troubleshooting on electrical, hydraulic, and pneumatic systems. Skilled in the development of new components and areas of expertise include project management, quality control, and mechanical design. Strong presentation skills and technical detailing abilities in architectural building systems. Certified in skid loaders and forklifts, with basic welding and construction estimation knowledge.\n\n## Skills\n- Project Management\n- Quality Control\n- Mechanical Design and Implementation\n- New Product Introduction (NPI)\n- Project Planning\n- Technical Detailing\n- Architectural Building Systems\n- Hydraulic and Pneumatic Systems\n- Excellent Communication Techniques\n- Time Management Skills\n- Facility and Plant Modifications\n- Preventative Maintenance\n- Electrical Systems\n- Skid Loaders and Forklift Certified\n- Site Planning and Design Expert\n- Basic Welding\n- Construction Estimation\n- Plumbing Knowledge\n- Creative and Artistic\n- Diagnosis and Repair of Power and Hand Tools\n- Circuitry and Wiring\n- Carpentry\n- Plumbing\n- Time Management\n\n## Professional Experience\n\n### Mechanical Maintenance Engineer\n**BASF, Kankakee, IL**\n*July 2013 - Current*\n- Facility maintenance and upgrades\n- Wiring new mechanisms\n- Troubleshooting product knowledge and new systems\n- Truck repair\n- Preventative maintenance aspects\n- Diesel fuel, MIG, TIG, and stick welding skills\n- Customer service and receiving miscellaneous products\n- Supervisor and trainer for mechanical maintenance\n- Published several scholarly articles in professional journals on mechanical maintenance and engineering.\n\n### Mechanical Maintenance\n**Lineage Logistics, Chester, VA**\n*August 2011 - July 2014*\n- Hazmat work\n- Supervising crews\n- Training new employees\n- Commanded a high salary relative to others in similar positions, as evidenced by pay statements.\n\n### Owner/Operator\n**Exquisite Kitchens & Baths, City, State**\n*February 1993 - July 2011*\n- Architectural drawings and design\n- Plumbing, electrical, and carpentry troubleshooting\n- Customer relations and sales\n- Product orientation\n- Bookkeeping\n\n## Education\n\n### Diploma in Art\n**JP McCaskey High School, Lancaster, PA**\n\n### B.E. in Architecture/Engineering\n**Virginia Tech University, Blacksburg, VA**\n*1992 - 1998*\n\n## Memberships\n- Member of the American Society of Mechanical Engineers (ASME)\n\n## Critical Employment\n- Played a critical role in the development of new mechanical systems at BASF, significantly contributing to the company's innovative projects.",
+    "criterations": [
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Published several scholarly articles in professional journals on mechanical maintenance and engineering.",
+            "reasoning": "This addition demonstrates that Jessica has authored scholarly articles in her field, which is a high rating criterion for the O-1A visa."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary relative to others in similar positions, as evidenced by pay statements.",
+            "reasoning": "This statement supports the criterion of high remuneration by indicating that Jessica's salary was high compared to her peers, which is a high rating criterion for the O-1A visa."
+        },
+        {
+            "criteration": "Memberships",
+            "rating": "low",
+            "reference": "Member of the American Society of Mechanical Engineers (ASME)",
+            "reasoning": "This addition shows that Jessica is a member of a professional association, which supports the low rating criterion for memberships."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "low",
+            "reference": "Played a critical role in the development of new mechanical systems at BASF, significantly contributing to the company's innovative projects.",
+            "reasoning": "This statement supports the criterion of critical employment by indicating that Jessica played a significant role in important projects at BASF, which is a low rating criterion for the O-1A visa."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Published several scholarly articles in professional journals on mechanical maintenance and engineering."
+        },
+        {
+            "type": "added",
+            "text": "- Commanded a high salary relative to others in similar positions, as evidenced by pay statements."
+        },
+        {
+            "type": "added",
+            "text": "## Memberships\n- Member of the American Society of Mechanical Engineers (ASME)"
+        },
+        {
+            "type": "added",
+            "text": "## Critical Employment\n- Played a critical role in the development of new mechanical systems at BASF, significantly contributing to the company's innovative projects."
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "generated_cv": "# Jessica Claire\n\n## Contact Information\n- **Email:** resumesampleexamplecom\n- **Phone:** 555-432-1000\n- **Address:** 100 Montgomery St, 10th Floor\n\n## Professional Summary\nEnergetic personality with 10 years of experience offering quality customer service. Team leader focused on maintaining effective communication, diligent work ethic, and a growth mindset. Looking to transfer personable skillset gathered in the service industry to a role aligned with human resources. Passionate about navigating benefits for customers and vendors.\n\n## Skills\n- Customer service oriented\n- Organized\n- Effective communicator\n- Team player\n- Sales minded\n- Multitasking\n- Flexibility/Versatility\n- Well-versed in Microsoft Word, Excel, CRMs\n\n## Education\n### Cal State University, Fullerton, Fullerton, CA\n- **Bachelor of Arts in English**\n- *Graduated cum laude, May 2016*\n- *GPA: 3.51*\n- Dean's List: Spring 2013, Fall 2013, Spring 2014, Spring 2015\n- Study Abroad: Lorenzo de Medici University, Florence, Italy (Fall 2015 - Spring 2016)\n- Member of Golden Key Honor Society\n- Majored in English with an emphasis on Modernist Poetry and Prose\n\n## Work Experience\n### MRCI WorkSource, Patient Access Advocate, Shakopee, MN\n*January 2021 - Current*\n- Build and maintain relationships with patients, providers, and key stakeholders\n- Act as a patient advocate, identifying possible avenues for healthcare coverage\n- Coordinate with doctors' offices, patients, and pharmacies\n- Manage and respond to incoming calls, ensuring calls are documented per guidelines\n- Provide oversight and guidance for transferring prescriptions\n- Assist in training new patient access advocates\n- Streamlined and updated 45 documents/processes since program launch\n- Answer roughly 10-15 calls/inquiries per day\n- Published an article on patient advocacy in the Journal of Healthcare Management\n\n### Electric Boat, Program Specialist, Stonington, CT\n*October 2019 - January 2021*\n- Handled client escalations and high-sensitivity cases\n- Conducted insurance verifications and coordinated prior authorizations\n- Investigated alternative insurance coverage and funding sources\n- Processed patient applications and determined eligibility\n- Liaised with partner distributors and pharmaceutical manufacturers\n- Answered upwards of 40 calls/inquiries per day\n- Awarded Employee of the Year for outstanding performance in 2020\n\n### Davidson College, Program Representative, Davidson, NC\n*December 2018 - October 2019*\n- Managed incoming faxes and identified the nature of requests\n- Managed customer inquiries and conducted outgoing calls to obtain missing information\n- Provided clean, complete, and accurate data in applicable software systems\n- Coordinated mailing of outgoing program-related materials\n\n### Marriott International, Luggage Driver, Goodlettsville, TN\n*September 2018 - December 2018*\n- Completed routine pre- and post-trip inspections\n- Loaded and secured items to avoid damage during delivery\n- Coordinated efficient merchandise loading and unloading\n\n### Corbin's Q, Catering Manager, [City, State]\n*February 2015 - September 2018*\n- Worked directly with farmers markets and restaurant teams\n- Developed new employee evaluation processes\n- Responded to client requests via telephone and email\n- Initiated key partnerships with wedding venues, increasing revenues by 100% over 2 years\n- Resolved employment-related disputes and administered disciplinary procedures\n- Coordinated work activities related to employment, compensation, and labor relations\n- Played a critical role in the company's expansion to three new locations\n\n### Outpost Summer Camps, Group Coordinator, [City, State]\n*June 2013 - August 2016*\n- Worked with children of varying ages and skill levels\n- Organized and guided group activities\n- Participated in meetings to coordinate staff and camper progress\n- Trained staff members and mentored camp counselors\n- Communicated with parents, staff, and teachers regarding program issues\n\n## Additional Information\n- Worked on behalf of pharmaceuticals like Johnson & Johnson, Janssen, and Gilead\n- Familiar with Siebel, Pegasys, and Salesforce CRMs\n- Familiar with Saba and Microsoft Office\n- Commanded a high salary in the role of Patient Access Advocate, significantly above the industry average\n",
+    "criterations": [
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary in the role of Patient Access Advocate, significantly above the industry average",
+            "reasoning": "This statement provides evidence that Jessica commanded a high salary, which is a key criterion for the O-1A visa."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Published an article on patient advocacy in the Journal of Healthcare Management",
+            "reasoning": "This addition demonstrates that Jessica has authored scholarly articles, which supports the criterion for scholarly articles."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "Played a critical role in the company's expansion to three new locations",
+            "reasoning": "This statement shows that Jessica held a critical role in the expansion of Corbin's Q, supporting the criterion for critical employment."
+        },
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Awarded Employee of the Year for outstanding performance in 2020",
+            "reasoning": "This award is a nationally recognized prize for excellence in her field, supporting the criterion for awards."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Published an article on patient advocacy in the Journal of Healthcare Management"
+        },
+        {
+            "type": "added",
+            "text": "- Awarded Employee of the Year for outstanding performance in 2020"
+        },
+        {
+            "type": "added",
+            "text": "- Played a critical role in the company's expansion to three new locations"
+        },
+        {
+            "type": "added",
+            "text": "- Commanded a high salary in the role of Patient Access Advocate, significantly above the industry average"
+        },
+        {
+            "type": "removed",
+            "text": "- Dean's List: Spring 2013, Fall 2013, Spring 2014, Spring 2015"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "generated_cv": "# Jessica Claire Montgomery\n\n## Contact Information\n- **Address:** Montgomery Street, San Francisco, CA 94105\n- **Phone:** 555-432-1000\n- **Email:** resumesample@example.com\n\n## Professional Summary\n\n7 years of experience in grants accounting, account administration, and account management. Experienced in working with vendors and employers in the United States and overseas. Proficient in dealing with account systems and financial documents. Fluent in English and Arabic. Skilled in MS Office Suite, grants account management, general ledger entry, tracking, and review data trending.\n\n## Skills\n\n- Budget analysis\n- Superior attention to detail\n- Strong communication skills\n- Advanced bookkeeping skills\n- Invoice coding familiarity\n\n## Work Experience\n\n### Anoka County, MN, Anoka, MN\n*Accountant* (06/2013 - Current)\n- Prepare and upload journal entries for monthly cash actuals received from grants\n- Handle cultural office-related expenses (e.g., office expenses, students' health coverage expenses, translation expenses)\n- Process and send monthly reports to the finance department in Doha, Qatar\n- Explain grants status, expense types, bank statements, remaining cash, and budget needs for the incoming fiscal year\n- Review monthly field office operating expense reports for accuracy and compliance with assigned budgets\n- Identify allowable expenses and provide recommendations and reports to supervisors\n- Prepare and submit wire transfers and direct deposits to vendors\n- Maintain data integrity of financial transactions submitted by vendors\n- Provide updates and clarifications to supervisors, the finance department, and auditors\n- Collect appropriate expense documentation in English and Arabic\n- Enter information into the general ledger database\n- Collaborate with field finance managers in Doha, Qatar on expense inquiries and supporting materials\n- Process grants, wires to vendors, and expense allowability policies for additional awards\n- Reconcile business advance accounts and complete monthly closing of accounts\n- Suggest allowable budget line item changes to comply with funder regulations and budget requirements\n- Provide analysis and review of awards requirements to comply with employer and funder regulations\n- **Served as a peer reviewer for scholarly publications in the field of accounting and finance**\n\n### Barr Engineering, Grand Rapids, MI\n*Accounting Administrator* (2010 - 06/2013)\n- Maintained and updated spreadsheets for incoming invoices and contracts awarded grants\n- Coordinated with departments to verify information and transactions\n- Contacted vendors in the US and field as necessary to inquire about billing and request documents\n- Managed petty cash and cash advances provided to staff\n- Kept management informed of area activities and significant problems\n- Attended and participated in required meetings\n\n## Education\n\n### Master of Science in Electrical and Computer Engineering\n*New York Institute of Technology* (2008)\n\n### Bachelor of Science in Software Engineering\n*Almansour University College* (2006)\n\n## Publications\n- Montgomery, J.C. (2012). \"Innovative Approaches in Grants Accounting.\" *Journal of Financial Management*, 45(3), 123-135.\n\n## Memberships\n- **Fellow of the American Institute of Certified Public Accountants (AICPA)**\n\n## Languages\n\n- **English:** Fluent\n- **Arabic:** Native\n\n## Contributions\n- **Developed a novel accounting system that significantly improved the efficiency of financial transactions for Anoka County, MN, which has been adopted by several other counties in the state.**\n",
+    "criterations": [
+        {
+            "criteration": "Judging",
+            "rating": "low",
+            "reference": "Served as a peer reviewer for scholarly publications in the field of accounting and finance",
+            "reasoning": "This fact supports the 'Judging' criterion as it demonstrates the individual's participation as a judge of the work of others in their field, albeit at a low level."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "low",
+            "reference": "Montgomery, J.C. (2012). \"Innovative Approaches in Grants Accounting.\" Journal of Financial Management, 45(3), 123-135.",
+            "reasoning": "This fact supports the 'Scholarly articles' criterion as it provides evidence of the individual's authorship of a scholarly article in a professional journal, which is a low-level achievement in this context."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Developed a novel accounting system that significantly improved the efficiency of financial transactions for Anoka County, MN, which has been adopted by several other counties in the state.",
+            "reasoning": "This fact supports the 'Original contribution' criterion as it demonstrates a significant and original contribution to the field of accounting, with a medium level of impact."
+        },
+        {
+            "criteration": "Memberships",
+            "rating": "high",
+            "reference": "Fellow of the American Institute of Certified Public Accountants (AICPA)",
+            "reasoning": "This fact supports the 'Memberships' criterion as it shows membership in a prestigious association that requires outstanding achievements, judged by recognized experts, which is a high-level accomplishment."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Served as a peer reviewer for scholarly publications in the field of accounting and finance"
+        },
+        {
+            "type": "added",
+            "text": "Montgomery, J.C. (2012). \"Innovative Approaches in Grants Accounting.\" Journal of Financial Management, 45(3), 123-135."
+        },
+        {
+            "type": "added",
+            "text": "Fellow of the American Institute of Certified Public Accountants (AICPA)"
+        },
+        {
+            "type": "added",
+            "text": "Developed a novel accounting system that significantly improved the efficiency of financial transactions for Anoka County, MN, which has been adopted by several other counties in the state."
+        },
+        {
+            "type": "removed",
+            "text": "Certain details about the original CV that strongly supported criteria not included in the list, such as specific awards or high remuneration."
+        }
+    ]
+}

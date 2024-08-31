@@ -1,0 +1,41 @@
+{
+    "generated_cv": "# First Last\n\n## Contact Information\n- **Location:** New York City, NY 10000\n- **Email:** firstlast@resumeworded.com\n- **Phone:** 1-212-123-4567\n\n## Professional Experience\n\n### Resume Worded, Human Resources Generalist\n*San Francisco, CA / New York, NY \u2014 2017-Present*\n- Managed $2 million payroll.\n- Identified and rectified travel claim discrepancies, resulting in $250,000 cost savings.\n- Brought majority of formerly outsourced recruiting functions in-house, reducing billable hours by 200 and saving $10,000 every month.\n- Developed creative, cost-effective incentive and morale-boosting programs; tiered awards structure increased employee retention rate by 90%.\n- Featured in HR Today magazine for innovative HR practices.\n\n### GrowthSI, Human Resources Generalist\n*New York, NY \u2014 2014-2017*\n- Managed new employee orientations, benefits, payroll, retirements, terminations, and promotions for 100 employees.\n- Structured and implemented programs in areas of training, new employee orientation, and incentives, lowering training time from 2 months to 6 weeks and reducing employee turnover rate by 20%.\n- Supported management in handling and resolving human resources issues, decreasing employee complaints by 70%.\n- Published an article on employee retention strategies in the Journal of Human Resources.\n\n### GrowthSI, Human Resources Assistant\n*New York, NY \u2014 2012-2014*\n- Shortlisted 35 qualified applicants for 6 open positions and referred them to employing officials.\n- Recorded employee data including address, pay rate, benefits, absences, and termination for 90 employees.\n\n## Education\n\n### GrowthSI Business School\n- **Professional Human Resources (PHR)**\n*2013-2014*\n\n### Resume Worded University\n- **Bachelor of Arts in Human Resources Development**\n*San Francisco, CA / New York, NY \u2014 2008-2012*\n\n## Additional Information\n\n### Techniques\n- Resource planning\n- Employee screening\n- Group benefits including COBRA and 401(k)\n\n### Technical Skills\n- Software: ADP Workforce, Workday, Kronos Workforce, HR Oracle\n\n### Certifications\n- Human Resources Bootcamp, 2016\n- Passed Resume Worded Examinations\n\n### Professional Contributions\n- Served as a panel judge for the annual HR Excellence Awards, evaluating HR practices of various companies.\n",
+    "criterations": [
+        {
+            "criteration": "Critical employment",
+            "rating": "low",
+            "reference": "Developed creative, cost-effective incentive and morale-boosting programs; tiered awards structure increased employee retention rate by 90%.",
+            "reasoning": "This fact demonstrates a significant contribution to the organization by increasing employee retention, which is critical for the company's success."
+        },
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in HR Today magazine for innovative HR practices.",
+            "reasoning": "Being featured in a professional magazine like HR Today indicates recognition of the beneficiary's work in the field, which aligns with the 'Press' criterion."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Published an article on employee retention strategies in the Journal of Human Resources.",
+            "reasoning": "Authorship of an article in a professional journal demonstrates scholarly contribution to the field, meeting the 'Scholarly articles' criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Featured in HR Today magazine for innovative HR practices."
+        },
+        {
+            "type": "added",
+            "text": "- Published an article on employee retention strategies in the Journal of Human Resources."
+        },
+        {
+            "type": "added",
+            "text": "- Served as a panel judge for the annual HR Excellence Awards, evaluating HR practices of various companies."
+        },
+        {
+            "type": "removed",
+            "text": "- Managed $2 million payroll."
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "generated_cv": "# Jessica Claire\n\n## Personal Information\n\n- **Email:** resumesampleexamplecom\n- **Phone:** 555-432-1000\n- **Address:** Montgomery Street, San Francisco, CA 94105\n\n## Professional Summary\n\nTier 2/3 network server troubleshooting, maintenance, and installation specialist. Currently an escalation point for systems, applications, and network administrators. Studying to complete CCNA and CompTIA management certifications to gain knowledge and skills to acquire CCNP and CCIE.\n\n## Knowledge Base\n\n- Windows 10, 7, Embedded\n- Exchange 2007/2012\n- Dell SonicWall\n- VPN/MPLS\n- VoIP (Zultys, Avaya/ESI)\n- Citrix\n- LANDesk\n- Kaspersky\n- JIRA/Confluence\n- SharePoint\n- Windows AD\n- HPDM 4.7\n- ScreenConnect\n- Dell KACE\n- Samanage\n- Framework LTC\n- PaperCut\n- Altiris\n- DocuTrack\n\n## Work Experience\n\n### Great American Insurance Group\n**Desktop Supervisor**\n*Dallas, TX (11/2014 - Current)*\n\n- Oversee a team of 4 for hardware, software, and network troubleshooting (Tier 2/3 support) for 9 pharmacies and 400 employees.\n- Implement HPDM in 5 additional pharmacies.\n- Assist in 2007 to 2013 migration and 2008 to 2012 server update.\n- Oversee Windows XP to Windows 7 upgrade.\n- Manage quoting and purchase requests.\n- Resolve employee and customer relations issues.\n- Maintain asset control and vendor relations.\n- **Published an article on network troubleshooting in the Journal of Network and Systems Management.**\n\n### IKE Group\n**Senior Desktop Technician**\n*Honolulu, HI (02/2012 - 11/2014)*\n\n- Provided Tier 1/2 support for 4 pharmacies and 200 employees.\n- Assisted in Exchange 2003 to 2007 migration and client-side mail migration to internal hosted Exchange and Office365.\n- Developed Dell KACE image deployment.\n- **Served as a peer reviewer for the International Journal of Computer Science and Network Security.**\n\n### HCA\n**Help Desk Manager**\n*Katy, TX (03/2010 - 03/2012)*\n\n- Provided computer/software support for 6500 clients, including Windows XP, Vista, 7, Server 2008, Autodesk 2012, Adobe CS 5.5, ArcGIS, SPSS, SCCM, Altiris, LogMeIn, and TeamViewer.\n- Implemented PaperCut print tracking.\n- Evaluated budget costs and losses, providing cost-effective and secure printer/hardware/software purchases.\n- Developed and implemented OSX integration with Windows AD.\n- Managed print server for staff and student printing.\n- Project manager for new website, including a large knowledge base department.\n- Assisted in client-side mail migration from Exchange 2003 to 2007.\n- Coordinated Windows XP to Windows 7 and Office 2003/2007 to Office 2010 upgrades for staff and faculty, ensuring data integrity.\n- Provided a one-week training program for new employees and taught single class sessions for incoming freshmen and transfer students.\n- Dispatched 15 help desk staff and 4 techs to appropriate level issues, maintaining prompt and thorough resolutions.\n- Performed employment processes and evaluations as needed.\n- Documented repair procedures and policies to enhance efficiency and knowledge base.\n- **Member of the Association for Computing Machinery (ACM), requiring outstanding achievements in the field.**\n\n### Jack Hilliard Distributing\n**Inventory Management**\n*City, State (07/2008 - 02/2010)*\n\n- Maintained accurate inventory and reconciled daily sales.\n- Trained new warehouse employees in order processing and verification of bills of lading.\n- Designed efficient floor plans for new products.\n- Identified and located missing inventory.\n- Repaired and returned damaged products.\n- Warehouse Lead (August - December 2008): Implemented objective suggestions for warehouse employees to increase efficiency and safety.\n- Discovered and resolved format errors in new customer account profiles, documenting errors to simplify solving future inaccuracies.\n\n## Education\n\n### Texas University\n**Bachelor of Science in Agricultural Leadership Development**\n*December 2008*\n\n## Certifications\n\n- CompTIA Network+ (COMPO01020686394)\n\n## Additional Skills\n\n- Setup and maintain 100+ UTM firewalls, VPN failover, and remote management.\n- Install and manage PoE cameras and security documentation for medication automated pharmacies.\n- Maintain and troubleshoot pharmacy networking and data center MPLS VPN.\n- Develop documentation for troubleshooting and escalation.\n- Develop copy script image process for RAID PC without data loss.\n- **Commanded a high salary as Desktop Supervisor at Great American Insurance Group, significantly above the industry average.**\n",
+    "criterations": [
+        {
+            "criteration": "High remuneration",
+            "rating": "low",
+            "reference": "Commanded a high salary as Desktop Supervisor at Great American Insurance Group, significantly above the industry average.",
+            "reasoning": "This statement supports the criterion by indicating that Jessica's salary was significantly above the industry average, which aligns with the 'high remuneration' criterion."
+        },
+        {
+            "criteration": "Memberships",
+            "rating": "high",
+            "reference": "Member of the Association for Computing Machinery (ACM), requiring outstanding achievements in the field.",
+            "reasoning": "This statement supports the criterion by showing that Jessica is a member of a prestigious association that requires outstanding achievements, aligning with the 'Memberships' criterion."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Published an article on network troubleshooting in the Journal of Network and Systems Management.",
+            "reasoning": "This statement supports the criterion by indicating that Jessica has authored a scholarly article in a professional journal, aligning with the 'Scholarly articles' criterion."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "medium",
+            "reference": "Served as a peer reviewer for the International Journal of Computer Science and Network Security.",
+            "reasoning": "This statement supports the criterion by showing that Jessica has participated as a judge of the work of others in her field, aligning with the 'Judging' criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Published an article on network troubleshooting in the Journal of Network and Systems Management."
+        },
+        {
+            "type": "added",
+            "text": "Served as a peer reviewer for the International Journal of Computer Science and Network Security."
+        },
+        {
+            "type": "added",
+            "text": "Member of the Association for Computing Machinery (ACM), requiring outstanding achievements in the field."
+        },
+        {
+            "type": "added",
+            "text": "Commanded a high salary as Desktop Supervisor at Great American Insurance Group, significantly above the industry average."
+        }
+    ]
+}

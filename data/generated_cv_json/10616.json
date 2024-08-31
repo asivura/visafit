@@ -1,0 +1,45 @@
+{
+    "generated_cv": "# Jessica Claire\n\n## Contact Information\n- **Address:** 100 Montgomery St, 10th Floor\n- **Phone:** 555-432-1000\n- **Email:** resumesample@example.com\n\n## Professional Summary\nInformation Technology Executive with 20 years of experience in systems engineering, network security, and entrepreneurial leadership. Proven track record in developing value-adding solutions and leading teams to identify and develop high-quality technical solutions. Seeking a director-level leadership role in a dynamic, growing company.\n\n## Skills\n- Infrastructure Development\n- Security Planning\n- Team Building\n- Adaptability\n- Collaboration\n- Planning and Coordination\n- Major Computer Network Technologies\n- Software Development Life Cycle\n- Various Applications, Tools, and Languages\n\n## Work Experience\n\n### Director of Information Technology\n**Indiana Packers Corporation, Delphi**\n*January 2013 - Present*\n- Maximized success of software and hardware solutions for an industry-leading storage products and services company with $550M annual revenue.\n- Oversaw software and hardware engineering activities, including video-based security systems products.\n- Collaborated with vendors and internal stakeholders to drive new infrastructure and cost control strategies.\n- Led risk assessment audits and security awareness training to improve team knowledge of vulnerabilities and recovery processes.\n- **Major Accomplishments:**\n  - Spearheaded an innovative VoIP solution that maximized customer support and improved product marketing.\n  - Introduced new operational procedures that improved delivery and support of phone network services for 40 Southern California storage facilities.\n  - Implemented improvements in capacity planning and virtualization processes, securing 99.99% uptime in a 24/7/365 support environment.\n  - Integrated new technologies, including a web portal and Xpress phone pay system, reducing support call volume by 32% and boosting call center productivity by almost 40%.\n  - Created new security policies and PCI DSS auditing procedures, improving long-term operational compliance and customer protection.\n  - Engineered and implemented innovations involving core back-office applications and physical servers, enhancing the company's VSAN model.\n  - **Participated as a judge** for the annual \"Tech Innovators\" competition, evaluating emerging technologies and startups.\n\n### Director of Information Technology / Program Manager II\n**Accenture Contractor Jobs, San Francisco, CA**\n*January 2008 - January 2013*\n- Oversaw technical support, project development, and engineering for a world-leading provider of technical and professional construction services.\n- Led a diverse sales and service support team, planning budgets and resources for small to medium-sized implementations.\n- Developed cutting-edge solutions to address the needs of clients with 50,000 users.\n- Managed the entire solution lifecycle, including presales, sales, design, implementation, and monitoring.\n- **Major Accomplishments:**\n  - Secured $4M in retained annual revenue and recovered 70% of mid-tier accounts.\n  - Led the successful integration of four separate companies into Jacobs' existing business model.\n  - Managed a high-level international project in Abu Dhabi, resolving major SCADA compliance issues.\n  - Maximized HIPAA compliance for Orthopedics Specialists North County through the implementation of several major solutions over a four-year span.\n  - Built a strong partnership with Caster Family Enterprises, implementing high-speed bonded T1 infrastructure and innovative single-point access for data tracking and security monitoring.\n  - **Featured in TechTimes** for innovative solutions in network security and infrastructure development.\n\n### Founder / Director of Information Technology\n**SI Data Systems**\n*January 2004 - January 2008*\n- Built and directed a highly successful services company from the ground up, serving 35 major clients and netting $22M in annual revenue.\n- Engaged in extensive outreach and marketing solutions for potential clients.\n- Designed and engineered new products and services, providing best-in-class pre and post-sales support.\n- **Major Accomplishments:**\n  - Quickly resolved a major crypto-ransomware virus infection for SI's first client.\n  - Developed an innovative low-cost remote access solution for a local construction company, improving data flow and streamlining usage of existing infrastructure.\n  - **Commanded a high salary** as the founder and director, reflecting the company's success and market value.\n\n### Information Technology Project Manager\n**Axxis Computer Technology**\n*January 1997 - January 2004*\n- Built a reputation for excellence in managing large technology projects and developing new hardware and software-based solutions for diverse clientele.\n- Handled vendor negotiations, needs analysis, and relationship building with clients.\n- Worked with company leadership to drive new solution development strategies focused on maximizing revenue and market share.\n- **Major Accomplishments:**\n  - Led a major initiative for client Gray Cary, significantly reducing processing time for major operations by migrating from 200 antiquated workstation-based servers to 40 Compaq ProLiant servers.\n  - Improved client security and increased efficiency in software patches and updates.\n\n## Education\n\n### Master of Science in Security Assurance, Computer Security, and Information Assurance\n**Western Governors University, Salt Lake City, Utah**\n*2017*\n\n### Bachelor of Science in Business Administration, Project Management, and Operations\n**University of Phoenix, Phoenix, Arizona**\n*2005*\n\n## Certifications\n- Certified Hacking Forensic Investigator, EC-Council\n- Certified SCADA Security Architect, InfoSec Institute\n- ESX 3.5 Installation and Configuration, VMware\n- Certified Ethical Hacker, EC-Council\n- Microsoft Certified Systems Engineer, Microsoft Corporation\n- Leadership Communication, MicroSkills\n\n## References\nExcellent references and recommendations available upon request.",
+    "criterations": [
+        {
+            "criteration": "Judging",
+            "rating": "medium",
+            "reference": "Participated as a judge for the annual \"Tech Innovators\" competition, evaluating emerging technologies and startups.",
+            "reasoning": "This fact demonstrates Jessica's role in judging the work of others in her field, which aligns with the criterion of participation as a judge in the same or allied field."
+        },
+        {
+            "criteration": "Press",
+            "rating": "low",
+            "reference": "Featured in TechTimes for innovative solutions in network security and infrastructure development.",
+            "reasoning": "This fact provides evidence of published material in a major media outlet about Jessica's work, which supports the criterion of press coverage."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "medium",
+            "reference": "Commanded a high salary as the founder and director, reflecting the company's success and market value.",
+            "reasoning": "This fact shows that Jessica commanded a high salary, which supports the criterion of high remuneration for services."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Participated as a judge for the annual \"Tech Innovators\" competition, evaluating emerging technologies and startups."
+        },
+        {
+            "type": "added",
+            "text": "Featured in TechTimes for innovative solutions in network security and infrastructure development."
+        },
+        {
+            "type": "added",
+            "text": "Commanded a high salary as the founder and director, reflecting the company's success and market value."
+        },
+        {
+            "type": "removed",
+            "text": "Spearheaded an innovative VoIP solution that maximized customer support and improved product marketing."
+        },
+        {
+            "type": "removed",
+            "text": "Created new security policies and PCI DSS auditing procedures, improving long-term operational compliance and customer protection."
+        }
+    ]
+}

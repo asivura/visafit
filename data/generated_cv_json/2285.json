@@ -1,0 +1,37 @@
+{
+    "generated_cv": "# Robert Smith\n\n## Contact Information\n- **Phone:** 0123456789\n- **Email:** info@qwikresume.com\n- **Website:** [qwikresume.com](http://qwikresume.com)\n- **Address:** 2259 Oak Street, Old Forge, New York, 13420\n\n## Professional Summary\n3 years of software development experience specializing in Python and Java. Highly experienced in all phases of the Software Development Life Cycle (SDLC) and expert in web application development.\n\n## Core Competencies\n- Technical Frameworks: Django, Web2py, Flask, Struts, Pylons, CSS, Bootstrap, TurboGears, OpenStack\n- Web Technologies: HTML, CSS, DOM, SAX, JavaScript, jQuery, AJAX, XML, AngularJS\n- Programming Languages: Python, Java, SQL, PL/SQL\n- J2EE Technologies: JSP, Java Servlets, JDBC, JMS\n- Version Control: Git, GitHub\n\n## Professional Experience\n\n### Java/Python Developer, Computek Solutions\n*March 2015 - Present*\n\n- Written object-oriented Python using Flask, SQL, Beautiful Soup, Jinja2, HTML/CSS, Bootstrap, jQuery, Linux, Sublime Text, and Git\n- Developed required XML schema documents and implemented a framework for parsing XML documents\n- Built application database servers using AWS EC2, created AMIs, and used RDS with Oracle DB\n- Developed web applications using Django frameworks with Model View Control (MVC) architecture\n- Designed UI screens using templates, AJAX, HTML, and JSON\n- Used JavaScript for client-side validation\n- Involved in analysis, design, development, and testing phases of the Software Development Life Cycle (SDLC)\n- Scheduled tasks using Windows Task Scheduler to run Python scripts and generate reports at frequent intervals, also sending email alerts\n- **Led a critical project for Computek Solutions that resulted in a 20% increase in operational efficiency, demonstrating significant importance to the organization.**\n\n### Python Developer, ABC Corporation\n*March 2010 - March 2015*\n\n- Worked on Windows Server VM to run reporting scripts daily and make reports available via HTTP using IIS virtual directory\n- Created on-demand daily and weekly reports by invoking scripts with custom arguments and parameters to provide actionable data to test owners\n- Managed datasets using Pandas DataFrames and MySQL database queries\n- Used Python with pyodbc connector package to retrieve information\n- Wrote programs for performance calculations using NumPy and SQLAlchemy\n\n## Education\n\n*Details not provided in the original CV*\n\n## Achievements\n\n*Details not provided in the original CV*\n\n## Additional Information\n\n- **Member of the International Association of Software Architects (IASA), which requires outstanding achievements in the field.**\n- **Published an article titled 'Advanced Python Techniques' in the Journal of Software Development, a well-known professional journal.**\n\n---\n\nFree resume template copyright qwikresume.com usage guidelines",
+    "criterations": [
+        {
+            "criteration": "Critical employment",
+            "rating": "high",
+            "reference": "Led a critical project for Computek Solutions that resulted in a 20% increase in operational efficiency, demonstrating significant importance to the organization.",
+            "reasoning": "This fact demonstrates that Robert Smith has been employed in a critical capacity for Computek Solutions, contributing significantly to the organization's activities."
+        },
+        {
+            "criteration": "Memberships",
+            "rating": "low",
+            "reference": "Member of the International Association of Software Architects (IASA), which requires outstanding achievements in the field.",
+            "reasoning": "This fact shows that Robert Smith is a member of a professional association that requires outstanding achievements, supporting the 'Memberships' criterion."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "low",
+            "reference": "Published an article titled 'Advanced Python Techniques' in the Journal of Software Development, a well-known professional journal.",
+            "reasoning": "This fact demonstrates that Robert Smith has authored a scholarly article in a professional journal, supporting the 'Scholarly articles' criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- **Led a critical project for Computek Solutions that resulted in a 20% increase in operational efficiency, demonstrating significant importance to the organization.**"
+        },
+        {
+            "type": "added",
+            "text": "- **Member of the International Association of Software Architects (IASA), which requires outstanding achievements in the field.**"
+        },
+        {
+            "type": "added",
+            "text": "- **Published an article titled 'Advanced Python Techniques' in the Journal of Software Development, a well-known professional journal.**"
+        }
+    ]
+}

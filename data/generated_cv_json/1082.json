@@ -1,0 +1,17 @@
+{
+    "generated_cv": "# Robert Smith\n\n## Contact Information\n- Email: info@qwikresume.com\n\n## Professional Summary\nDevOps Engineer with 5 years of experience in infrastructure automation, code migration, configuration management, and system administration. Proven expertise in setting up enterprise infrastructure and working with Amazon Web Services (AWS).\n\n## Work Experience\n\n### DevOps Engineer II, ABC Corporation\n*October 2015 - Present*\n- Built and configured Red Hat Linux servers using Kickstart for project requirements.\n- Maintained maximum uptime and performance capacity for enterprise production, QA, and UAT/staging environments.\n- Implemented new AWS instances and worked with EBS, S3 storage, and IAM.\n- Launched and configured Amazon EC2 cloud servers using AMIs (Linux/Ubuntu).\n- Designed and implemented scalable and secure cloud architecture based on AWS.\n- Created scripts for new snapshots and deletion of old snapshots in S3.\n- Set up lifecycle policies for backup data in AWS S3 and AWS Glacier.\n- Managed Amazon IAM console to create custom users and groups.\n- Supported AWS cloud environment with 1000+ AWS instances.\n- Configured Elastic IP, Elastic Storage, and cloud system virtualization platforms (AWS, VMware, Docker, Vagrant).\n- Featured in DevOps Weekly for innovative cloud architecture solutions.\n\n### DevOps/Sr. Linux System Administrator, ABC Corporation\n*April 2014 - September 2015*\n- Installed, configured, and upgraded RedHat Linux 5/6 operating systems.\n- Set up new development branches, merged branches, and facilitated releases.\n- Managed permissions for various Git branches and created ad-hoc Git stashes.\n- Created post-commit and pre-push hooks using Python for SVN and Git repositories.\n- Set up SVN and Git repositories and Jenkins build jobs.\n- Managed database DDL and DML scripts in SVN and Git.\n- Wrote basic PowerShell scripts.\n- Diagnosed and troubleshot various networking hardware and Linux/Unix servers and services issues.\n- Performed preventive maintenance.\n\n## Skills\n- AWS (EC2, S3, IAM, EBS, Glacier)\n- Red Hat Linux\n- Git/SVN\n- Jenkins\n- Docker\n- VMware\n- Vagrant\n- Python\n- PowerShell\n- System Administration\n- Infrastructure Automation\n\n---\n\n*Free resume templates copyright QwikResume.com. Usage guidelines apply.*",
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "high",
+            "reference": "Featured in DevOps Weekly for innovative cloud architecture solutions.",
+            "reasoning": "This fact supports the 'Press' criterion as it demonstrates that Robert Smith's work was recognized and featured in a major professional publication, which is a strong indicator of his impact and recognition in the field."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "- Featured in DevOps Weekly for innovative cloud architecture solutions."
+        }
+    ]
+}

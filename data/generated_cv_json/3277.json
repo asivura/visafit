@@ -1,0 +1,17 @@
+{
+    "generated_cv": "# Gondola Dddd\n\n## Personal Information\n\n- **Email:** fugebinmailcom\n- **Phone:** 111 1111111\n- **Location:** Relocating to Ebin Benis, July 2021\n\n## Professional Summary\n\nExperienced Aviation Maintenance Technician with a strong background in maintaining both piston and turbine-powered aircraft, including fixed-wing and rotary fleet aircraft. Proficient in performing preflight, postflight, and scheduled inspections, as well as emergency maintenance. Skilled in using various maintenance tracking and planning software.\n\n## Work Experience\n\n### Aviation Maintenance Technician, Benis Air\n*May 2018 - Present*\n\n- Responsible for maintenance of 10 piston and turbine-powered aircraft\n- Perform preflight, postflight, monthly, and heavy C checks\n- Conduct scheduled inspections and maintenance in flight line and hangar environments\n- Coordinate directly with the Director of Maintenance for unscheduled and emergency maintenance\n- Working knowledge of AMM, CMM, IPC, SRM, and manufacturers' repair and troubleshooting documents\n- Proficient in CAMP MTX maintenance tracking and planning software\n- Sign airworthiness release and required inspection items in accordance with company RII program\n- Conduct hands-on training for subordinate mechanics in accordance with company maintenance policy\n- Experience with Cirrus Aircraft, Dassault Aviation, Honeywell, GE, Piper, Pratt & Whitney, Rolls-Royce, Textron Aviation, Bell Helicopter, Beechcraft, and Cessna\n- Model experience includes Bell 206L4 LongRanger IV, Beechcraft Baron, King Air C90, Cessna Citation 550/S550/560, Cirrus SR22, Dassault Falcon 50/900B/900EX/2000, Hawker 800XP, Piper PA-31 Navajo\n\n## Education\n\n### Spurdo Sparde Technological Center, Benistown, Benisland\n\n- **Program:** Aviation Maintenance Technology Program (FAA-approved school)\n\n### Benis University, Ebintown, Benisland\n\n- **Major:** Mechanical Engineering\n\n### Ebin High School, Fugtown, Benisland\n\n## Certifications\n\n- FAA-certified Airframe & Powerplant Mechanic (A&P)\n  - *August 2017*\n  - *April 2019*\n  - *August 2014*\n  - *September 2015*\n  - *September 2010*\n  - *May 2014*\n\n## Awards\n\n- Recipient of the \"National Aviation Maintenance Excellence Award\" in 2020, recognizing outstanding contributions and excellence in the field of aviation maintenance.",
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Recipient of the \"National Aviation Maintenance Excellence Award\" in 2020, recognizing outstanding contributions and excellence in the field of aviation maintenance.",
+            "reasoning": "This award is a nationally recognized prize for excellence in the field of aviation maintenance, meeting the high rating criteria for the 'Awards' category."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "## Awards\n\n- Recipient of the \"National Aviation Maintenance Excellence Award\" in 2020, recognizing outstanding contributions and excellence in the field of aviation maintenance."
+        }
+    ]
+}

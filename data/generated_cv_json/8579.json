@@ -1,0 +1,27 @@
+{
+    "generated_cv": "# Jessica Claire\n\n100 Montgomery St, 10th Floor\n555-432-1000\nresumesample@example.com\n\n## Professional Summary\n\nPassionate and experienced Database Analyst and AWS Cloud Administrator with over 3 years of experience in infrastructure functions. Seeking a challenging job that encourages continuous learning and provides exposure to new ideas for professional growth.\n\n## Skills\n\n- **Cloud:** Amazon Web Services (AWS)\n- **Database:** SQL, MySQL 5.6, Oracle RDBMS\n- **Storage & Backup Tools:** BRMS, Native Backup Tool, AS400\n- **Infrastructure Tools:** StruxureWare, SCOM, PlateSpin, SolarWinds, NetApp, Moogsoft, Nimsoft\n- **Console Application Tools:** Revitas, Sterling, SOA, EBS\n- **Programming Languages:** C, C++, Java\n- **Web Designing:** HTML, XML, PHP\n- **Ticketing Tools:** BMC Remedy, Snow\n- **Operating Systems:** AS400 (V7R1, V7R3), Windows XP, Ubuntu/Linux\n\n## Work Experience\n\n### Database Analyst\n**Sunovion Pharma, Marlborough**\n*July 2016 - October 2017*\n- Designed advanced SQL queries, stored procedures, triggers, and scripts.\n- Created, maintained, modified, and optimized SQL Server databases.\n- Collaborated with programmers for data modeling and optimized query and table design.\n- Implemented process improvement guidelines, procedures, and workflows.\n- Assessed database performance for large databases, including system utilization and user response time.\n- Provided on-call support and scheduled support for critical incidents.\n\n### iSeries Administration Analyst\n**Dean Foods, Texas**\n*October 2017 - October 2018*\n- Provided AS400 admin support for client Dean Foods US.\n- Gained knowledge in user profile and user authority management.\n- Troubleshot QEDD replication, monitored and controlled queues and spool files.\n- Created, started, and ended subsystems per user requirements.\n- Created and scheduled robot jobs, troubleshot scheduler issues.\n- Performed backups and managed media inventory using BRMS, restored objects and libraries.\n- Performed Initial Program Load (IPL) via HMC and health checks post-backup completion.\n- Controlled and submitted critical batch jobs via robot native scheduler.\n- Dispatched high, medium, and low severity issues within SLA.\n- Provided 24x7 support rotation for production, test, and development databases.\n\n### AWS Administration Architect\n**Dean Foods, Texas**\n*October 2018 - November 2019*\n- Involved in migration and implementation of multiple applications from on-premise to cloud using various AWS services like EC2, S3, RDS, EFS.\n- Provided support and managed services within AWS global infrastructure.\n- Launched EC2 cloud instances using AWS, configured instances, and created S3 buckets.\n- Built servers using AWS, imported volumes, launched EC2 instances, and created security groups.\n- Defined virtual private connections and created notifications for EC2 hosts using CloudWatch.\n- Worked with security division to design and manage IAM roles and users.\n- Performed consolidation of enterprise backup environments in AWS to reduce backup recovery time and increase backup success rate.\n- Managed and configured AWS services as per business needs.\n- **Member of the Association for Computing Machinery (ACM), recognized for outstanding achievements in cloud computing and database management.**\n\n## Education\n\n### Bachelor of Engineering in Computer Science\n**Kings Engineering College**\n*April 2013*\n\n### Master of Technology in Software Engineering\n**BS Abdur Rahman Crescent Institute of Technology, Chennai**\n*April 2015*\n\n## Publications and Contributions\n\n- **Developed an innovative database optimization algorithm that significantly improved query performance, which has been cited in several scholarly articles and adopted by multiple organizations.**\n",
+    "criterations": [
+        {
+            "criteration": "Memberships",
+            "rating": "high",
+            "reference": "Member of the Association for Computing Machinery (ACM), recognized for outstanding achievements in cloud computing and database management.",
+            "reasoning": "Membership in the ACM, a prestigious association, requires outstanding achievements in the field, as judged by recognized experts. This supports the high rating for the Membership criterion."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Developed an innovative database optimization algorithm that significantly improved query performance, which has been cited in several scholarly articles and adopted by multiple organizations.",
+            "reasoning": "The development of a database optimization algorithm that has been cited in scholarly articles and adopted by organizations demonstrates a significant original contribution to the field, supporting a medium rating for the Original contribution criterion."
+        }
+    ],
+    "edits": [
+        {
+            "type": "added",
+            "text": "Member of the Association for Computing Machinery (ACM), recognized for outstanding achievements in cloud computing and database management."
+        },
+        {
+            "type": "added",
+            "text": "Developed an innovative database optimization algorithm that significantly improved query performance, which has been cited in several scholarly articles and adopted by multiple organizations."
+        }
+    ]
+}
