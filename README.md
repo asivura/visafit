@@ -19,6 +19,7 @@ AI application to roughly assess how a person is qualified for an O-1A immigrati
     LANGCHAIN_API_KEY="<your-api-key>"
     LANGCHAIN_PROJECT="visafit"
     OPENAI_API_KEY="<your api key for openai>"
+    UNSTRUCTURED_API_KEY="<your api key for unstructured>"
     ```
 
 
