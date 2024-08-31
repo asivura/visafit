@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Developed a custom security solution that significantly reduced unauthorized access incidents by 30% across the organization.",
+            "reasoning": "The CV mentions that Jessica developed a custom security solution that had a significant impact by reducing unauthorized access incidents by 30%. This indicates an original contribution of some significance in her field. However, there is no additional evidence or external validation provided to elevate this to a 'high' rating."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "SAP Security Administration & GRC Support\nApplied Medical Distribution Corporation, Myrtle Beach, SC\nMay 2016 - Current",
+            "reasoning": "Jessica has been employed in a critical role at Applied Medical Distribution Corporation, providing essential SAP Security and GRC support. The company appears to be a distinguished organization, and her role involves significant responsibilities. However, the CV does not provide enough information about the company's distinguished reputation or the critical nature of her role to warrant a 'high' rating."
+        }
+    ]
+}

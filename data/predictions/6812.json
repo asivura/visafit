@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Jessica Claire's innovative teaching methods were featured in the San Francisco Chronicle in 2019, highlighting her unique approach to language arts education and her impact on student performance.",
+            "reasoning": "The CV includes a mention of media coverage in the San Francisco Chronicle, a major publication, which highlights Jessica Claire's innovative teaching methods and their impact. This satisfies the criterion for press coverage, though the extent of the coverage is not detailed, leading to a 'medium' rating."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "high",
+            "reference": "Served as a peer reviewer for scholarly publications in the field of education",
+            "reasoning": "Jessica Claire has served as a peer reviewer for scholarly publications in the field of education. This directly satisfies the criterion for judging the work of others in the same field, and the role of a peer reviewer is significant, leading to a 'high' rating."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Claire, J. (2018). \"Innovative Approaches to Language Arts Education.\" Journal of Educational Research, 45(3), 123-135.",
+            "reasoning": "Jessica Claire has authored a scholarly article published in the Journal of Educational Research, which is a professional journal. This directly satisfies the criterion for authorship of scholarly articles, leading to a 'high' rating."
+        }
+    ]
+}

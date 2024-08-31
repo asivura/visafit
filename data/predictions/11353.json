@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "low",
+            "reference": "Received the \"Employee of the Year\" award for outstanding performance in 2018",
+            "reasoning": "The CV mentions an 'Employee of the Year' award, which indicates recognition for excellence. However, the award appears to be internal to the company and not nationally or internationally recognized, thus meriting a 'low' rating."
+        },
+        {
+            "criteration": "Membership",
+            "rating": "high",
+            "reference": "Served as a member of the IEEE, which requires outstanding achievements in the field",
+            "reasoning": "Membership in IEEE is a significant professional association that requires outstanding achievements, as judged by recognized experts in the field. This satisfies the criterion at a high level."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary of $120,000 per year at Android Industries, significantly above the industry average for similar roles.",
+            "reasoning": "The CV provides evidence of a high salary ($120,000 per year) at Android Industries, which is significantly above the industry average for similar roles. This satisfies the criterion at a high level."
+        }
+    ]
+}

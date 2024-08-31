@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in DevOps Weekly for innovative cloud architecture solutions.",
+            "reasoning": "The CV mentions that Robert Smith was featured in DevOps Weekly for his innovative cloud architecture solutions. This indicates that there was published material about his work, which is relevant to the 'Press' criterion. However, the rating is 'medium' because the CV does not provide details about the publication's significance or the extent of the coverage."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "DevOps Engineer II, ABC Corporation\nOctober 2015 - Present\nBuilt and configured Red Hat Linux servers using Kickstart for project requirements.\nMaintained maximum uptime and performance capacity for enterprise production, QA, and UAT/staging environments.\nImplemented new AWS instances and worked with EBS, S3 storage, and IAM.\nLaunched and configured Amazon EC2 cloud servers using AMIs (Linux/ Ubuntu).\nDesigned and implemented scalable and secure cloud architecture based on AWS.\nCreated scripts for new snapshots and deletion of old snapshots in S3.\nSet up lifecycle policies for backup data in AWS S3 and AWS Glacier.\nManaged Amazon IAM console to create custom users and groups.\nSupported AWS cloud environment with 1000+ AWS instances.\nConfigured Elastic IP, Elastic Storage, and cloud system virtualization platforms (AWS, VMware, Docker, Vagrant).",
+            "reasoning": "Robert Smith's role as a DevOps Engineer II at ABC Corporation involved significant responsibilities such as maintaining maximum uptime and performance capacity for enterprise environments, implementing AWS instances, and designing scalable cloud architecture. These tasks indicate a critical role in the organization. The rating is 'medium' because while the responsibilities are significant, the CV does not explicitly state the distinguished reputation of ABC Corporation."
+        }
+    ]
+}

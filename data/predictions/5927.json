@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Membership",
+            "rating": "low",
+            "reference": "Member:\nAmerican Institute of Certified Public Accountants (AICPA)",
+            "reasoning": "The CV mentions membership in the American Institute of Certified Public Accountants (AICPA). However, there is no evidence provided that this membership requires outstanding achievements judged by recognized national or international experts. Therefore, the rating is low."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Developed a new accounting software module that significantly improved financial\nreporting accuracy and efficiency for Anova",
+            "reasoning": "The CV states that the individual developed a new accounting software module that significantly improved financial reporting accuracy and efficiency. This suggests an original contribution of some significance to the field of accounting. However, there is no additional evidence or testimonials to support the major significance of this contribution, so the rating is medium."
+        }
+    ]
+}

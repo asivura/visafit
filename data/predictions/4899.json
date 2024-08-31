@@ -1,0 +1,34 @@
+{
+    "criterations": [
+        {
+            "criteration": "Membership",
+            "rating": "medium",
+            "reference": "Member of the Association for Computing Machinery (ACM)",
+            "reasoning": "The CV indicates membership in the Association for Computing Machinery (ACM). While the CV does not specify that this membership requires outstanding achievements judged by recognized experts, ACM is a well-known professional association in the field of computing. Therefore, this criterion is satisfied at a medium level."
+        },
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Published two scholarly articles in the Journal of Software Engineering and Applications.",
+            "reasoning": "The CV mentions the publication of two scholarly articles in a professional journal. This indicates that the beneficiary's work has been recognized and published in a professional context, which satisfies the criterion at a medium level."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "high",
+            "reference": "Served as a peer reviewer for the International Journal of Computer Science and Information Security.",
+            "reasoning": "The CV states that the beneficiary served as a peer reviewer for a scholarly journal. This demonstrates participation in judging the work of others in the field, satisfying the criterion at a high level."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Published two scholarly articles in the Journal of Software Engineering and Applications.",
+            "reasoning": "The CV explicitly mentions the authorship of scholarly articles in a professional journal, which directly satisfies this criterion at a high level."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a salary in the top 10% of Java Developers in Los Angeles during tenure at Dacoderz.",
+            "reasoning": "The CV indicates that the beneficiary commanded a high salary relative to others in the same field, satisfying this criterion at a high level."
+        }
+    ]
+}

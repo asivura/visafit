@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "low",
+            "reference": "3rd Place, 10th National Fitness Awards",
+            "reasoning": "The CV mentions a 3rd place award in the 10th National Fitness Awards. While this is a national award, the significance and criteria for the award are not detailed, and it is a third-place finish, which may not be as prestigious as a first-place award. Therefore, the rating is 'low'."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "medium",
+            "reference": "Commanded a high salary for services, significantly above the industry average.",
+            "reasoning": "The CV states that the individual commanded a high salary significantly above the industry average. However, there is no specific evidence such as tax returns, pay statements, or comparative wage data provided to substantiate this claim. Therefore, the rating is 'medium'."
+        }
+    ]
+}

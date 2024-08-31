@@ -1,0 +1,28 @@
+{
+    "criterations": [
+        {
+            "criteration": "Membership",
+            "rating": "medium",
+            "reference": "Member of the American Society of Landscape Architects (ASLA)",
+            "reasoning": "The CV indicates that Jessica is a member of the American Society of Landscape Architects (ASLA). While the CV does not specify that this membership requires outstanding achievements judged by recognized experts, ASLA is a well-known professional association in the field of landscape architecture, which suggests a certain level of professional recognition."
+        },
+        {
+            "criteration": "Press",
+            "rating": "low",
+            "reference": "Published an article on sustainable landscape architecture in the Journal of Environmental Design",
+            "reasoning": "The CV mentions that Jessica published an article on sustainable landscape architecture in the Journal of Environmental Design. However, it does not provide details on whether this publication is a major trade publication or major media, nor does it specify if the article was about her work. Therefore, this criterion is rated as low."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "high",
+            "reference": "Served as a peer reviewer for the Journal of Landscape Architecture, evaluating submissions on sustainable design practices",
+            "reasoning": "Jessica has served as a peer reviewer for the Journal of Landscape Architecture, which involves evaluating submissions on sustainable design practices. This clearly demonstrates her participation as a judge of the work of others in her field, satisfying this criterion with a high rating."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Published an article on sustainable landscape architecture in the Journal of Environmental Design",
+            "reasoning": "Jessica has authored a scholarly article on sustainable landscape architecture in the Journal of Environmental Design. This publication in a professional journal indicates her contribution to scholarly work in her field, warranting a medium rating."
+        }
+    ]
+}

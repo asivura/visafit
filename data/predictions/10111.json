@@ -1,0 +1,34 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Awarded best performing region based on allowance booking and collections for 3 consecutive years.",
+            "reasoning": "The CV mentions that Jessica was awarded the best performing region for three consecutive years, which indicates a nationally or internationally recognized award for excellence in her field. This satisfies the 'Awards' criterion with a high rating due to the repeated recognition over multiple years."
+        },
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in the Financial Times for innovative financial strategies implemented at Advantage Solutions.",
+            "reasoning": "Being featured in the Financial Times, a major media publication, for her innovative financial strategies satisfies the 'Press' criterion. The rating is medium because while the mention is significant, it does not provide extensive details about the coverage."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Claire, J. (2021). \"Innovative Financial Strategies in Multinational Corporations.\" Journal of International Finance, 15(3), 45-60.",
+            "reasoning": "Jessica's publication in a professional journal about innovative financial strategies indicates an original contribution to her field. The rating is medium because while the publication is significant, additional evidence such as citations or expert testimonials would strengthen the case."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Claire, J. (2021). \"Innovative Financial Strategies in Multinational Corporations.\" Journal of International Finance, 15(3), 45-60.",
+            "reasoning": "Jessica has authored a scholarly article in a professional journal, which satisfies the 'Scholarly articles' criterion. The rating is medium because it is a single publication, and more publications would provide a stronger case."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "high",
+            "reference": "Built an entire new credit control department in Dubai to take charge of the MEA portfolio for international business.",
+            "reasoning": "Jessica's role in building a new credit control department in Dubai for a multinational company demonstrates her critical and essential capacity in a distinguished organization. This satisfies the 'Critical employment' criterion with a high rating due to the significant impact and responsibility of her role."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in a major trade publication for innovative data integration solutions implemented at Rabobank NA.",
+            "reasoning": "The CV mentions that the individual was featured in a major trade publication for their work at Rabobank NA. This satisfies the criterion of having published material in major trade publications about the beneficiary's work. However, the specific details of the publication (title, date, author) are not provided, so the rating is medium."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary relative to industry standards, as evidenced by pay statements and comparative wage data.",
+            "reasoning": "The CV explicitly states that the individual commanded a high salary relative to industry standards, supported by pay statements and comparative wage data. This directly satisfies the criterion of high remuneration with strong supporting evidence, warranting a high rating."
+        }
+    ]
+}

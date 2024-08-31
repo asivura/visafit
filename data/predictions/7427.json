@@ -1,0 +1,10 @@
+{
+    "criterations": [
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Claire, J. (2021). \"Blockchain Security: Challenges and Solutions.\" Journal of Cybersecurity Research, 15(3), 45-67.",
+            "reasoning": "The CV includes a scholarly article authored by Jessica Claire, published in the Journal of Cybersecurity Research. This publication demonstrates her contribution to the field of cybersecurity. The rating is medium because there is only one listed publication, but it is in a relevant and professional journal."
+        }
+    ]
+}

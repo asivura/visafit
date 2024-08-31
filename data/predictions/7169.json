@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Membership",
+            "rating": "medium",
+            "reference": "Member of the International Association for Intelligence Education (IAFIE)",
+            "reasoning": "The CV indicates that Jessica Claire is a member of the International Association for Intelligence Education (IAFIE). While the CV does not specify that this membership requires outstanding achievements judged by recognized experts, IAFIE is a professional association relevant to her field. Therefore, this criterion is satisfied at a medium level."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "high",
+            "reference": "Served as a peer reviewer for scholarly publications in the field of intelligence",
+            "reasoning": "Jessica Claire has served as a peer reviewer for scholarly publications in the field of intelligence. This directly satisfies the criterion of participating as a judge of the work of others in her field. The role of a peer reviewer is significant and involves evaluating the work of other professionals, which aligns well with the criterion's requirements."
+        }
+    ]
+}

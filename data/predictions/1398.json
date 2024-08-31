@@ -1,0 +1,34 @@
+{
+    "criterations": [
+        {
+            "criteration": "Membership",
+            "rating": "high",
+            "reference": "Member of the Data Management Association (DAMA), which requires outstanding achievements in the field of data management",
+            "reasoning": "The CV explicitly states that Robert Smith is a member of the Data Management Association (DAMA), which requires outstanding achievements in the field of data management. This satisfies the criterion for membership in associations that require outstanding achievements, as judged by recognized national or international experts."
+        },
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Participated as a peer reviewer for scholarly publications in the field of data processing",
+            "reasoning": "The CV mentions that Robert Smith participated as a peer reviewer for scholarly publications in the field of data processing. While this indicates involvement in the academic community, it does not provide specific details about published material about him. Therefore, it partially satisfies the criterion for press coverage, but with a medium rating due to the lack of detailed evidence."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "high",
+            "reference": "Participated as a peer reviewer for scholarly publications in the field of data processing",
+            "reasoning": "The CV states that Robert Smith participated as a peer reviewer for scholarly publications in the field of data processing. This directly satisfies the criterion for judging the work of others in the same or allied field of specialization."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Authored several scholarly articles on data warehousing and ETL processes published in professional journals",
+            "reasoning": "The CV mentions that Robert Smith authored several scholarly articles on data warehousing and ETL processes published in professional journals. This directly satisfies the criterion for authorship of scholarly articles in the field."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Received a high remuneration package at ABC Corporation, significantly above the industry average for ETL Developers",
+            "reasoning": "The CV states that Robert Smith received a high remuneration package at ABC Corporation, significantly above the industry average for ETL Developers. This satisfies the criterion for high remuneration, as it provides evidence of commanding a high salary relative to others in the field."
+        }
+    ]
+}

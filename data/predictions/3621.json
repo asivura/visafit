@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in a major trade publication for innovative business analysis techniques that significantly improved company processes.",
+            "reasoning": "The CV mentions that Richard Williams was featured in a major trade publication for his innovative business analysis techniques. This satisfies the criterion of having published material in major trade publications about the beneficiary's work. The rating is medium because while the mention is significant, there is no detailed information about the publication's reach or impact."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Authored several scholarly articles on business analysis and process optimization, published in professional journals.",
+            "reasoning": "The CV states that Richard Williams authored several scholarly articles on business analysis and process optimization, which were published in professional journals. This directly satisfies the criterion of authorship of scholarly articles in the field. The rating is high because multiple articles in professional journals indicate a strong contribution to the field."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Awarded the National Cyber Security Excellence Award in 2019 for outstanding contributions to the field.",
+            "reasoning": "The National Cyber Security Excellence Award is a nationally recognized prize for excellence in the field of cyber security. The award's national significance and the recognition of outstanding contributions align well with the criterion's description and considerations."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "medium",
+            "reference": "Served as a peer reviewer for the Journal of Cyber Security in 2021.",
+            "reasoning": "Serving as a peer reviewer for a scholarly journal demonstrates participation in judging the work of others in the same field. However, the CV does not provide detailed documentation of the request and completion of the review, which is why the rating is medium."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Montgomery, J.C. (2020). \"Advanced Cyber Security Measures in Web Development.\" Journal of Cyber Security, 15(3), 45-60.",
+            "reasoning": "The publication of an article in a reputable journal suggests original contributions to the field. However, the CV does not provide additional evidence such as citations or detailed letters from experts explaining the significance of the work, leading to a medium rating."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Montgomery, J.C. (2020). \"Advanced Cyber Security Measures in Web Development.\" Journal of Cyber Security, 15(3), 45-60.",
+            "reasoning": "The authorship of a scholarly article in the Journal of Cyber Security, a professional journal, satisfies this criterion. The article is written for learned persons in the field, and the journal's reputation supports a high rating."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "high",
+            "reference": "Held a critical role as the Lead Cyber Security Consultant for a major project at the Department of Defense in 2022.",
+            "reasoning": "The role of Lead Cyber Security Consultant for a major project at the Department of Defense, an organization with a distinguished reputation, demonstrates employment in a critical capacity. The significant importance of the role to the organization's activities supports a high rating."
+        }
+    ]
+}

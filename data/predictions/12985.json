@@ -1,0 +1,28 @@
+{
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in a TechCrunch article discussing innovative database management solutions implemented at USA Vein Clinics.",
+            "reasoning": "The CV mentions that Jessica was featured in a TechCrunch article, which is a major online publication. This satisfies the criterion of having published material in major media about the beneficiary and her work. However, the rating is medium because there is only one instance of such coverage."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Published an article in the Journal of Database Management on optimizing SQL queries, which has been cited over 50 times.",
+            "reasoning": "Jessica has authored a scholarly article in a professional journal, which has been cited over 50 times. This demonstrates significant recognition and impact in her field, satisfying the criterion with a high rating."
+        },
+        {
+            "criteration": "Membership",
+            "rating": "medium",
+            "reference": "Member of the Beta Gamma Sigma honor society, which recognizes outstanding academic achievements in business studies.",
+            "reasoning": "Jessica is a member of the Beta Gamma Sigma honor society, which requires outstanding academic achievements. This satisfies the criterion of membership in associations that require outstanding achievements, but the rating is medium because it is limited to academic achievements rather than professional ones."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Received a salary offer of $120,000 per year for a senior SQL Developer position at a leading tech firm, which is significantly higher than the industry average.",
+            "reasoning": "Jessica received a salary offer significantly higher than the industry average, demonstrating that she commands a high remuneration for her services. This satisfies the criterion with a high rating."
+        }
+    ]
+}

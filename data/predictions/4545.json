@@ -1,0 +1,34 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Municipal Finance Officers Association (MFOA) Distinguished Budget Award Winner (5 consecutive years)\nCalifornia Department of Finance Administration 2005-2006 Budget Award Winner\nLaser Solutions Employee Star Award Winner",
+            "reasoning": "The CV lists multiple awards, including the MFOA Distinguished Budget Award for five consecutive years and the California Department of Finance Administration Budget Award. These awards are from recognized institutions and indicate excellence in the field of finance and treasury management."
+        },
+        {
+            "criteration": "Membership",
+            "rating": "medium",
+            "reference": "Member of the Association for Financial Professionals (AFP)",
+            "reasoning": "The CV mentions membership in the Association for Financial Professionals (AFP). While this is a relevant professional association, the CV does not provide specific details on whether this membership requires outstanding achievements judged by recognized experts."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "medium",
+            "reference": "Served as a peer reviewer for scholarly publications in finance and treasury management",
+            "reasoning": "The CV states that the individual served as a peer reviewer for scholarly publications in finance and treasury management. This indicates participation in judging the work of others in the field, although the extent and frequency of this activity are not detailed."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Mellon, B. (2018). Strategic Financial Management in Public Sector. Journal of Public Budgeting, Accounting & Financial Management, 30(4), 567-589.",
+            "reasoning": "The CV includes authorship of a scholarly article published in a relevant professional journal. This demonstrates the individual's contribution to the field through scholarly work."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "high",
+            "reference": "Senior Budget Analyst (2005-Present)\nManaged performance measurement and accountability system across 60 government departments and programs\nSecured $32 million in grants despite severe budget constraints\nDeveloped a $350 million ten-year capital improvement plan with public and municipal input",
+            "reasoning": "The CV details a senior role as a Senior Budget Analyst with significant responsibilities and achievements, such as managing performance measurement across multiple departments, securing substantial grants, and developing major financial plans. This indicates employment in a critical capacity for a distinguished organization."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Received the Google Design Award for Excellence in User Experience in 2016.",
+            "reasoning": "The Google Design Award is a well-known and prestigious award in the tech industry, recognizing excellence in user experience. This aligns with the criterion of receiving nationally or internationally recognized prizes for excellence."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "high",
+            "reference": "Served as a judge for the annual UX Design Awards, evaluating submissions from designers worldwide.",
+            "reasoning": "Serving as a judge for the annual UX Design Awards demonstrates participation in evaluating the work of others in the same field. This aligns well with the criterion of judging, especially given the international scope of the awards."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "high",
+            "reference": "Lead UX Designer, Figma\nMar 2017 - Current\n\nLed design of the Auto Layout feature, allowing customers to easily resize components.\n\nPlayed a critical role in the development of Figma's design system, which is now used by major tech companies worldwide.",
+            "reasoning": "The role at Figma, a distinguished company in the design industry, and the critical contributions to major features and the design system, which is widely adopted, demonstrate significant and essential contributions to a distinguished organization."
+        }
+    ]
+}

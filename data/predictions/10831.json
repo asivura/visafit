@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Authored several scholarly articles on software development methodologies, published in top-tier professional journals.",
+            "reasoning": "The CV explicitly mentions the authorship of several scholarly articles published in top-tier professional journals, which directly satisfies the criterion for scholarly articles. The rating is high because the publications are in top-tier journals, indicating a significant contribution to the field."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Contributed to the development of a novel SCADA system that significantly improved operational efficiency, which was later cited in multiple industry publications.",
+            "reasoning": "The CV mentions a novel SCADA system developed by the beneficiary that significantly improved operational efficiency and was cited in multiple industry publications. This indicates an original contribution of major significance in the field. The rating is medium because while the contribution is significant, the CV does not provide detailed evidence or testimonials about the impact."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "Senior Java Developer/Tech Lead\nSynnex Corporation, Tracy, CA\n2014 - Current",
+            "reasoning": "The CV shows that the beneficiary has been employed in a critical capacity as a Senior Java Developer/Tech Lead at Synnex Corporation, a distinguished organization. The rating is medium because while the role is critical, the CV does not provide detailed evidence of the organization's distinguished reputation or the specific impact of the beneficiary's contributions."
+        }
+    ]
+}

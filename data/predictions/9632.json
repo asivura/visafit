@@ -1,0 +1,28 @@
+{
+    "criterations": [
+        {
+            "criteration": "Judging",
+            "rating": "medium",
+            "reference": "2020: Invited as a panel judge for the National Electrical Contractors Association (NECA) annual conference.",
+            "reasoning": "The CV indicates that Jessica was invited to judge at the NECA annual conference, which is a relevant professional event. However, there is no detailed documentation of her actual participation, which limits the rating to medium."
+        },
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "2019: Featured in Electrical Contractor Magazine for innovative electrical system designs.",
+            "reasoning": "Jessica was featured in a major trade publication, Electrical Contractor Magazine, which is relevant to her field. The feature indicates recognition of her work, but the extent and depth of the coverage are not detailed, so the rating is medium."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "2018: Published an article on advanced electrical troubleshooting in the Journal of Electrical Engineering.",
+            "reasoning": "Jessica authored an article in the Journal of Electrical Engineering, a professional journal relevant to her field. This demonstrates her contribution to scholarly work, but the impact and reception of the article are not provided, so the rating is medium."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "high",
+            "reference": "2017: Led a critical project for Huntington Ingalls Industries that significantly improved power distribution efficiency.",
+            "reasoning": "Jessica led a critical project at Huntington Ingalls Industries, a distinguished organization. Her role in significantly improving power distribution efficiency demonstrates her critical and essential contribution to the company, warranting a high rating."
+        }
+    ]
+}

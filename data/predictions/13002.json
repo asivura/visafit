@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Recognized with the \"Excellence in Nursing\" award by the Illinois Nurses Association in 2019",
+            "reasoning": "The CV mentions that Jessica Claire received the 'Excellence in Nursing' award from the Illinois Nurses Association in 2019. This award is likely to be nationally recognized within the nursing field, satisfying the criterion for awards. The rating is high because the award is from a well-known professional association and indicates excellence in the field."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a salary in the top 10% of nurses in the state of Illinois for the past 5 years, as evidenced by tax returns and pay statements.",
+            "reasoning": "The CV states that Jessica Claire commanded a salary in the top 10% of nurses in Illinois for the past 5 years, supported by tax returns and pay statements. This clearly demonstrates high remuneration relative to others in the same field, satisfying this criterion with a high rating."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "criterations": [
+        {
+            "criteration": "Membership",
+            "rating": "high",
+            "reference": "Fellow of the American Institute of Certified Public Accountants (AICPA)",
+            "reasoning": "The CV indicates that Jessica Claire Montgomery is a Fellow of the American Institute of Certified Public Accountants (AICPA). This membership is significant as it requires outstanding achievements in the field of accounting, judged by recognized national experts."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "medium",
+            "reference": "Served as a peer reviewer for scholarly publications in the field of accounting and finance",
+            "reasoning": "Jessica has served as a peer reviewer for scholarly publications in the field of accounting and finance. This demonstrates her participation in judging the work of others in her field, although the extent and frequency of this activity are not detailed."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Developed a novel accounting system that significantly improved the efficiency of financial transactions for Anoka County, MN, which has been adopted by several other counties in the state.",
+            "reasoning": "Jessica developed a novel accounting system that improved financial transaction efficiency for Anoka County, MN, and was adopted by several other counties. This indicates a significant original contribution to her field, though further details on its impact would strengthen this criterion."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Montgomery, J.C. (2012). \"Innovative Approaches in Grants Accounting.\" Journal of Financial Management, 45(3), 123-135.",
+            "reasoning": "Jessica authored a scholarly article titled \"Innovative Approaches in Grants Accounting\" published in the Journal of Financial Management. This publication in a professional journal demonstrates her contribution to scholarly literature in her field."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "Accountant (06/2013 - Current) at Anoka County, MN",
+            "reasoning": "Jessica has been employed as an Accountant at Anoka County, MN, where she has taken on significant responsibilities such as preparing journal entries, handling expenses, and providing financial analysis. While her role is critical, more information on the distinguished reputation of Anoka County would strengthen this criterion."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "low",
+            "reference": "Received the \"Outstanding Service Award\" from the California Clerk Association in 2018 for excellence in administrative support.",
+            "reasoning": "The CV mentions an award received from the California Clerk Association, which is a recognized professional association. However, the award is for administrative support rather than a specific field of endeavor, and there is no information on the criteria used to grant the award or its national or international significance. Therefore, the rating is low."
+        },
+        {
+            "criteration": "Press",
+            "rating": "low",
+            "reference": "Featured in the \"City Times\" newspaper in 2012 for innovative methods in managing court administrative tasks.",
+            "reasoning": "The CV mentions being featured in a newspaper for innovative methods in managing court administrative tasks. While this is a form of media coverage, it is not clear if \"City Times\" is a major media outlet or if the coverage was substantial. Therefore, the rating is low."
+        }
+    ]
+}

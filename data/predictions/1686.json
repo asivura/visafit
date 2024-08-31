@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in HR Today magazine for innovative HR practices.",
+            "reasoning": "The CV mentions that the individual was featured in HR Today magazine for their innovative HR practices. This satisfies the 'Press' criterion as it is a major trade publication about the beneficiary's work. However, the rating is 'medium' because there is only one instance of such coverage mentioned."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Published an article on employee retention strategies in the Journal of Human Resources.",
+            "reasoning": "The CV states that the individual published an article in the Journal of Human Resources. This satisfies the 'Scholarly articles' criterion as it is a professional journal relevant to the field. The rating is 'medium' because there is only one article mentioned."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "high",
+            "reference": "Served as a panel judge for the annual HR Excellence Awards, evaluating HR practices of various companies.",
+            "reasoning": "The CV indicates that the individual served as a panel judge for the annual HR Excellence Awards, which involves evaluating HR practices of various companies. This satisfies the 'Judging' criterion and is rated 'high' because it demonstrates significant involvement in judging the work of others in the field."
+        }
+    ]
+}

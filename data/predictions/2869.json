@@ -1,0 +1,46 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Awarded the National Agricultural Excellence Award for innovative farming techniques.",
+            "reasoning": "The CV mentions that Marcus Hall received the National Agricultural Excellence Award, which is a nationally recognized prize for excellence in the field of agriculture. This directly satisfies the 'Awards' criterion, and the significance of the award in the field justifies a high rating."
+        },
+        {
+            "criteration": "Membership",
+            "rating": "medium",
+            "reference": "Member of the International Society of Precision Agriculture (ISPA)",
+            "reasoning": "Marcus Hall is a member of the International Society of Precision Agriculture (ISPA). While the CV does not specify that this membership requires outstanding achievements judged by recognized experts, ISPA is a professional association relevant to his field. Therefore, this satisfies the 'Membership' criterion with a medium rating."
+        },
+        {
+            "criteration": "Press",
+            "rating": "low",
+            "reference": "Published articles on sustainable farming practices in the Journal of Agricultural Sciences.",
+            "reasoning": "The CV mentions that Marcus Hall has published articles in the Journal of Agricultural Sciences. However, it does not specify that these articles are about him or his work, which is a requirement for the 'Press' criterion. Therefore, this satisfies the criterion with a low rating."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "high",
+            "reference": "Served as a peer reviewer for the Journal of Agricultural Sciences.",
+            "reasoning": "Marcus Hall has served as a peer reviewer for the Journal of Agricultural Sciences. This directly satisfies the 'Judging' criterion, as it demonstrates his participation in evaluating the work of others in his field. The role of a peer reviewer is significant and justifies a high rating."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Implemented precision agriculture techniques, resulting in a 15% reduction in fertilizer usage and improved soil health.",
+            "reasoning": "The CV highlights Marcus Hall's implementation of precision agriculture techniques that led to significant improvements in soil health and reduction in fertilizer usage. This indicates an original contribution of major significance in the field of agriculture, satisfying the 'Original contribution' criterion with a medium rating."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Published articles on sustainable farming practices in the Journal of Agricultural Sciences.",
+            "reasoning": "Marcus Hall has authored scholarly articles on sustainable farming practices in the Journal of Agricultural Sciences. This directly satisfies the 'Scholarly articles' criterion, as the articles are published in a professional journal relevant to his field. The significance of the publication justifies a high rating."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "Farm Manager, Green Acres Farm",
+            "reasoning": "Marcus Hall's role as a Farm Manager at Green Acres Farm involves managing all aspects of farm operations and leading a team. While the CV does not explicitly state that Green Acres Farm has a distinguished reputation, his critical role in the organization satisfies the 'Critical employment' criterion with a medium rating."
+        }
+    ]
+}

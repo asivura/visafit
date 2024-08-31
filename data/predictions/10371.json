@@ -1,0 +1,28 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "IFBB Pro Bodybuilder, 2017",
+            "reasoning": "The IFBB Pro Bodybuilder title is a significant award in the field of bodybuilding, recognized nationally and internationally. This demonstrates excellence in the field of fitness and bodybuilding."
+        },
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in local news articles for innovative fitness programs",
+            "reasoning": "Being featured in local news articles indicates recognition of the beneficiary's work in fitness. However, the rating is medium because the press coverage is local rather than national or international."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "high",
+            "reference": "Served as a judge for national fitness competitions",
+            "reasoning": "Serving as a judge for national fitness competitions shows that the beneficiary has been recognized as an expert in the field, fulfilling the criterion of judging the work of others in the same field."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary as a personal trainer, significantly above the industry average",
+            "reasoning": "The CV states that the beneficiary commanded a high salary significantly above the industry average, which satisfies the criterion of high remuneration."
+        }
+    ]
+}

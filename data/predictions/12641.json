@@ -1,0 +1,40 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "medium",
+            "reference": "Received the \"Outstanding Project Coordinator\" award from the National Project Management Association",
+            "reasoning": "The award is from a national professional association, which indicates a level of recognition. However, the CV does not provide detailed information about the criteria used to grant the award or the number of recipients, so the rating is medium."
+        },
+        {
+            "criteration": "Membership",
+            "rating": "medium",
+            "reference": "Member of the International Association of Business Communicators (IABC), recognized for outstanding achievements in business communication",
+            "reasoning": "The membership in IABC is noted for outstanding achievements, which aligns with the criterion. However, the CV does not provide detailed information about the judging process or the level of membership, so the rating is medium."
+        },
+        {
+            "criteration": "Press",
+            "rating": "low",
+            "reference": "Published an article on SAP FICO integration in a professional journal",
+            "reasoning": "The CV mentions a published article, but it does not specify if the article was about the beneficiary or their work. Therefore, it only partially meets the criterion, resulting in a low rating."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "high",
+            "reference": "Served as a peer reviewer for scholarly publications in the field of SAP solutions",
+            "reasoning": "The CV clearly states that the individual served as a peer reviewer for scholarly publications, which directly satisfies the criterion. The role of a peer reviewer is significant in judging the work of others, hence a high rating."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Published an article on SAP FICO integration in a professional journal",
+            "reasoning": "The CV mentions the publication of a scholarly article in a professional journal, which satisfies the criterion. However, there is only one article mentioned, so the rating is medium."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "low",
+            "reference": "SAP FICO Consultant at Fujitsu Global",
+            "reasoning": "The CV lists employment at Fujitsu Global, but it does not provide sufficient evidence that the roles were critical or essential to the organization. Therefore, the rating is low."
+        }
+    ]
+}

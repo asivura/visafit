@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Membership",
+            "rating": "high",
+            "reference": "Member of the International Association of Software Architects (IASA), which requires outstanding achievements in the field.",
+            "reasoning": "The CV explicitly states that the individual is a member of the International Association of Software Architects (IASA), which requires outstanding achievements in the field. This satisfies the criterion for membership in associations that require outstanding achievements, as judged by recognized national or international experts."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Published an article titled 'Advanced Python Techniques' in the Journal of Software Development, a well-known professional journal.",
+            "reasoning": "The CV mentions the publication of an article in the Journal of Software Development, a well-known professional journal. This satisfies the criterion for authorship of scholarly articles in the field. The rating is medium because there is only one article mentioned, but it is in a recognized journal."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "Led a critical project for Computek Solutions that resulted in a 20% increase in operational efficiency, demonstrating significant importance to the organization.",
+            "reasoning": "The CV indicates that the individual led a critical project for Computek Solutions, resulting in a 20% increase in operational efficiency. This demonstrates a significant contribution to the organization's activities, satisfying the criterion for employment in a critical or essential capacity. The rating is medium because it highlights a significant project but does not provide extensive details about the overall role."
+        }
+    ]
+}

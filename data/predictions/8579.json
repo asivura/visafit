@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Membership",
+            "rating": "medium",
+            "reference": "Member of the Association for Computing Machinery (ACM), recognized for outstanding achievements in cloud computing and database management.",
+            "reasoning": "The CV mentions membership in the Association for Computing Machinery (ACM) and recognition for outstanding achievements in cloud computing and database management. While the CV does not provide detailed information about the judging process for this membership, ACM is a well-known professional association, and the recognition for outstanding achievements suggests a level of distinction."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Developed an innovative database optimization algorithm that significantly improved query performance, which has been cited in several scholarly articles and adopted by multiple organizations.",
+            "reasoning": "The CV provides evidence of an original contribution in the form of a database optimization algorithm that has been cited in several scholarly articles and adopted by multiple organizations. This indicates that the work is of significant importance in the field, although the CV does not provide detailed letters from experts or extensive documentation of its major significance."
+        }
+    ]
+}

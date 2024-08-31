@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Recipient of the National Sales Excellence Award (2018) for outstanding performance in sales and customer service.",
+            "reasoning": "The CV mentions a nationally recognized award for excellence in sales and customer service, which aligns with the criterion's requirement for nationally or internationally recognized prizes or awards for excellence in the field of endeavor."
+        },
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in 'Garden Equipment Monthly' for innovative sales techniques and exceptional customer service",
+            "reasoning": "The CV indicates that the individual was featured in a professional publication, which relates to their work in sales. However, the publication's significance and circulation are not detailed, so a medium rating is assigned."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Ryder, A. (2015). 'Innovative Sales Techniques in Retail.' Journal of Sales and Marketing, 12(3), 45-50.",
+            "reasoning": "The CV includes authorship of a scholarly article in a professional journal relevant to sales and marketing. The article appears to be scholarly and written for learned persons in the field, but the impact and readership of the journal are not specified, leading to a medium rating."
+        }
+    ]
+}

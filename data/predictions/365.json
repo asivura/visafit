@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Membership",
+            "rating": "high",
+            "reference": "Member of the National Sculpture Society, which requires peer recognition of outstanding achievements in sculpture.",
+            "reasoning": "The CV indicates membership in the National Sculpture Society, which requires peer recognition of outstanding achievements. This aligns well with the criterion's requirement for membership in associations that require outstanding achievements judged by recognized experts."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "medium",
+            "reference": "Invited to judge the annual New York Art Awards, evaluating submissions in the sculpture category.",
+            "reasoning": "The CV shows that the individual was invited to judge the annual New York Art Awards in the sculpture category. This satisfies the criterion of participation as a judge of the work of others in the same field. However, the rating is medium because it is a single instance and does not provide extensive evidence of repeated or varied judging roles."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary for commissioned sculptures, with contracts averaging $50,000 per piece, significantly higher than the industry average.",
+            "reasoning": "The CV states that the individual commanded a high salary for commissioned sculptures, with contracts averaging $50,000 per piece, which is significantly higher than the industry average. This directly satisfies the criterion of high remuneration relative to others in the field."
+        }
+    ]
+}

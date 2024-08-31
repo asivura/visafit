@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Judging",
+            "rating": "medium",
+            "reference": "Served as a peer reviewer for scholarly publications in the field of project management.",
+            "reasoning": "The CV indicates that the individual has served as a peer reviewer for scholarly publications in the field of project management. This demonstrates participation in judging the work of others in an allied field of specialization. However, the extent and frequency of this activity are not detailed, so a medium rating is assigned."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "20 years of project management experience with technical delivery within the information technology field. Responsible for projects with a scope and size of $10M, achieving critical company key strategic objectives.",
+            "reasoning": "The CV shows that the individual has held significant project management roles, including managing projects with a scope of $10M and achieving critical company objectives. This indicates a critical or essential capacity for organizations. However, the distinguished reputation of the organizations is not explicitly mentioned, so a medium rating is assigned."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Scholarly articles",
+            "rating": "low",
+            "reference": "Authored an article on customer service best practices published in the 'Journal of Hospitality Management'.",
+            "reasoning": "The CV mentions the authorship of an article published in a professional journal, which satisfies the criterion for scholarly articles. However, there is only one article mentioned, and it is not clear if the journal is nationally or internationally recognized, leading to a 'low' rating."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "low",
+            "reference": "Recognized for original contributions to customer service strategies that increased guest satisfaction by 20% at Yavapai College.",
+            "reasoning": "The CV indicates original contributions to customer service strategies that had a measurable impact. However, the significance of these contributions to the broader field is not well-documented, resulting in a 'low' rating."
+        }
+    ]
+}

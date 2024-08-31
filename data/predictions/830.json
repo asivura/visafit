@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Judging",
+            "rating": "low",
+            "reference": "Reviewed and judged technical papers for a mid-tier tech conference, contributing to the selection of high-quality presentations.",
+            "reasoning": "The CV mentions that Robert Smith reviewed and judged technical papers for a mid-tier tech conference. While this demonstrates participation in judging the work of others, the conference is described as mid-tier, which may not fully meet the high standards typically required for O-1A visa qualification. Therefore, the rating is 'low'."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "Served as a senior consultant for a distinguished tech company, playing a critical role in the development of their flagship software product.",
+            "reasoning": "The CV states that Robert Smith served as a senior consultant for a distinguished tech company and played a critical role in the development of their flagship software product. This indicates a significant contribution to a distinguished organization, meeting the criterion for critical employment. However, the lack of specific details about the company's reputation and the exact nature of the role leads to a 'medium' rating."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary in the top 10% of the industry standard for software consultants, as evidenced by pay statements and contract details.",
+            "reasoning": "The CV explicitly states that Robert Smith commanded a high salary in the top 10% of the industry standard for software consultants, supported by pay statements and contract details. This clearly meets the criterion for high remuneration, warranting a 'high' rating."
+        }
+    ]
+}

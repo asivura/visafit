@@ -1,0 +1,10 @@
+{
+    "criterations": [
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Authored a scholarly article on \"Advanced Data Transformation Techniques in Mule ESB\" published in the International Journal of Software Engineering, 2020.",
+            "reasoning": "The CV includes evidence of authorship of a scholarly article published in a professional journal. This satisfies the criterion for scholarly articles, as the publication is relevant to the field and intended for learned persons. However, only one article is mentioned, so the rating is medium."
+        }
+    ]
+}

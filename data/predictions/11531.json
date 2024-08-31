@@ -1,0 +1,28 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "medium",
+            "reference": "Ranked best lifter in first USAPL competition\nRanked 4th strongest female lifter in 2013",
+            "reasoning": "The CV mentions that Jessica was ranked as the best lifter in a USAPL competition and the 4th strongest female lifter in 2013. These rankings indicate recognition in her field, although the national or international significance of these awards is not fully clear, hence a medium rating."
+        },
+        {
+            "criteration": "Membership",
+            "rating": "high",
+            "reference": "Member of the National Management Association, requiring outstanding achievements in the field as judged by recognized experts.",
+            "reasoning": "Jessica's membership in the National Management Association, which requires outstanding achievements judged by recognized experts, satisfies this criterion strongly. This aligns well with the criterion's requirement for membership based on outstanding achievements."
+        },
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in the Washington Business Journal for innovative management practices at Cisco Systems",
+            "reasoning": "Jessica was featured in the Washington Business Journal for her innovative management practices at Cisco Systems. This is a significant mention in a major media outlet, although the extent of the coverage is not fully detailed, hence a medium rating."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "Operations Manager\nCisco Systems Inc, Washington DC\nApril 2018 - Current",
+            "reasoning": "Jessica's role as an Operations Manager at Cisco Systems, a distinguished organization, indicates a critical employment position. However, the CV does not provide detailed evidence of her contributions being of significant importance to the organization, hence a medium rating."
+        }
+    ]
+}

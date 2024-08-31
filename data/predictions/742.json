@@ -1,0 +1,28 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Recognized for outstanding performance with the 'Engineer of the Year' award in 2018.",
+            "reasoning": "The 'Engineer of the Year' award is a significant recognition of excellence in the field of civil engineering. The award is likely to be nationally or internationally recognized, given the context of the CV."
+        },
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in a local newspaper for innovative solutions in urban planning.",
+            "reasoning": "Being featured in a local newspaper indicates recognition of the beneficiary's work in the field. However, the rating is medium because the publication is local rather than national or international."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "high",
+            "reference": "Position: Senior Civil Engineer\nDates: June 2015 - Present\nLed a team of engineers in designing and implementing infrastructure projects.\nPlayed a critical role in securing a multi-million dollar contract for the firm.",
+            "reasoning": "The role of Senior Civil Engineer, especially leading a team and securing a multi-million dollar contract, demonstrates critical and essential employment in a distinguished organization."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a salary in the top 10% of civil engineers in the region.",
+            "reasoning": "Commanding a salary in the top 10% of civil engineers in the region clearly indicates high remuneration relative to others in the field."
+        }
+    ]
+}

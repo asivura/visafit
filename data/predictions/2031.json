@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Awarded the \"Excellence in Network Security\" award by the Malaysian Cybersecurity Association in 2020 for outstanding contributions to the field.",
+            "reasoning": "The CV mentions a nationally recognized award from the Malaysian Cybersecurity Association, which is a significant recognition in the field of network security. This award demonstrates excellence and outstanding contributions, meeting the criteria for nationally recognized prizes or awards."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "high",
+            "reference": "Played a critical role in the cybersecurity team that protected ExxonMobil's critical infrastructure, contributing significantly to the company's overall security posture.",
+            "reasoning": "The CV highlights the individual's critical role in protecting ExxonMobil's critical infrastructure, a company with a distinguished reputation. This demonstrates that the individual has been employed in a critical capacity for a distinguished organization, meeting the criteria for critical employment."
+        }
+    ]
+}

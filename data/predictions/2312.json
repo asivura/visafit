@@ -1,0 +1,10 @@
+{
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in a major tech magazine for innovative work on backend financial systems.",
+            "reasoning": "The CV mentions that the individual was featured in a major tech magazine for their innovative work. This satisfies the 'Press' criterion as it involves published material in major media about the beneficiary's work. However, the rating is 'medium' because the specific details about the publication (title, date, author) are not provided."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "medium",
+            "reference": "Conceptualized, produced, and hosted the Emmy-award-winning television program \"Making the Grade,\" highlighting the district's positive aspects.",
+            "reasoning": "The CV mentions an Emmy award, which is a nationally recognized prize. However, it is not clear if this award is directly related to the field of public relations or communications, hence a medium rating."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "high",
+            "reference": "Director of Communications & Public Affairs\nABC Public Schools, Miami, FL 20xx - 20xx\nDeveloped and implemented communications strategies in a cabinet-level position within the Office of the Superintendent for a 108,000-student urban school system.",
+            "reasoning": "The role of Director of Communications & Public Affairs in a large urban school system is a critical position, especially given the responsibilities and the scale of the organization. This satisfies the criterion of critical employment for a distinguished organization."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in a major education magazine for innovative teaching methods",
+            "reasoning": "The CV mentions that Jessica was featured in a major education magazine for her innovative teaching methods. This satisfies the 'Press' criterion as it involves published material in a major media outlet about her work in the field of education. The rating is 'medium' because while it is a significant mention, the CV does not provide details about the extent or impact of the feature."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "low",
+            "reference": "Served as a peer reviewer for educational journals",
+            "reasoning": "Jessica's role as a peer reviewer for educational journals satisfies the 'Judging' criterion. However, the rating is 'low' because the CV does not provide detailed evidence of the extent or frequency of her participation in this role."
+        },
+        {
+            "criteration": "Membership",
+            "rating": "low",
+            "reference": "Member of the National Science Teachers Association (NSTA)",
+            "reasoning": "Jessica's membership in the National Science Teachers Association (NSTA) satisfies the 'Membership' criterion. The rating is 'low' because the CV does not provide evidence that this membership requires outstanding achievements judged by recognized experts."
+        }
+    ]
+}

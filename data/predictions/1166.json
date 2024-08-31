@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Awarded the \"Digital Media Excellence Award\" by the National Media Association in 2018",
+            "reasoning": "The CV mentions that Latia Waters received the 'Digital Media Excellence Award' from the National Media Association, which is a nationally recognized award for excellence in the field of digital media. This satisfies the criterion for awards, as it is a nationally recognized prize for excellence."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Recognized for original contributions in developing a new data analysis model that significantly improved campaign performance",
+            "reasoning": "The CV states that Latia Waters was recognized for her original contributions in developing a new data analysis model that significantly improved campaign performance. This indicates that her work has had a significant impact in her field, satisfying the criterion for original contributions of major significance."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "medium",
+            "reference": "Commanded a high salary relative to peers in the digital media field, as evidenced by annual compensation reports",
+            "reasoning": "The CV mentions that Latia Waters commanded a high salary relative to her peers in the digital media field, supported by annual compensation reports. This satisfies the criterion for high remuneration, indicating that her compensation is high relative to others in similar occupations in her field."
+        }
+    ]
+}

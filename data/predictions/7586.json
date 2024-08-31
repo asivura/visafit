@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "medium",
+            "reference": "Received the National Safety Award for Excellence in Inventory Management in 2018",
+            "reasoning": "The CV mentions receiving the National Safety Award for Excellence in Inventory Management in 2018. This award appears to be nationally recognized and relevant to the field of endeavor, which aligns with the criterion's description. However, the CV does not provide detailed information about the criteria used to grant the award or its significance in the field, so a medium rating is assigned."
+        },
+        {
+            "criteration": "Press",
+            "rating": "low",
+            "reference": "Featured in a 2019 article in 'Heavy Equipment Today' magazine for innovative inventory management techniques",
+            "reasoning": "The CV mentions being featured in a 2019 article in 'Heavy Equipment Today' magazine for innovative inventory management techniques. While this indicates some level of recognition, the CV does not provide details about the publication's circulation, readership, or the extent of the coverage. Therefore, a low rating is assigned."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Membership",
+            "rating": "medium",
+            "reference": "Member of the American Association of Medical Assistants (AAMA), which requires outstanding achievements in the field as judged by recognized experts.",
+            "reasoning": "The CV indicates membership in the American Association of Medical Assistants (AAMA), which requires outstanding achievements judged by recognized experts. This aligns with the criterion's requirement for membership in associations that demand outstanding achievements. However, the CV does not provide detailed information about the selection process or the level of recognition, so a medium rating is assigned."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "low",
+            "reference": "Recognized for original contributions to improving patient check-in processes, leading to a 20% increase in efficiency at Ricoh Americas Corporation.",
+            "reasoning": "The CV mentions an original contribution to improving patient check-in processes, resulting in a significant efficiency increase. While this demonstrates originality and impact, it is not clear if this contribution is of major significance to the field as a whole. Therefore, a low rating is assigned."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "medium",
+            "reference": "Commanded a high salary at Ricoh Americas Corporation, with remuneration in the top 10% for medical receptionists in the region.",
+            "reasoning": "The CV states that the individual commanded a high salary in the top 10% for medical receptionists in the region. This suggests a high level of remuneration relative to peers, which aligns with the criterion. However, without specific figures or broader comparative data, a medium rating is assigned."
+        }
+    ]
+}

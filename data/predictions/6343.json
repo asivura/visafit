@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Published several scholarly articles on textile design and product development in professional journals.",
+            "reasoning": "The CV mentions that Jessica has published several scholarly articles on textile design and product development in professional journals. This satisfies the criterion for authorship of scholarly articles. The rating is 'medium' because while the CV confirms the publication of scholarly articles, it does not provide specific details about the journals or the impact of these articles."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "high",
+            "reference": "Senior Freelance Designer/Product Development Manager\nMichelle Designs - City, State\nJuly 2012 - Current\nApparel Designer/Product Manager\nTJX Corporation - City, State\nOctober 2002 - June 2012\nSenior Designer/Product Manager\nMay Merchandising Corporation - City, State\nSeptember 1999 - October 2002",
+            "reasoning": "Jessica has held senior positions such as Senior Freelance Designer/Product Development Manager, Apparel Designer/Product Manager, and Senior Designer/Product Manager at well-known companies like Michelle Designs, TJX Corporation, and May Merchandising Corporation. These roles indicate critical and essential capacities in organizations with distinguished reputations. The rating is 'high' due to the seniority and impact of these roles."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "medium",
+            "reference": "Commanded a high salary relative to industry standards, reflecting expertise and value brought to the company.",
+            "reasoning": "The CV states that Jessica commanded a high salary relative to industry standards, which satisfies the criterion for high remuneration. The rating is 'medium' because while the CV claims high remuneration, it does not provide specific figures or comparative data to substantiate the claim."
+        }
+    ]
+}

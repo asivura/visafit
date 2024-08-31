@@ -1,0 +1,34 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Recognized with the National Automotive Excellence Award for significant contributions to the field of automotive engineering.",
+            "reasoning": "The CV mentions that the individual received the National Automotive Excellence Award, which is a nationally recognized prize for excellence in the field of automotive engineering. This satisfies the 'Awards' criterion with a high rating due to the national significance of the award."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "high",
+            "reference": "Played a critical role in securing a $2 million government grant for research and development in automotive innovation.",
+            "reasoning": "The CV indicates that the individual played a critical role in securing a significant government grant, which implies participation in the evaluation and judging process of the grant application. This satisfies the 'Judging' criterion with a high rating due to the importance and scale of the grant."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "high",
+            "reference": "Developed original contributions to automotive technology, resulting in three patents and numerous citations in industry publications.",
+            "reasoning": "The CV highlights the individual's original contributions to automotive technology, including three patents and numerous citations. This demonstrates major significance in the field, satisfying the 'Original contribution' criterion with a high rating."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "high",
+            "reference": "Led a team of engineers in developing cutting-edge automotive technologies, including advanced 4-wheel drive systems and electric vehicle components.",
+            "reasoning": "The CV shows that the individual held a senior position leading a team in a distinguished organization, contributing significantly to its activities. This satisfies the 'Critical employment' criterion with a high rating due to the critical and essential nature of the role."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary, placing in the top 5% of earners in the automotive engineering field.",
+            "reasoning": "The CV states that the individual commanded a high salary, placing in the top 5% of earners in the field. This satisfies the 'High remuneration' criterion with a high rating due to the clear evidence of high compensation relative to peers."
+        }
+    ]
+}

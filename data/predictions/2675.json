@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Developed a proprietary algorithm for optimizing web application performance, which has been cited in multiple industry publications.",
+            "reasoning": "The CV mentions the development of a proprietary algorithm that has been cited in multiple industry publications. This indicates an original contribution of significance in the field of web application development. However, the exact impact and recognition level are not fully detailed, so a medium rating is assigned."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a salary in the top 10% of the industry for Sr. Systems Engineers, as evidenced by pay statements and industry compensation surveys.",
+            "reasoning": "The CV explicitly states that the individual commanded a salary in the top 10% of the industry for Sr. Systems Engineers, supported by pay statements and industry compensation surveys. This clearly satisfies the criterion for high remuneration, warranting a high rating."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in a major trade publication for innovative records management techniques.",
+            "reasoning": "The CV mentions that Robert Smith was featured in a major trade publication for his innovative records management techniques. This satisfies the 'Press' criterion as it involves published material in a major trade publication about the beneficiary's work. However, the rating is 'medium' because the specific details of the publication (title, date, author) are not provided."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Published an article on electronic records management in the Journal of Information Science.",
+            "reasoning": "The CV states that Robert Smith published an article on electronic records management in the Journal of Information Science. This satisfies the 'Scholarly articles' criterion as it involves authorship of a scholarly article in a professional journal. The rating is 'medium' because while the publication is mentioned, additional details such as the impact or reception of the article are not provided."
+        }
+    ]
+}

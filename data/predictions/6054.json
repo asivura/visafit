@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "medium",
+            "reference": "Awarded Employee of the Year for outstanding performance in 2020",
+            "reasoning": "The CV mentions an award for 'Employee of the Year,' which indicates recognition for excellence. However, the award's national or international significance is not clear, so the rating is medium."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "low",
+            "reference": "Published an article on patient advocacy in the Journal of Healthcare Management",
+            "reasoning": "The CV includes authorship of an article in a professional journal. However, there is no indication of the journal's prominence or the article's impact, so the rating is low."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "medium",
+            "reference": "Commanded a high salary in the role of Patient Access Advocate, significantly above the industry average.",
+            "reasoning": "The CV states that the individual commanded a high salary significantly above the industry average. However, specific figures or comparative data are not provided, so the rating is medium."
+        }
+    ]
+}

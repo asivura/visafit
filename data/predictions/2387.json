@@ -1,0 +1,28 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "medium",
+            "reference": "Recognized as a top performer for exceeding sales quotas 7 out of 9 years. Awarded 2 unprecedented bonuses totaling $19K, well above the usual $5K-$7K range in 2003.",
+            "reasoning": "The CV mentions multiple awards and recognitions for sales performance, including being a top performer and receiving significant bonuses. While these awards are notable, they are specific to the company and industry rather than being nationally or internationally recognized, hence a medium rating."
+        },
+        {
+            "criteration": "Membership",
+            "rating": "high",
+            "reference": "Member of the National Association of Sales Professionals (NASP), which requires outstanding achievements in the field as judged by recognized experts.",
+            "reasoning": "The CV states membership in NASP, which requires outstanding achievements judged by recognized experts. This directly satisfies the criterion, warranting a high rating."
+        },
+        {
+            "criteration": "Press",
+            "rating": "high",
+            "reference": "Featured in SalesPro Magazine, June 2022 issue, in an article titled \"Top Sales Managers of the Year\" by Jane Doe, highlighting George Redmond's innovative sales strategies and significant contributions to the field.",
+            "reasoning": "The CV includes a feature in a major trade publication, SalesPro Magazine, specifically about George Redmond's work and contributions. This satisfies the criterion well, justifying a high rating."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "medium",
+            "reference": "Awarded 2 unprecedented bonuses totaling $19K, well above the usual $5K-$7K range in 2003.",
+            "reasoning": "The CV mentions significant bonuses, which indicate high remuneration relative to peers. However, there is no comprehensive evidence of consistently high salary or remuneration, so a medium rating is appropriate."
+        }
+    ]
+}

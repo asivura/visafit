@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "Played a critical role in improving the store's overall performance, leading to a 20% increase in customer satisfaction ratings.",
+            "reasoning": "The CV indicates that Robert Smith played a critical role in improving the store's overall performance, which led to a significant increase in customer satisfaction ratings. This demonstrates that he contributed in a way that was of significant importance to the organization's activities. However, the distinguished reputation of the organization is not clearly established, so the rating is medium."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "medium",
+            "reference": "Earned a salary that was 15% higher than the industry average for similar positions.",
+            "reasoning": "The CV states that Robert Smith earned a salary that was 15% higher than the industry average for similar positions. This suggests that he commanded a higher remuneration compared to others in similar roles, which aligns with the criterion. However, additional evidence such as tax returns or pay statements would strengthen this claim, so the rating is medium."
+        }
+    ]
+}

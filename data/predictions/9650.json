@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "medium",
+            "reference": "Recognized for original contributions to the development of advanced electrical systems at Berry Plastics, leading to a 15% increase in production efficiency.",
+            "reasoning": "The CV mentions recognition for original contributions to the development of advanced electrical systems, which led to a significant increase in production efficiency. While the specific award is not named, the recognition for contributions that had a measurable impact on production efficiency suggests a notable achievement in the field."
+        },
+        {
+            "criteration": "Membership",
+            "rating": "high",
+            "reference": "Member of the Institute of Electrical and Electronics Engineers (IEEE) since 2019, recognized for outstanding achievements in electrical engineering.",
+            "reasoning": "The CV states that Jessica Claire has been a member of the IEEE since 2019 and was recognized for outstanding achievements in electrical engineering. IEEE is a well-known professional association, and membership recognition for outstanding achievements indicates a high level of accomplishment in the field."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "high",
+            "reference": "Claire, J. (2021). \"Innovative Electrical Systems for Modern Manufacturing.\" Journal of Electrical Engineering, 45(3), 123-135.\nClaire, J. (2020). \"Advanced Troubleshooting Techniques in Electrical Engineering.\" International Journal of Electrical Systems, 39(2), 98-112.",
+            "reasoning": "The CV lists two scholarly articles authored by Jessica Claire, published in reputable journals in the field of electrical engineering. The publications demonstrate her contribution to the academic and professional community, satisfying the criterion for authorship of scholarly articles."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Published a research paper on cloud security in a major trade publication, highlighting innovative security measures implemented at Foundation Capital.",
+            "reasoning": "The CV mentions the publication of a research paper in a major trade publication, which is relevant to the beneficiary's work in cloud security. This satisfies the criterion for press coverage, though the extent of the coverage and its impact are not detailed, leading to a 'medium' rating."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Developed a novel cloud deployment strategy that significantly reduced latency and improved system reliability, which was later adopted by multiple teams within Accenture.",
+            "reasoning": "The CV provides evidence of an original contribution in the form of a novel cloud deployment strategy that was adopted by multiple teams. This indicates a significant impact within the organization, though external validation or broader industry impact is not mentioned, resulting in a 'medium' rating."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Received a high remuneration package, placing her in the top 10% of earners in her field, as evidenced by her pay statements and contract details.",
+            "reasoning": "The CV explicitly states that the beneficiary received a high remuneration package, placing her in the top 10% of earners in her field. This is supported by pay statements and contract details, satisfying the criterion with a 'high' rating."
+        }
+    ]
+}

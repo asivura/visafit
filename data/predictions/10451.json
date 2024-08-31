@@ -1,0 +1,22 @@
+{
+    "criterations": [
+        {
+            "criteration": "Membership",
+            "rating": "medium",
+            "reference": "Member of the Society for Human Resource Management (SHRM) and the National Human Resources Association (NHRA), which require outstanding achievements for membership.",
+            "reasoning": "The CV indicates membership in SHRM and NHRA, both of which require outstanding achievements for membership. This satisfies the criterion for membership in associations that require outstanding achievements, as judged by recognized national or international experts. However, the CV does not provide detailed information on the specific achievements that led to this membership, so the rating is medium."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "high",
+            "reference": "Participated as a judge in the annual HR Excellence Awards, evaluating the work of HR professionals across various organizations.",
+            "reasoning": "The CV clearly states that the individual participated as a judge in the annual HR Excellence Awards, evaluating the work of HR professionals. This directly satisfies the criterion for evidence of participation as a judge of the work of others in the same field. The role is significant and relevant, warranting a high rating."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "Played a critical role in the development and implementation of a new HR software system that streamlined payroll and employee data management.",
+            "reasoning": "The CV mentions a critical role in developing and implementing a new HR software system, which streamlined payroll and employee data management. This indicates a significant contribution to the organization\u2019s activities, satisfying the criterion for critical employment. However, the distinguished reputation of the organization is not explicitly mentioned, so the rating is medium."
+        }
+    ]
+}

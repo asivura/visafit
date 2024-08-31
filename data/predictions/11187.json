@@ -1,0 +1,28 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Earned three Flag Letter Commendations for meritorious and honorable service. Awarded four Navy and Marine Corps Achievement Medals.",
+            "reasoning": "The CV mentions multiple awards, including three Flag Letter Commendations and four Navy and Marine Corps Achievement Medals. These awards are significant and recognized within the military field, indicating excellence and meritorious service."
+        },
+        {
+            "criteration": "Original contribution",
+            "rating": "medium",
+            "reference": "Contributed original engineering solutions that were adopted by the company and led to significant improvements in operational efficiency.",
+            "reasoning": "The CV states that the individual contributed original engineering solutions that were adopted by the company, leading to significant improvements in operational efficiency. This indicates original contributions of significance in the field of engineering."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "Managed deadlines and adjusted workflow for a work center of 30 personnel. Commanded a high salary for services rendered, significantly above the industry average.",
+            "reasoning": "The CV shows that the individual held a critical role by managing a work center of 30 personnel and commanding a high salary, which indicates a position of significant importance and responsibility within the organization."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary for services rendered, significantly above the industry average.",
+            "reasoning": "The CV explicitly states that the individual commanded a high salary significantly above the industry average, which directly satisfies the criterion of high remuneration."
+        }
+    ]
+}

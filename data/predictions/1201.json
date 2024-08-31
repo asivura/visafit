@@ -1,0 +1,10 @@
+{
+    "criterations": [
+        {
+            "criteration": "Membership",
+            "rating": "low",
+            "reference": "Member of the Association for Computing Machinery (ACM).",
+            "reasoning": "The CV mentions membership in the Association for Computing Machinery (ACM). However, there is no evidence provided that this membership requires outstanding achievements judged by recognized experts. Therefore, the rating is low."
+        }
+    ]
+}

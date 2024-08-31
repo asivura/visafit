@@ -1,0 +1,28 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "high",
+            "reference": "Awarded the Digital Content Producer of the Year by the National Association of Broadcasters in 2019",
+            "reasoning": "The award from the National Association of Broadcasters is a nationally recognized prize for excellence in the field of digital content production, meeting the criterion for nationally or internationally recognized awards."
+        },
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Published articles in professional journals on digital content production",
+            "reasoning": "The CV mentions published articles in professional journals, which indicates recognition in major media about the beneficiary's work. However, the specific titles, dates, and authors of the published material are not provided, so the rating is medium."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "high",
+            "reference": "Senior Digital Content Producer at TEGNA, a distinguished media company",
+            "reasoning": "The role of Senior Digital Content Producer at TEGNA, a distinguished media company, demonstrates employment in a critical capacity for an organization with a distinguished reputation. The CV clearly establishes the significance of the role."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "high",
+            "reference": "Commanded a high salary at TEGNA, significantly above the industry average",
+            "reasoning": "The CV states that the beneficiary commanded a high salary at TEGNA, significantly above the industry average, which satisfies the criterion for high remuneration."
+        }
+    ]
+}

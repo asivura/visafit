@@ -1,0 +1,28 @@
+{
+    "criterations": [
+        {
+            "criteration": "Awards",
+            "rating": "medium",
+            "reference": "Awarded Best Teacher of the Year at XYZ School.",
+            "reasoning": "The CV mentions an award for 'Best Teacher of the Year' at XYZ School. While this is a significant recognition, it is not clear if the award is nationally or internationally recognized. Therefore, it satisfies the criterion but with a medium rating due to the lack of information on the award's broader significance."
+        },
+        {
+            "criteration": "Membership",
+            "rating": "low",
+            "reference": "Member of the National Education Association (NEA)",
+            "reasoning": "The CV lists membership in the National Education Association (NEA). However, there is no information provided about the membership requirements or whether it requires outstanding achievements judged by recognized experts. Therefore, it satisfies the criterion but with a low rating due to the lack of detailed information."
+        },
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Featured in the article 'Top Educators of 2019' in Education Today Magazine.",
+            "reasoning": "The CV mentions being featured in an article titled 'Top Educators of 2019' in Education Today Magazine. This indicates recognition in a professional publication, but the extent of the coverage and its significance in the field are not detailed. Therefore, it satisfies the criterion with a medium rating."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "high",
+            "reference": "Served as a peer reviewer for scholarly publications in the field of education.",
+            "reasoning": "The CV states that the individual served as a peer reviewer for scholarly publications in the field of education. This is a clear indication of participation in judging the work of others in the same field, satisfying the criterion with a high rating due to the direct involvement in scholarly peer review."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Membership",
+            "rating": "high",
+            "reference": "Served as a member of the National Education Association, which requires outstanding achievements in the field of education.",
+            "reasoning": "The CV indicates that Chad Davies was a member of the National Education Association, which requires outstanding achievements in the field of education. This aligns with the criterion's requirement for membership in associations that require outstanding achievements as judged by recognized experts."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "Played a critical role in developing and implementing a new curriculum program that significantly improved student performance, contributing to the school's distinguished reputation.",
+            "reasoning": "The CV mentions that Chad Davies played a critical role in developing and implementing a new curriculum program that significantly improved student performance, contributing to the school's distinguished reputation. This demonstrates a critical role in an organization with a distinguished reputation, though the specific details of the school's reputation are not provided."
+        }
+    ]
+}

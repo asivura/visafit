@@ -1,0 +1,40 @@
+{
+    "criterations": [
+        {
+            "criteration": "Membership",
+            "rating": "high",
+            "reference": "Member of the Association for Computing Machinery (ACM), requiring outstanding achievements in the field.",
+            "reasoning": "The CV explicitly states that the individual is a member of the Association for Computing Machinery (ACM), which requires outstanding achievements in the field. This satisfies the criterion for membership in associations that require outstanding achievements, as judged by recognized national or international experts."
+        },
+        {
+            "criteration": "Press",
+            "rating": "medium",
+            "reference": "Published an article on network troubleshooting in the Journal of Network and Systems Management.",
+            "reasoning": "The CV mentions that the individual has published an article in the Journal of Network and Systems Management. While this is a professional publication, the reference does not provide detailed information about the significance or impact of the publication. Therefore, it satisfies the criterion but with a medium rating."
+        },
+        {
+            "criteration": "Judging",
+            "rating": "medium",
+            "reference": "Served as a peer reviewer for the International Journal of Computer Science and Network Security.",
+            "reasoning": "The CV states that the individual served as a peer reviewer for the International Journal of Computer Science and Network Security. This indicates participation in judging the work of others in the field, satisfying the criterion. However, the extent and frequency of this activity are not detailed, so a medium rating is assigned."
+        },
+        {
+            "criteration": "Scholarly articles",
+            "rating": "medium",
+            "reference": "Published an article on network troubleshooting in the Journal of Network and Systems Management.",
+            "reasoning": "The CV mentions the publication of an article in the Journal of Network and Systems Management. This is evidence of authorship of scholarly articles in professional journals. However, the CV does not provide information on the number of articles or their impact, so a medium rating is given."
+        },
+        {
+            "criteration": "Critical employment",
+            "rating": "medium",
+            "reference": "Commanded a high salary as Desktop Supervisor at Great American Insurance Group",
+            "reasoning": "The CV indicates that the individual held a critical role as a Desktop Supervisor at Great American Insurance Group, overseeing a team and managing significant technical projects. The organization's distinguished reputation and the individual's responsibilities suggest a critical or essential capacity, warranting a medium rating."
+        },
+        {
+            "criteration": "High remuneration",
+            "rating": "medium",
+            "reference": "Commanded a high salary as Desktop Supervisor at Great American Insurance Group",
+            "reasoning": "The CV states that the individual commanded a high salary as a Desktop Supervisor at Great American Insurance Group. While this suggests high remuneration, the CV does not provide specific figures or comparative data, so a medium rating is assigned."
+        }
+    ]
+}

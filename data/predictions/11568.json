@@ -1,0 +1,16 @@
+{
+    "criterations": [
+        {
+            "criteration": "Membership",
+            "rating": "medium",
+            "reference": "Member of the National Customer Service Association (NCSA), recognized for outstanding achievements in customer service.",
+            "reasoning": "The CV indicates that Jessica Claire is a member of the National Customer Service Association (NCSA) and is recognized for outstanding achievements in customer service. This suggests that her membership requires outstanding achievements in her field, which aligns with the criterion's requirements. However, the rating is medium because the CV does not provide detailed information about the selection process or the level of recognition within the association."
+        },
+        {
+            "criteration": "Press",
+            "rating": "low",
+            "reference": "Featured in a local business magazine for outstanding customer service and innovative management techniques.",
+            "reasoning": "The CV mentions that Jessica Claire was featured in a local business magazine for her outstanding customer service and innovative management techniques. While this does provide some recognition, the rating is low because the publication is local rather than national or international, and there is no detailed information about the extent of the coverage or its impact."
+        }
+    ]
+}
