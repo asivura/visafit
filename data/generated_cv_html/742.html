@@ -1,0 +1,221 @@
+<html>
+<head>
+    <style>
+        body {
+            font-family: "Arial", sans-serif;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background: #007BFF;
+            color: #fff;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin: 0;
+        }
+
+        section {
+            padding: 20px 0;
+            border-top: 1px solid #ccc;
+        }
+
+        .two-column {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+
+        .two-column > div {
+            flex: 1;
+            padding: 10px;
+        }
+
+        .sidebar {
+            flex: 0 0 250px;
+        }
+
+        h2 {
+            font-size: 1.5em;
+            color: #007BFF;
+            margin-bottom: 10px;
+        }
+
+        h3 {
+            font-size: 1.2em;
+        }
+
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 1em;
+            line-height: 1.6;
+        }
+
+        .highlight {
+            font-weight: bold;
+            color: #007BFF;
+        }
+
+        .contact-info {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+
+        .contact-info address, .contact-info div {
+            flex: 1 1 45%;
+        }
+
+        @media print {
+            body {
+                background: none;
+                box-shadow: none;
+            }
+
+            .container {
+                box-shadow: none;
+            }
+
+            header {
+                background: #000;
+                color: #fff;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Bridget Spector</h1>
+        </header>
+
+        <section>
+            <div class="contact-info">
+                <address>
+                    <strong>Current Address:</strong><br>
+                    SMC 123, 5032 Forbes Avenue<br>
+                    Pittsburgh, PA 15289
+                </address>
+                <address>
+                    <strong>Permanent Address:</strong><br>
+                    21 School Avenue<br>
+                    Philadelphia, PA 19111
+                </address>
+                <div>
+                    <strong>Phone:</strong><br>
+                    412-511-4422
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>Objective</h2>
+            <p>Obtain a summer internship in the field of civil engineering to utilize problem-solving and leadership skills.</p>
+        </section>
+
+        <section>
+            <h2>Education</h2>
+            <div class="two-column">
+                <div>
+                    <h3>Carnegie Mellon University</h3>
+                    <p class="highlight">Bachelor of Science in Civil Engineering</p>
+                    <p>Graduation Date: <em>May 2015</em></p>
+                    <p>Pittsburgh, PA</p>
+                    <p class="highlight">GPA: 3.20/4.0</p>
+                </div>
+                <div>
+                    <h3>Best High School</h3>
+                    <p class="highlight">High School Diploma</p>
+                    <p>Graduation Date: <em>June 2011</em></p>
+                    <p>Philadelphia, PA</p>
+                    <p class="highlight">GPA: 3.82/4.0</p>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>Projects</h2>
+            <div>
+                <h3>Cardboard Structure (Fall 2011)</h3>
+                <ul>
+                    <li>Designed and constructed a cardboard bridge meant to support an average adult male.</li>
+                    <li>Prepared scale models and analyzed alternatives prior to the final test.</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Brick Wall Scheduling (Fall 2011)</h3>
+                <ul>
+                    <li>Developed a bid proposal for building a brick wall.</li>
+                    <li>Conducted time studies and generated Gantt charts.</li>
+                    <li>Investigated economical methods for using resources.</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Traffic Light Timing (Fall 2011)</h3>
+                <ul>
+                    <li>Conducted studies on the flow of traffic at three intersections on Forbes Avenue.</li>
+                    <li>Designed efficient traffic light cycles based on collected data.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section>
+            <h2>Work Experience</h2>
+            <div>
+                <h3>Pennsylvania Governor's School for the Sciences, Pittsburgh, PA</h3>
+                <p class="highlight">Position: Teaching Assistant</p>
+                <p>Dates: <em>Summer 2012</em></p>
+                <ul>
+                    <li>Graded papers, fielded questions, and held review sessions for organic chemistry.</li>
+                    <li>Led a group of students in the area of spectroscopic analysis.</li>
+                    <li>Acted as a residential assistant for 90 students, providing support, enforcing dorm policy, and sponsoring recreational activities.</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Happy Summer Camp, Springfield, NJ</h3>
+                <p class="highlight">Position: Camp Counselor</p>
+                <p>Dates: <em>Summer 2010</em></p>
+                <ul>
+                    <li>Created and coordinated activities for ten campers aged 10-12 years old.</li>
+                    <li>Helped administrators set up for parents' weekend.</li>
+                </ul>
+            </div>
+            <div>
+                <h3>XYZ Engineering Firm, Philadelphia, PA</h3>
+                <p class="highlight">Position: Senior Civil Engineer</p>
+                <p>Dates: <em>June 2015 - Present</em></p>
+                <ul>
+                    <li>Led a team of engineers in designing and implementing infrastructure projects.</li>
+                    <li>Played a critical role in securing a multi-million dollar contract for the firm.</li>
+                    <li>Recognized for outstanding performance with the "Engineer of the Year" award in 2018.</li>
+                    <li>Featured in a local newspaper for innovative solutions in urban planning.</li>
+                    <li>Commanded a salary in the top 10% of civil engineers in the region.</li>
+                </ul>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

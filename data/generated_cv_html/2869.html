@@ -1,0 +1,219 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marcus Hall - CV</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        header {
+            text-align: center;
+            background-color: #4a90e2;
+            color: #ffffff;
+            padding: 20px 0;
+            margin-bottom: 20px;
+            border-radius: 10px 10px 0 0;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        .content {
+            display: flex;
+        }
+
+        .sidebar {
+            flex: 1;
+            padding: 20px;
+            border-right: 1px solid #ddd;
+            background-color: #f9f9f9;
+        }
+
+        .sidebar section + section {
+            margin-top: 20px;
+        }
+
+        .main-content {
+            flex: 4;
+            padding: 20px;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        section h2 {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+            border-bottom: 2px solid #4a90e2;
+            padding-bottom: 5px;
+        }
+
+        section h3 {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li {
+            padding: 5px 0;
+        }
+
+        .skills-list ul,
+        .memberships-list ul {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .skills-list ul li,
+        .memberships-list ul li {
+            flex: 1 1 calc(50% - 20px);
+            margin-right: 20px;
+        }
+
+        .print-friendly {
+            display: none;
+        }
+
+        @media print {
+            .container {
+                box-shadow: none;
+                page-break-inside: avoid;
+            }
+            .sidebar {
+                display: block;
+                background: none;
+                border: none;
+                width: 100%;
+                page-break-inside: avoid;
+            }
+            .main-content {
+                display: block;
+                width: 100%;
+                page-break-inside: avoid;
+            }
+            .skills-list ul li,
+            .memberships-list ul li {
+                flex: 1 1 100%;
+            }
+            .print-friendly {
+                display: block;
+            }
+            body {
+                color: #000;
+                background: #fff;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Marcus Hall</h1>
+        </header>
+        <div class="content">
+            <aside class="sidebar">
+                <section class="personal-info">
+                    <h2>Personal Information</h2>
+                    <ul>
+                        <li><strong>Email:</strong> marcushall21@hotmail.com</li>
+                        <li><strong>Location:</strong> Lake Amyland, Cyprus</li>
+                    </ul>
+                </section>
+                <section class="skills-list">
+                    <h2>Skills</h2>
+                    <ul>
+                        <li>Crop Cultivation</li>
+                        <li>Livestock Management</li>
+                        <li>Precision Agriculture Techniques</li>
+                        <li>Budget Management</li>
+                        <li>Team Leadership</li>
+                        <li>Project Planning</li>
+                        <li>Problem-Solving</li>
+                        <li>Sustainable Farming Practices</li>
+                        <li>Communication</li>
+                    </ul>
+                </section>
+                <section class="memberships-list">
+                    <h2>Memberships</h2>
+                    <ul>
+                        <li>Member of the International Society of Precision Agriculture (ISPA)</li>
+                    </ul>
+                </section>
+            </aside>
+            <main class="main-content">
+                <section class="professional-summary">
+                    <h2>Professional Summary</h2>
+                    <p>Enthusiastic and dedicated Farm Manager with 4 years of experience in agricultural operations. Proficient in crop cultivation, livestock management, and precision agriculture techniques. Skilled in budget management, team leadership, and project planning. Achieved notable success in implementing sustainable farming practices, resulting in reduced environmental impact. Strong problem-solving abilities and adept at resolving complex challenges related to farming operations. Completed a Bachelor of Science in Agriculture from the University of Agricultural Sciences. Passionate about farming and committed to optimizing farm productivity and sustainability.</p>
+                </section>
+                <section class="accomplishments">
+                    <h2>Accomplishments</h2>
+                    <ul>
+                        <li>Transformed traditional methods through the implementation of sustainable practices.</li>
+                        <li>Led crop yield optimization efforts.</li>
+                        <li>Developed a comprehensive livestock health program.</li>
+                        <li>Awarded the National Agricultural Excellence Award for innovative farming techniques.</li>
+                    </ul>
+                </section>
+                <section class="experience">
+                    <h2>Experience</h2>
+                    <article>
+                        <h3>Farm Manager, Green Acres Farm</h3>
+                        <p><em>2022 - Ongoing, Checkley Wood, LU7</em></p>
+                        <ul>
+                            <li>Managed all aspects of farm operations, including crop cultivation, livestock management, and equipment maintenance.</li>
+                            <li>Developed and implemented efficient farming practices, resulting in a 20% increase in crop yield.</li>
+                            <li>Oversaw a team of 10 farm workers, providing guidance and training.</li>
+                            <li>Implemented precision agriculture techniques, resulting in a 15% reduction in fertilizer usage and improved soil health.</li>
+                            <li>Developed and executed a comprehensive livestock health program, resulting in a 30% decrease in animal mortality rates.</li>
+                            <li>Managed a budget of $500,000, optimizing expenses and achieving cost savings of 25%.</li>
+                            <li>Collaborated with third-party suppliers to streamline procurement processes, ensuring timely delivery of farm inputs.</li>
+                            <li>Implemented sustainable farming practices, reducing water usage by 40% and minimizing environmental impact.</li>
+                            <li>Published articles on sustainable farming practices in the Journal of Agricultural Sciences.</li>
+                            <li>Served as a peer reviewer for the Journal of Agricultural Sciences.</li>
+                        </ul>
+                    </article>
+                </section>
+                <section class="education">
+                    <h2>Education</h2>
+                    <article>
+                        <h3>Bachelor of Science in Agriculture</h3>
+                        <p><em>University of Agricultural Sciences</em></p>
+                    </article>
+                </section>
+                <section class="life-philosophy">
+                    <h2>Life Philosophy</h2>
+                    <p>Farming is not just a profession, but a hope. Adaptability and problem-solving are key strengths, successfully managing multiple farm projects simultaneously and adapting to changing priorities to ensure timely completion. Effective communication and collaboration with diverse stakeholders, suppliers, team members, and regulatory authorities foster smooth farm operations.</p>
+                </section>
+            </main>
+        </div>
+        <footer class="print-friendly">
+            <p>Powered by Enhancv</p>
+        </footer>
+    </div>
+</body>
+</html>

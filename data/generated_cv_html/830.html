@@ -1,0 +1,181 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Robert Smith - CV</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        header, footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #333;
+            color: #fff;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        section h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #f4f4f7;
+            margin: 5px 0;
+            padding: 10px;
+            border-left: 4px solid #333;
+        }
+        .name-title {
+            font-size: 1.5em;
+            margin-bottom: 20px;
+        }
+        .contact-details {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+        .contact-details div {
+            margin: 5px 0;
+            display: flex;
+            align-items: center;
+        }
+        .contact-details div span {
+            margin-left: 5px;
+        }
+        .job-title {
+            font-size: 1.2em;
+            margin: 5px 0 0 0;
+        }
+        .job-period {
+            font-size: 0.9em;
+            color: #999;
+        }
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .skills li {
+            margin-right: 10px;
+            background: #ddf;
+            border-left: 4px solid #33c;
+        }
+        .achievement {
+            font-weight: bold;
+            color: #c33;
+        }
+        .education {
+            display: flex;
+            flex-direction: column;
+            background: #eef;
+            padding: 10px;
+            border-left: 4px solid #3c3;
+        }
+        @media print {
+            body {
+                background: none;
+                color: #000;
+            }
+            .container {
+                box-shadow: none;
+            }
+            header, footer {
+                background: none;
+                color: #000;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Robert Smith</h1>
+        </header>
+        <section id="personal-info">
+            <div class="name-title">Consultant</div>
+            <div class="contact-details">
+                <div><strong>Phone:</strong><span>123-456-7899</span></div>
+                <div><strong>Email:</strong><span>info@qwikresume.com</span></div>
+                <div><strong>Website:</strong><span><a href="http://www.qwikresume.com">www.qwikresume.com</a></span></div>
+                <div><strong>LinkedIn:</strong><span><a href="http://linkedin.com/qwikresume">linkedin.com/qwikresume</a></span></div>
+                <div><strong>Address:</strong><span>1737 Marshville Road, Alabama</span></div>
+            </div>
+        </section>
+        <section id="professional-summary">
+            <h2>Professional Summary</h2>
+            <p>Consultant with expertise in software sales and technical support. Proven ability to provide onsite technical solutions and ensure customer satisfaction. Experienced in hardware and software troubleshooting, client-server platforms, and advanced technical support.</p>
+        </section>
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul class="skills">
+                <li>Microsoft Office Suite</li>
+                <li>Inventory Management</li>
+                <li>Computer Literate</li>
+                <li>Basic Networking</li>
+                <li>Hardware/Software Troubleshooting</li>
+            </ul>
+        </section>
+        <section id="work-experience">
+            <h2>Work Experience</h2>
+            <article>
+                <h3>Consultant, ABC Corporation <span class="job-period">(December 2014 - April 2016)</span></h3>
+                <ul>
+                    <li>Managed and developed marketing and operations plans.</li>
+                    <li>Handled time and material contracts, providing 24/7 on-call support for network, server, and workstation repairs.</li>
+                    <li>Troubleshot and repaired commercial retail point of sale (POS) equipment, TCP/IP networks, servers, and printers.</li>
+                    <li>Designed disaster recovery plans and backup procedures to protect servers and workstations.</li>
+                    <li>Provided installation and upgrade support for web and database application services.</li>
+                    <li>Conducted network vulnerability and penetration analysis using tools like Nessus and Wireshark.</li>
+                    <li class="achievement">Served as a senior consultant for a distinguished tech company, playing a critical role in the development of their flagship software product.</li>
+                </ul>
+            </article>
+            <article>
+                <h3>Business Consultant, ABC Corporation <span class="job-period">(June 2012 - December 2014)</span></h3>
+                <ul>
+                    <li>Provided remote and onsite support for clients' email, desktops, servers, and networks.</li>
+                    <li>Implemented network and server projects, including VPN and LAN/WAN systems.</li>
+                    <li>Configured and maintained servers, MS Exchange, Windows Active Directory, and networking equipment.</li>
+                    <li>Performed virus removal, server patch installs, and updates.</li>
+                    <li>Troubleshot and resolved moderately complex software and device issues.</li>
+                    <li>Maintained good relations with agency management, vendors, coworkers, and end-users.</li>
+                    <li class="achievement">Reviewed and judged technical papers for a mid-tier tech conference, contributing to the selection of high-quality presentations.</li>
+                </ul>
+            </article>
+        </section>
+        <section id="education">
+            <h2>Education</h2>
+            <div class="education">
+                <p>Dummy description data to replace with relevant current role</p>
+            </div>
+        </section>
+        <section id="compensation">
+            <h2>Compensation</h2>
+            <p>Commanded a high salary in the top 10% of the industry standard for software consultants, as evidenced by pay statements and contract details.</p>
+        </section>
+        <footer>
+            <p>Free resume template copyright Qwikresume.com. Usage guidelines apply.</p>
+        </footer>
+    </div>
+</body>
+</html>

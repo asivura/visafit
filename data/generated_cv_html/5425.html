@@ -1,0 +1,231 @@
+<html>
+<head>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .contact-info {
+            display: flex;
+            justify-content: space-around;
+            padding: 20px;
+            background-color: #e8f5e9;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .contact-info div {
+            text-align: center;
+        }
+
+        main {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .content, .sidebar {
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .sidebar {
+            background-color: #fff;
+            border-right: 1px solid #ddd;
+            flex: 1 1 25%;
+            max-width: 25%;
+        }
+
+        .content {
+            flex: 1 1 75%;
+            max-width: 75%;
+            background-color: #fff;
+        }
+
+        .section {
+            margin-bottom: 20px;
+        }
+
+        .section h2, .section h3 {
+            border-bottom: 2px solid #4CAF50;
+            padding-bottom: 5px;
+        }
+
+        .timeline-item {
+            margin-bottom: 15px;
+        }
+
+        .timeline-item h3 {
+            margin: 0;
+            font-size: 1.2em;
+            color: #31708E;
+        }
+
+        .timeline-item span {
+            font-size: 0.9em;
+            color: #555;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .skill-item {
+            width: 50%;
+            box-sizing: border-box;
+            padding: 5px;
+        }
+
+        .skill-item span {
+            background-color: #4CAF50;
+            color: white;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+
+        .print-only {
+            display: none;
+        }
+
+        @media print {
+            .sidebar, .print-only {
+                display: block;
+                width: 100%;
+            }
+
+            .content {
+                display: none;
+            }
+
+            body {
+                color: black;
+                background: white;
+            }
+            
+            header {
+                color: black;
+                background: white;
+            }
+
+            .section h2, .section h3 {
+                color: black;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>William Dorsey</h1>
+    </header>
+    <div class="contact-info">
+        <div>
+            <strong>Email:</strong> williamhirationcom<br>
+            <strong>Phone:</strong> 1 270 366 4076
+        </div>
+        <div>
+            <strong>Location:</strong> Boston<br>
+            <strong>LinkedIn:</strong> <a href="http://www.linkedin.com/in/william" target="_blank">linkedin.com/in/william</a>
+        </div>
+        <div>
+            <strong>GitHub:</strong> <a href="http://www.github.com/william" target="_blank">github.com/william</a>
+        </div>
+    </div>
+    <main>
+        <section class="sidebar">
+            <div class="section">
+                <h2>Education</h2>
+                <div class="timeline-item">
+                    <h3>B.Tech in Computer Science</h3>
+                    <span>New York University, Jan 2012 - Jan 2016, New York, NY</span>
+                </div>
+            </div>
+            <div class="section">
+                <h2>Key Skills</h2>
+                <div class="skills">
+                    <div class="skill-item"><span>UI Designing</span></div>
+                    <div class="skill-item"><span>Coding</span></div>
+                    <div class="skill-item"><span>Webpage Designing</span></div>
+                    <div class="skill-item"><span>Webpage Optimization</span></div>
+                    <div class="skill-item"><span>Project Delivery</span></div>
+                    <div class="skill-item"><span>Client Servicing</span></div>
+                    <div class="skill-item"><span>Graphic Designing</span></div>
+                    <div class="skill-item"><span>JavaScript</span></div>
+                    <div class="skill-item"><span>jQuery</span></div>
+                    <div class="skill-item"><span>CSS</span></div>
+                    <div class="skill-item"><span>HTML</span></div>
+                    <div class="skill-item"><span>React</span></div>
+                    <div class="skill-item"><span>React.js</span></div>
+                    <div class="skill-item"><span>Webpack</span></div>
+                    <div class="skill-item"><span>Enzyme</span></div>
+                    <div class="skill-item"><span>Redux</span></div>
+                </div>
+            </div>
+            <div class="section">
+                <h2>Technical Skills</h2>
+                <p><strong>Languages:</strong> JavaScript, jQuery, CSS, HTML, React</p>
+                <p><strong>Tools:</strong> React.js, Webpack, Enzyme, Redux</p>
+            </div>
+        </section>
+        <section class="content">
+            <div class="section">
+                <h2>Professional Summary</h2>
+                <p>4 years experienced React Developer with hands-on experience in identifying web-based user interactions and designing and implementing highly responsive user interface components using React concepts. Proficient in translating designs and wireframes into high-quality code and writing application interface code via JavaScript and React.js workflows. Adept at monitoring and maintaining frontend performance and troubleshooting and debugging to bolster overall performance.</p>
+            </div>
+            <div class="section">
+                <h2>Professional Experience</h2>
+                <div class="timeline-item">
+                    <h3>React Developer, Riverwell Technologies</h3>
+                    <span>Jan 2018 - Jun 2020, Boston</span>
+                    <ul>
+                        <li>Designed UI components and application interfaces.</li>
+                        <li>Coded and identified web-based user interactions.</li>
+                        <li>Developed highly responsive user interface components using React concepts.</li>
+                        <li>Translated designs and wireframes into high-quality code.</li>
+                        <li>Wrote application interface code via JavaScript following React.js workflows.</li>
+                        <li>Debugged code and troubleshot interface software to improve functionality and performance by 50%.</li>
+                        <li>Developed and implemented frontend architecture to support user interface concepts with 100% accuracy.</li>
+                        <li>Monitored and improved frontend performance by 15%.</li>
+                        <li>Documented application changes and worked on updates.</li>
+                        <li>Developed the latest user-facing features using React.js.</li>
+                        <li>Built reusable components and frontend libraries for future use.</li>
+                        <li>Optimized components for maximum performance across a vast array of web-capable devices and browsers.</li>
+                        <li>Coordinated with the development team to discuss user interface ideas and applications.</li>
+                        <li>Reviewed application requirements and interface designs to ensure compatibility with existing applications.</li>
+                        <li>Played a critical role in the development of a flagship product that significantly contributed to the company's distinguished reputation in the tech industry.</li>
+                    </ul>
+                </div>
+                <div class="timeline-item">
+                    <h3>Frontend Developer, Technovation Inc</h3>
+                    <span>Jan 2016 - Jan 2018, Boston</span>
+                    <ul>
+                        <li>Designed and optimized web pages based on user requirements.</li>
+                        <li>Balanced functional and aesthetic designs to enhance user experience.</li>
+                        <li>Ensured web design was optimized for smartphones.</li>
+                        <li>Employed various languages (HTML, CSS) to create user-friendly web pages.</li>
+                        <li>Built reusable code for future use and optimized web pages and applications for maximum speed and scalability.</li>
+                        <li>Managed brand consistency throughout the design.</li>
+                        <li>Maintained and improved the company's website by adding features and functionality.</li>
+                        <li>Liaised with cross-functional teams to ensure client projects were completed on time and within budget.</li>
+                        <li>Produced high-quality mockups and designed different prototypes.</li>
+                        <li>Provided high-quality graphics and visual elements.</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </main>
+</body>
+</html>

@@ -1,0 +1,191 @@
+<html>
+<head>
+    <title>CV - First Last</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+        .header, .contact, .summary, .experience, .education, .certifications, .skills, .achievements {
+            margin-bottom: 2em;
+        }
+        .header {
+            text-align: center;
+            background: #333;
+            color: #fff;
+            padding: 20px 10px;
+        }
+        .header h1 {
+            margin: 0;
+        }
+        .contact ul {
+            list-style: none;
+            padding: 0;
+            text-align: center;
+        }
+        .contact ul li {
+            margin: 5px 0;
+        }
+        section h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+        .experience .job, .education .course, .certifications .cert, .skills .skill, .achievements .achievement {
+            margin-bottom: 15px;
+        }
+        .experience .job-title, .education .course-name, .certifications .cert-name {
+            font-weight: bold;
+            color: #333;
+        }
+        .experience .company, .education .location, .certifications .issued-by {
+            color: #777;
+        }
+        .skills .skill-category {
+            font-weight: bold;
+        }
+
+        /* Print Specific CSS */
+        @media print {
+            body {
+                background: #fff;
+            }
+            .container {
+                box-shadow: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>First Last</h1>
+        </header>
+
+        <section class="contact">
+            <ul>
+                <li><strong>Location:</strong> Bradford, United Kingdom</li>
+                <li><strong>Phone:</strong> +44 1234567890</li>
+                <li><strong>Email:</strong> firstlast@gmail.com</li>
+            </ul>
+        </section>
+
+        <section class="summary">
+            <h2>Professional Summary</h2>
+            <p>Python Developer with extensive experience in developing backend financial systems, productivity applications, and providing technical support. Proven track record of increasing user engagement and resolving technical issues efficiently.</p>
+        </section>
+
+        <section class="experience">
+            <h2>Work Experience</h2>
+            
+            <div class="job">
+                <div class="job-title">Python Developer</div>
+                <div class="company">Resume Worded, London, United Kingdom</div>
+                <div class="duration">January 2022 - Present</div>
+                <ul>
+                    <li>Created backend financial systems and made 20+ RW applications user-friendly and seamless to navigate.</li>
+                    <li>Developed and updated productivity applications, increasing user downloads by 30% within 96 hours of release.</li>
+                    <li>Supervised programming tasks and maintained 10 company websites with a 50% success rate in product update deployment.</li>
+                    <li>Designed a marketing lead MySQL database, categorizing and filtering 740 leads from several sources.</li>
+                    <li>Featured in a major tech magazine for innovative work on backend financial systems.</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <div class="job-title">Technical Support Specialist</div>
+                <div class="company">Polyhire, London, United Kingdom</div>
+                <div class="duration">October 2019 - December 2021</div>
+                <ul>
+                    <li>Responded to and resolved 300+ customer questions by implementing access software, CMS, IP cameras, DVRs, and access control.</li>
+                    <li>Provided technical solutions to 70 small and medium-sized enterprises (SMEs) and 20 micro-merchants, accounting for 38% of Polyhire card payments.</li>
+                    <li>Discovered a software glitch that prevented 150 customers from accessing their accounts within the first week of employment.</li>
+                    <li>Answered customer inquiries within 60 seconds via chat sessions and live support.</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <div class="job-title">Junior Software Developer</div>
+                <div class="company">Growthsi, London, United Kingdom / Barcelona, Spain</div>
+                <div class="duration">November 2018 - September 2019</div>
+                <ul>
+                    <li>Created a user interface for a single-page application using React and MobX, increasing productivity for 1,100 users by 64%.</li>
+                    <li>Implemented functionality to support disconnected client machines, enabling 420 customers to work offline without losing data.</li>
+                    <li>Designed a data dictionary generator that creates documentation for 1,200 developers in spreadsheets and web pages.</li>
+                    <li>Launched a search engine for consumers to search ATM locations in 20 states, saving institutions $50K in data research.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="education">
+            <h2>Education</h2>
+            <div class="course">
+                <div class="course-name">Associate of Applied Science in Computer Science and Cultural Studies</div>
+                <div class="location">New York City, New York</div>
+                <div class="duration">October 2011 - June 2014</div>
+            </div>
+        </section>
+
+        <section class="certifications">
+            <h2>Certifications</h2>
+            <div class="cert">
+                <div class="cert-name">Certified Entry-Level Python Programmer</div>
+            </div>
+            <div class="cert">
+                <div class="cert-name">Certified Associate in Python Programming</div>
+            </div>
+            <div class="cert">
+                <div class="cert-name">Ethical Hacker</div>
+                <div class="issued-by">(ABC Company, London, UK)</div>
+            </div>
+            <div class="cert">
+                <div class="cert-name">Application Developer</div>
+                <div class="issued-by">(XYZ Company, New York, USA)</div>
+            </div>
+        </section>
+
+        <section class="skills">
+            <h2>Skills</h2>
+            <div class="skill">
+                <div class="skill-category">Programming Languages:</div>
+                <p>Python, Shell, Perl</p>
+            </div>
+            <div class="skill">
+                <div class="skill-category">Source Code Management Tools:</div>
+                <p>GitLab, Mercurial, Apache Subversion (SVN), CVS</p>
+            </div>
+            <div class="skill">
+                <div class="skill-category">Technologies:</div>
+                <p>Deep Learning, Data Structures, Generators, Iterators, Multiprocess Architecture, Object-Relational Mapping, Scripting</p>
+            </div>
+            <div class="skill">
+                <div class="skill-category">Languages:</div>
+                <p>English (Native), Romanian (Native), Spanish (Conversational)</p>
+            </div>
+        </section>
+
+        <section class="achievements">
+            <h2>Achievements</h2>
+            <div class="achievement">
+                <p>Increased user downloads of productivity applications by 30% within 96 hours of release.</p>
+            </div>
+            <div class="achievement">
+                <p>Discovered and resolved a software glitch affecting 150 customers within the first week of employment.</p>
+            </div>
+            <div class="achievement">
+                <p>Launched a search engine that saved institutions $50K in data research.</p>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

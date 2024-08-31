@@ -1,0 +1,167 @@
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 36px;
+            text-transform: uppercase;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 20px;
+        }
+        
+        .sidebar {
+            flex: 1 0 25%;
+            padding-right: 20px;
+            border-right: 2px solid #eee;
+        }
+        
+        .content {
+            flex: 3 0 70%;
+            padding-left: 20px;
+        }
+        
+        h2, h3 {
+            color: #4CAF50;
+        }
+        
+        .section {
+            margin-bottom: 30px;
+        }
+        
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        
+        ul li {
+            margin-bottom: 10px;
+        }
+        
+        .contact-info, .achievements, .additional-info {
+            background: #f9f9f9;
+            padding: 10px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+        }
+        
+        /* Print styles */
+        @media print {
+            body {
+                font-size: 12pt;
+                margin: 0;
+                padding: 0;
+            }
+            
+            .container {
+                display: block;
+                width: auto;
+                padding: 0;
+            }
+            
+            .sidebar {
+                display: none;
+            }
+            
+            .content {
+                width: 100%;
+                padding: 0;
+            }
+            
+            header, footer {
+                page-break-after: always;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Robert Smith</h1>
+        <div class="contact-info">
+            <p><strong>Phone:</strong> 0123456789</p>
+            <p><strong>Email:</strong> <a href="mailto:info@qwikresume.com" style="color: white;">info@qwikresume.com</a></p>
+            <p><strong>Website:</strong> <a href="http://qwikresume.com" style="color: white;">qwikresume.com</a></p>
+        </div>
+    </header>
+    <div class="container">
+        <div class="sidebar">
+            <div class="section">
+                <h2>Core Competencies</h2>
+                <ul>
+                    <li>Informatica PowerCenter 9.x/8.x</li>
+                    <li>Informatica Data Quality (IDQ)</li>
+                    <li>Master Data Management (MDM)</li>
+                    <li>Databases: SQL Server, DB2, MySQL, PostgreSQL</li>
+                    <li>Languages: SQL, PL/SQL, C, Unix Shell Scripting, Python</li>
+                    <li>Operating Systems: Unix, Windows, Linux, Macintosh</li>
+                    <li>DB Tools: TOAD, SQL*Plus, SQL Developer, SQL Server Management Studio</li>
+                    <li>Tools: AutoSys, Cognos, SSRS, APEX</li>
+                </ul>
+            </div>
+        </div>
+        <section class="content">
+            <div class="section">
+                <h2>Professional Summary</h2>
+                <p>Senior ETL Developer with 6 years of professional experience in the software/IT industry, specializing in data engineering and data warehousing. Expertise in data analysis, design, and implementation of database ETL processes using Informatica PowerCenter. Proficient in writing, optimizing, and tuning SQL queries. Domain experience in major sectors including banking, retail, and insurance.</p>
+            </div>
+            <div class="section">
+                <h2>Professional Experience</h2>
+                <article>
+                    <h3>Senior ETL Developer, Rabobank NA</h3>
+                    <p><em>June 2014 - Present</em></p>
+                    <ul>
+                        <li>Involved in receiving web service calls from external vendors to perform ETL and integrate with the bank's internal host using Informatica Data Integration Hub.</li>
+                        <li>Partnered with the BI team and multiple cross-functional teams to implement advanced analytics for customers and products.</li>
+                        <li>Worked on integrating customer data from multiple data sources to achieve consistency and provide a single source of truth for business decision-making.</li>
+                        <li>Gathered business requirements from business users and performed extensive data analysis on the internal host system.</li>
+                        <li>Worked closely with business analysts to create mapping documents and design complex custom ETL code based on requirements from external vendors and internal hosts.</li>
+                        <li>Modified schema and XSDs based on changing requirements.</li>
+                        <li>Featured in a major trade publication for innovative data integration solutions implemented at Rabobank NA.</li>
+                    </ul>
+                </article>
+                <article>
+                    <h3>Senior ETL/Data Engineer, Nike Inc.</h3>
+                    <p><em>October 2012 - May 2014</em></p>
+                    <ul>
+                        <li>Performed unit testing and supported business users during UAT by analyzing issues raised and performing bug fixes.</li>
+                        <li>Successfully integrated multiple web service sources and targets as a web service consumer.</li>
+                        <li>Commanded a high salary relative to industry standards, as evidenced by pay statements and comparative wage data.</li>
+                    </ul>
+                </article>
+            </div>
+            <div class="achievements section">
+                <h2>Achievements</h2>
+                <p>N/A (Section intentionally left blank, to be filled with future achievements).</p>
+            </div>
+            <div class="additional-info section">
+                <h2>Additional Information</h2>
+                <ul>
+                    <li><strong>Address:</strong> 2259 Oak Street, Old Forge, New York, 13420</li>
+                    <li><strong>Free Resume Template:</strong> <a href="http://qwikresume.com">Qwikresume.com</a></li>
+                    <li><strong>Usage Guidelines:</strong> <a href="http://qwikresume.com">Qwikresume.com</a></li>
+                </ul>
+            </div>
+        </section>
+    </div>
+    <footer>
+    </footer>
+</body>
+</html>

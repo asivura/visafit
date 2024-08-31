@@ -1,0 +1,164 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robert Smith - CV</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f7f7f7;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            max-width: 1000px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        header, footer {
+            width: 100%;
+        }
+        header {
+            text-align: center;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #123456;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 24px;
+            color: #123456;
+        }
+        header .contact-info {
+            display: flex;
+            justify-content: center;
+            margin-top: 10px;
+        }
+        header .contact-info div {
+            margin: 0 15px;
+        }
+        section {
+            width: 100%;
+            margin-top: 20px;
+        }
+        .sidebar {
+            flex: 1;
+            padding-right: 20px;
+            border-right: 2px solid #e7e7e7;
+        }
+        .main-content {
+            flex: 2;
+            padding-left: 20px;
+        }
+        .skill-list, .interest-list {
+            padding-left: 20px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+        }
+        h2 {
+            color: #123456;
+            border-bottom: 2px solid #e7e7e7;
+            padding-bottom: 5px;
+        }
+        h3 {
+            color: #345678;
+        }
+        ul {
+            list-style-type: square;
+        }
+        .references {
+            padding: 10px;
+            background: #f1f1f1;
+            border: 1px solid #e1e1e1;
+            margin-top: 20px;
+        }
+        @media print {
+            body {
+                background-color: white;
+            }
+            .container {
+                box-shadow: none;
+            }
+            .sidebar, .main-content {
+                flex: 0 0 100%;
+                padding: 0;
+                border: none;
+            }
+            .references {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Robert Smith</h1>
+            <div class="contact-info">
+                <div>1737 Marshville Road, Alabama</div>
+                <div>Phone: 123-456-7899</div>
+                <div>Email: <a href="mailto:info@qwikresume.com">info@qwikresume.com</a></div>
+                <div>Website: <a href="http://www.qwikresume.com" target="_blank">www.qwikresume.com</a></div>
+            </div>
+        </header>
+        <section class="sidebar">
+            <h2>Skills</h2>
+            <ul class="skill-list">
+                <li>Project Management Methodology</li>
+                <li>System Development</li>
+                <li>Languages: English (Native), French (Professional), Spanish (Professional)</li>
+            </ul>
+            <h2>Interests</h2>
+            <ul class="interest-list">
+                <li>Climbing</li>
+                <li>Snowboarding</li>
+                <li>Cooking</li>
+                <li>Reading</li>
+            </ul>
+        </section>
+        <section class="main-content">
+            <h2>Personal Statement</h2>
+            <p>20 years of project management experience with technical delivery within the information technology field. Responsible for projects with a scope and size of $10M, achieving critical company key strategic objectives. Professional background includes certifications such as PMP (Project Management Professional), PMI-SP (Scheduling Professional), Scrum Alliance Scrum Master, and ITIL (Information Technology Service Management).</p>
+            <h2>Work Experience</h2>
+            <h3>PMO Project Manager, ABC Corporation</h3>
+            <p><em>March 2006 - August 2020</em></p>
+            <ul>
+                <li>Led implementation and delivery, established standards for technology usage, and designed support for business initiatives and processes.</li>
+                <li>Led discussions on PMO demand management, DMO portfolio managers, global governance, project prioritization, reporting metrics, staffing, and analytics.</li>
+                <li>Led diverse project teams composed of technical and non-technical resources to deliver timely and effective solutions based on project management, SDLC, and agile iterative methodologies.</li>
+                <li>Assisted in managing projects and advocating established PMO practices.</li>
+                <li>Reported PMO metrics data through charts and graphs to management, indicating progress and methodology compliance.</li>
+                <li>Worked parallel with UHC PMO to create, maintain, and merge integrated executive-level reports, dashboards, and project resource plans.</li>
+                <li>Maintained and updated the HPHC portal.</li>
+                <li>Served as a peer reviewer for scholarly publications in the field of project management.</li>
+            </ul>
+            <h3>PMO Project Manager, Delta Corporation</h3>
+            <p><em>2002 - 2006</em></p>
+            <ul>
+                <li>Created weekly dashboard performance metrics for the team and identified opportunities for improvements in reporting and communications.</li>
+                <li>Drove adoption based in Emeryville, CA, for GDS supplies, clinical analysis, laboratory testing tools, labs, hospitals, and blood banks worldwide.</li>
+                <li>Advised PMO Director and led initiatives for PMO transformation.</li>
+                <li>Led cross-functional project teams and provided project coordination.</li>
+                <li>Managed PMO RFP project for 3rd party project audit services.</li>
+                <li>Developed and managed decision logging process and procedures for a multi-year cross-product enhancement project.</li>
+                <li>Managed phases of the product enhancement project for Amex payment system and Globe markets. The scope of the project consisted of enhancement and modifications to the VisionPlus payment system by First Data Corporation.</li>
+            </ul>
+            <div class="references">
+                <h2>References</h2>
+                <p>Reference 1: Company Name</p>
+                <p>Reference 2: Company Name</p>
+            </div>
+        </section>
+        <footer class="footer">
+            <p>Free resume template copyright Qwikresume.com. Usage guidelines apply.</p>
+        </footer>
+    </div>
+</body>
+</html>

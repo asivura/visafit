@@ -1,0 +1,166 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Robert Smith - CV</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            width: 80%;
+            max-width: 1000px;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        header, section, footer {
+            margin-bottom: 20px;
+        }
+
+        header h1 {
+            font-size: 3em;
+            color: #333;
+        }
+
+        .grid {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .col {
+            flex: 1;
+            padding: 10px;
+        }
+
+        /* Styling for headers and subheaders */
+        h2, h3 {
+            color: #0056b3;
+            margin: 10px 0;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+
+        /* Styling list items */
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul li {
+            background: #eeeeee;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        .highlight {
+            background: #fffc00;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+
+        /* Print-specific styles */
+        @media print {
+            body {
+                background: white;
+                margin: 0;
+            }
+
+            .container {
+                box-shadow: none;
+                width: 100%;
+                padding: 0;
+            }
+
+            header h1 {
+                font-size: 2em;
+            }
+
+            .col {
+                padding: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Robert Smith</h1>
+            <div class="grid">
+                <div class="col">
+                    <strong>Phone:</strong> 0123456789<br>
+                    <strong>Email:</strong> <a href="mailto:info@qwikresume.com">info@qwikresume.com</a><br>
+                    <strong>Website:</strong> <a href="http://qwikresume.com">qwikresume.com</a><br>
+                    <strong>Address:</strong> 2259 Oak Street, Old Forge, New York, 13420
+                </div>
+            </div>
+        </header>
+
+        <section>
+            <h2>Professional Summary</h2>
+            <p>3 years of software development experience specializing in Python and Java. Highly experienced in all phases of the Software Development Life Cycle (SDLC) and expert in web application development.</p>
+        </section>
+
+        <section>
+            <h2>Core Competencies</h2>
+            <ul>
+                <li><strong>Technical Frameworks:</strong> Django, Web2py, Flask, Struts, Pylons, CSS, Bootstrap, TurboGears, OpenStack</li>
+                <li><strong>Web Technologies:</strong> HTML, CSS, DOM, SAX, JavaScript, jQuery, AJAX, XML, AngularJS</li>
+                <li><strong>Programming Languages:</strong> Python, Java, SQL, PL/SQL</li>
+                <li><strong>J2EE Technologies:</strong> JSP, Java Servlets, JDBC, JMS</li>
+                <li><strong>Version Control:</strong> Git, GitHub</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Professional Experience</h2>
+            <article>
+                <h3>Java/Python Developer, Computek Solutions</h3>
+                <p><em>March 2015 - Present</em></p>
+                <ul>
+                    <li>Written object-oriented Python using Flask, SQL, Beautiful Soup, Jinja2, HTML/CSS, Bootstrap, jQuery, Linux, Sublime Text, and Git</li>
+                    <li>Developed required XML schema documents and implemented a framework for parsing XML documents</li>
+                    <li>Built application database servers using AWS EC2, created AMIs, and used RDS with Oracle DB</li>
+                    <li>Developed web applications using Django frameworks with Model View Control (MVC) architecture</li>
+                    <li>Designed UI screens using templates, AJAX, HTML, and JSON</li>
+                    <li>Used JavaScript for client-side validation</li>
+                    <li>Involved in analysis, design, development, and testing phases of the Software Development Life Cycle (SDLC)</li>
+                    <li>Scheduled tasks using Windows Task Scheduler to run Python scripts and generate reports at frequent intervals, also sending email alerts</li>
+                    <li class="highlight">Led a critical project for Computek Solutions that resulted in a 20% increase in operational efficiency, demonstrating significant importance to the organization.</li>
+                </ul>
+            </article>
+
+            <article>
+                <h3>Python Developer, ABC Corporation</h3>
+                <p><em>March 2010 - March 2015</em></p>
+                <ul>
+                    <li>Worked on Windows Server VM to run reporting scripts daily and make reports available via HTTP using IIS virtual directory</li>
+                    <li>Created on-demand daily and weekly reports by invoking scripts with custom arguments and parameters to provide actionable data to test owners</li>
+                    <li>Managed datasets using Pandas DataFrames and MySQL database queries</li>
+                    <li>Used Python with pyodbc connector package to retrieve information</li>
+                    <li>Wrote programs for performance calculations using NumPy and SQLAlchemy</li>
+                </ul>
+            </article>
+        </section>
+
+        <section>
+            <h2>Additional Information</h2>
+            <ul>
+                <li><strong>Member of the International Association of Software Architects (IASA), which requires outstanding achievements in the field.</strong></li>
+                <li><strong>Published an article titled 'Advanced Python Techniques' in the Journal of Software Development, a well-known professional journal.</strong></li>
+            </ul>
+        </section>
+
+        <footer>
+            <p>Free resume template copyright qwikresume.com usage guidelines</p>
+        </footer>
+    </div>
+</body>
+</html>

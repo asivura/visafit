@@ -1,0 +1,198 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Jessica Claire - CV</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background: #3e4eb8;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        main {
+            display: flex;
+            margin: 20px;
+        }
+        .sidebar {
+            flex: 1;
+            padding: 20px;
+            background: #e2e2e2;
+            margin-right: 20px;
+        }
+        .content {
+            flex: 3;
+            padding: 20px;
+            background: white;
+        }
+        h2, h3 {
+            color: #2c3e50;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 7px;
+        }
+        .skill-list {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .skill-list li {
+            background: #3e4eb8;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 5px;
+            margin: 5px;
+        }
+        .print-footer {
+            display: none;
+        }
+        @media print {
+            body {
+                margin: 0;
+            }
+            header, .sidebar, .content {
+                Width: 100%;
+                margin: 0;
+                padding: 0;
+                page-break-inside: avoid;
+            }
+            header {
+                text-align: left;
+                font-size: 1.2em;
+                background: none;
+                color: black;
+            }
+            .sidebar {
+                background: none;
+                position: relative;
+                width: 100%;
+            }
+            .content {
+                background: none;
+                width: 100%;
+            }
+            .print-footer {
+                display: block;
+                text-align: right;
+                padding: 20px;
+                font-size: 0.9em;
+                color: #555;
+                border-top: 1px solid #ddd;
+            }
+            .page-break {
+                page-break-before: always;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jessica Claire</h1>
+    </header>
+    <main>
+        <aside class="sidebar">
+            <section>
+                <h2>Contact Information</h2>
+                <ul>
+                    <li>Email: resumesample@example.com</li>
+                    <li>Phone: 555-432-1000</li>
+                    <li>Address: Montgomery Street, San Francisco, CA 94105</li>
+                </ul>
+            </section>
+        </aside>
+        <div class="content">
+            <section>
+                <h2>Professional Summary</h2>
+                <p>Military professional transitioning from a career in the United States Navy. Experienced in intelligence with a strong work ethic. Proven leader with the ability to accomplish tasks assigned to the team.</p>
+            </section>
+            <section>
+                <h2>Skills</h2>
+                <ul class="skill-list">
+                    <li>Critical thinking</li>
+                    <li>ASVAB score: 82</li>
+                    <li>Secret security clearance</li>
+                    <li>Organized</li>
+                    <li>Quick learner</li>
+                    <li>Team leader</li>
+                </ul>
+            </section>
+            <section>
+                <h2>Education</h2>
+                <article>
+                    <h3>Wake Technical Community College, Raleigh, NC</h3>
+                    <p><em>Current</em></p>
+                    <ul>
+                        <li>High School Diploma</li>
+                        <li>Completed credits necessary for transfer</li>
+                    </ul>
+                </article>
+                <article>
+                    <h3>American Military University</h3>
+                    <p><em>Starting</em></p>
+                    <ul>
+                        <li>Dual major in Intelligence Collections and Intelligence Operations</li>
+                        <li>President's List</li>
+                        <li>Dean's List</li>
+                    </ul>
+                </article>
+            </section>
+            <section>
+                <h2>Work Experience</h2>
+                <article>
+                    <h3>Aviation Ordnance, DRM Arbys, Beatrice, NE</h3>
+                    <p><em>04/2011 - 04/2015</em></p>
+                    <ul>
+                        <li>Assembled ordnance for combat readiness</li>
+                        <li>Maintained magazines and storage for munitions</li>
+                        <li>Loaded and maintained millions of dollars worth of ordnance</li>
+                        <li>Assistant Command Fitness Leader (ACFL)</li>
+                        <ul>
+                            <li>Oversaw fitness enhancement program</li>
+                            <li>Conducted fitness sessions ranging from individualized training to large group sessions</li>
+                            <li>Monitored and logged sailors' fitness in accordance with program guidelines</li>
+                        </ul>
+                    </ul>
+                </article>
+                <article>
+                    <h3>Assistant Manager, Department of Defense, Niagara Falls, NY</h3>
+                    <p><em>04/2015 - 08/2016</em></p>
+                    <ul>
+                        <li>Led employees to maximize time management and proper car washing procedures</li>
+                        <li>Ensured overall maintenance of car wash tunnel</li>
+                        <li>Delegated tasks to 40 employees to maximize labor hours and minimize costs</li>
+                        <li>Logged daily numbers in Microsoft Excel for district manager</li>
+                    </ul>
+                </article>
+                <article>
+                    <h3>Intelligence Specialist, United States Navy</h3>
+                    <p><em>01/2016 - Current</em></p>
+                    <ul>
+                        <li>Collected, processed, analyzed, organized, and disseminated information</li>
+                        <li>Prepared detailed briefs and communicated intelligence</li>
+                        <li>Plotted data using maps and charts</li>
+                        <li>Utilized intelligence databases and libraries to prepare information</li>
+                        <li>Served as a peer reviewer for scholarly publications in the field of intelligence</li>
+                        <li>Member of the International Association for Intelligence Education (IAFIE)</li>
+                    </ul>
+                </article>
+            </section>
+        </div>
+    </main>
+    <footer class="print-footer">
+        Jessica Claire - CV
+    </footer>
+</body>
+</html>

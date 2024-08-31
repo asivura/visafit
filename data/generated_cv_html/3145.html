@@ -1,0 +1,186 @@
+<html>
+<head>
+    <title>Robert Smith - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        #container {
+            display: flex;
+            flex-direction: row;
+            margin: 20px auto;
+            max-width: 900px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+
+        #sidebar {
+            flex: 1;
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        #main {
+            flex: 3;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 10px 0;
+            border-bottom: 2px solid #f4f4f4;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 24px;
+            color: #333;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        section h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+            color: #0044cc;
+        }
+
+        .contact-information, .skills {
+            list-style: none;
+            padding: 0;
+        }
+
+        .contact-information li, .skills li {
+            margin-bottom: 10px;
+        }
+
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .skill-item {
+            background-color: #0044cc;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+
+        .job {
+            border-top: 2px solid #f4f4f4;
+            padding-top: 10px;
+        }
+
+        .job-title {
+            font-weight: bold;
+        }
+
+        .job-duration {
+            font-style: italic;
+            color: #555;
+        }
+
+        @media print {
+            body {
+                background-color: white;
+            }
+            #container {
+                box-shadow: none;
+                margin: 0;
+                max-width: 100%;
+            }
+            #sidebar {
+                background-color: #f4f4f4;
+                color: black;
+            }
+            .skill-item {
+                background-color: #d0d0d0;
+                color: black;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="sidebar">
+            <header>
+                <h1>Robert Smith</h1>
+            </header>
+            <ul class="contact-information">
+                <li><strong>Phone:</strong> 123-456-7899</li>
+                <li><strong>Email:</strong> info@qwikresume.com</li>
+                <li><strong>Website:</strong> <a href="http://www.qwikresume.com" style="color: white;">www.qwikresume.com</a></li>
+                <li><strong>LinkedIn:</strong> <a href="http://linkedin.com/qwikresume" style="color: white;">linkedin.com/qwikresume</a></li>
+                <li><strong>Address:</strong> 1737 Marshville Road, Alabama</li>
+            </ul>
+        </div>
+        <div id="main">
+            <section>
+                <h2>Objective</h2>
+                <p>Diligent mechanical technician with four years of performance-critical, hands-on education and experience in the field. Top technician with an acquisition in automotive technology degree, applying experience and skills to repair and maintain high-quality equipment with advanced technology. 16 years of customer service experience, 14 years of computer experience, and 4 years of mechanical experience.</p>
+            </section>
+            <section>
+                <h2>Work Experience</h2>
+                <div class="job">
+                    <div class="job-title">Automotive Service Advisor, Firestone Complete Auto Care</div>
+                    <div class="job-duration">February 2016 - 2019</div>
+                    <ul>
+                        <li>Responsible for opening and closing the store and performing associated duties unsupervised.</li>
+                        <li>Organized and counted inventory for submission to the corporate office.</li>
+                        <li>Maintained customer service index (CSI) rating set by the dealership service manager.</li>
+                        <li>Responsible for the entire customer service experience from the service drive to the vehicle being turned back to the customer.</li>
+                        <li>Scheduled appointments and generated detailed service estimates tailored to specific customers.</li>
+                        <li>Advised customers on the care and service of their vehicles and the value of maintenance in accordance with manufacturers' specifications.</li>
+                        <li>Effectively communicated with customers about the timeline for repair and maintenance.</li>
+                        <li>Played a critical role in improving the store's overall performance, leading to a 20% increase in customer satisfaction ratings.</li>
+                    </ul>
+                </div>
+                <div class="job">
+                    <div class="job-title">Automotive Service Advisor, ABC Corporation</div>
+                    <div class="job-duration">2015 - 2016 (30 hours per week)</div>
+                    <ul>
+                        <li>Managed a team of five mechanics and assigned service and repair orders.</li>
+                        <li>Ascertained automotive problems and services by listening to customers' descriptions of symptoms, clarifying the description of problems, conducting inspections, taking test drives, checking vehicle maintenance records, and examining service schedules.</li>
+                        <li>Verified warranty and service contract coverage by examining records and papers and explaining provisions and exclusions.</li>
+                        <li>Developed estimates by costing materials, supplies, and labor, and calculating customers' payments, including deductibles.</li>
+                        <li>Prepared repair orders by describing symptoms, problems, and causes discovered, as well as repairs and services required, obtaining approval signatures, and entering repair orders into the service database system.</li>
+                        <li>Maintained customer rapport by explaining estimates and expected return of the vehicle, obtaining customers' approval of estimates, providing contact telephone numbers, answering questions and concerns, arranging towing and temporary transportation, and resolving customer grievances.</li>
+                        <li>Maintained automotive records by recording problems and corrective actions.</li>
+                        <li>Earned a salary that was 15% higher than the industry average for similar positions.</li>
+                    </ul>
+                </div>
+            </section>
+            <section>
+                <h2>Education</h2>
+                <p><strong>Degree in Automotive Technology</strong></p>
+            </section>
+            <section>
+                <h2>Skills</h2>
+                <ul class="skills">
+                    <li class="skill-item">Customer Service</li>
+                    <li class="skill-item">Computer Proficiency</li>
+                    <li class="skill-item">Mechanical Skills</li>
+                </ul>
+            </section>
+        </div>
+    </div>
+    <footer>
+        <p style="text-align:center; font-size:12px; color:#777; padding:10px 0;">*Free resume template copyright Qwikresume.com usage guidelines*</p>
+    </footer>
+</body>
+</html>

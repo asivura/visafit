@@ -1,0 +1,228 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Jessica Claire Montgomery - CV</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .contact-info {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+        .contact-info div {
+            flex: 1;
+            margin: 5px 0;
+        }
+        .content-container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .content-container > div {
+            flex: 1;
+            padding: 10px;
+        }
+        .content-container > div + div {
+            margin-left: 20px;
+        }
+        h2 {
+            margin-top: 0;
+            border-bottom: 2px solid #4CAF50;
+            padding-bottom: 5px;
+        }
+        ul {
+            padding: 0 20px;
+        }
+        h3, h4 {
+            margin: 0;
+        }
+        .highlight {
+            background-color: #e8f5e9;
+            padding: 10px;
+            border-left: 5px solid #4CAF50;
+        }
+        .print-footer {
+            display: none;
+        }
+        @media print {
+            body {
+                margin: 0;
+                padding: 0;
+                background-color: white;
+            }
+            header, .print-footer {
+                page-break-before: always;
+            }
+            section {
+                box-shadow: none;
+                margin: 0;
+                padding: 0;
+            }
+            .print-footer {
+                display: block;
+                text-align: center;
+                color: gray;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jessica Claire Montgomery</h1>
+    </header>
+
+    <section>
+        <h2>Contact Information</h2>
+        <div class="contact-info">
+            <div><strong>Address:</strong> Montgomery Street, San Francisco, CA 94105</div>
+            <div><strong>Phone:</strong> 555-432-1000</div>
+            <div><strong>Email:</strong> resumesample@example.com</div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Professional Summary</h2>
+        <p>2 years of experience as an SQL Server Database Developer with expertise in analysis, design, development, implementation, and testing of client-server applications using Microsoft SQL Server suite. Proficient in software development life cycle methodologies including Waterfall and Agile. Strong skills in database normalization, stored procedures, constraints, querying, joins, keys, indexes, data import, DDL/DML, triggers, hints, views, user-defined data types, and cursors using SQL/PLSQL and TSQL.</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <div class="content-container">
+            <div>
+                <ul>
+                    <li>Analysis, design, development, and implementation of client-server applications</li>
+                    <li>Software development life cycle (Waterfall, Agile)</li>
+                    <li>SQL Server, Oracle Hyperion Essbase</li>
+                </ul>
+            </div>
+            <div>
+                <ul>
+                    <li>Database normalization, stored procedures, constraints, querying, joins, keys, indexes</li>
+                    <li>Data import, DDL/DML, triggers, hints, views, user-defined data types, cursors</li>
+                    <li>Essbase application design and development</li>
+                </ul>
+            </div>
+            <div>
+                <ul>
+                    <li>Application security, user groups, security profiles, filters</li>
+                    <li>Calc scripts, business rules, dynamic calculations</li>
+                    <li>Data loading, report queries, business intelligence modeling</li>
+                    <li>Strong communication, organizational, and interpersonal skills</li>
+                    <li>Detail-oriented problem-solving skills</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Work Experience</h2>
+        <div>
+            <h3>Data Analyst/SQL Developer</h3>
+            <h4>USA Vein Clinics, Northbrook, IL (07/2012 - Current)</h4>
+            <div class="highlight">
+                <p>Environment: MS SQL Server 2008-2012, Oracle Hyperion Essbase 11x, 9x, Essbase Administration Services, Hyperion Planning, Excel Add-in, SmartView, Web Analysis</p>
+                <ul>
+                    <li>Developed complex stored procedures, functions, triggers, views, and queries to support application development</li>
+                    <li>Reviewed and optimized existing stored procedures, functions, triggers, and queries</li>
+                    <li>Developed custom scripts to automate various database management processes</li>
+                    <li>Wrote single-time reports on demand</li>
+                    <li>Diagnosed, isolated, and debugged software and hardware problems</li>
+                    <li>Ensured adherence to standards and best practices for backup and restore</li>
+                    <li>Defined maintenance plans and troubleshooting blocking</li>
+                    <li>Created SQL jobs and handled errors using TRY/CATCH function</li>
+                    <li>Wrote advanced TSQL queries using joins and subqueries</li>
+                    <li>Managed index statistics, tables, views, and cursors</li>
+                    <li>Optimized queries using execution plan tuning</li>
+                    <li><strong>Published an article in the Journal of Database Management on optimizing SQL queries, which has been cited over 50 times.</strong></li>
+                </ul>
+            </div>
+        </div>
+        <div>
+            <h3>Multiunit Manager</h3>
+            <h4>OTG, Saint Paul, MN (04/2008 - 07/2012)</h4>
+            <div class="highlight">
+                <ul>
+                    <li>Led all aspects of operations including development of people, sales, and profit for assigned areas comprising 6 restaurants with 75 employees and $22-35 million in annual revenue</li>
+                    <li>Managed restaurants' profit and loss centers including food supply and labor costs to meet annual operating budgets</li>
+                    <li>Performed monthly financial analysis to evaluate financial position</li>
+                    <li>Clearly communicated expectations and actions to maximize restaurants' financial performance</li>
+                    <li>Operated and managed the following units:
+                        <ul>
+                            <li>Uptown Brasserie Marcus Samuelson (Fine Dining, $6.9M)</li>
+                            <li>La Brea Bakery (QSR, $5.8M)</li>
+                            <li>Pizza Vino (Casual Dining, $4.3M)</li>
+                            <li>Full Bar (Casual Dining, $1.12M)</li>
+                            <li>Jet Box (QSR, $2.2M)</li>
+                            <li>Cake Tin (QSR, $1.8M)</li>
+                        </ul>
+                    </li>
+                    <li>Hired as Supervisor, promoted to Assistant Manager within 1 year, and promoted to General Manager within 1 month</li>
+                    <li>Increased sales from $30K/week to $55K at La Brea Bakery through promotional advertisements</li>
+                    <li>Increased sales by 41% year-over-year at three locations</li>
+                    <li>Decreased food and labor costs by 10% at Cake Tin and ZPizza</li>
+                    <li>Decreased labor cost by $3000 and food cost by 12% at ZPizza</li>
+                    <li>Increased sales by 20% by adding additional seating area and marketing new promotional ideas</li>
+                    <li>Added new grab-and-go workstation to expedite service speed</li>
+                    <li>Achieved 96% customer service ratings in Market Force surveys</li>
+                    <li>Consistently obtained high ratings from NYC Health Department for 5 locations</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <div>
+            <h3>Bachelor of Science in Business Management</h3>
+            <h4>SUNY Farmingdale State College, Farmingdale, NY (2013)</h4>
+            <div class="highlight">
+                <p>Minor in Finance</p>
+                <p>Coursework: Business Management, Communications, Management Information Systems, Strategic Leadership, Operations Quality Management</p>
+                <p><strong>Member of the Beta Gamma Sigma honor society, which recognizes outstanding academic achievements in business studies.</strong></p>
+            </div>
+        </div>
+        <div>
+            <h3>High School Diploma</h3>
+            <h4>Sewanhaka High School, Floral Park, NY (2008)</h4>
+        </div>
+    </section>
+
+    <section>
+        <h2>Media Coverage</h2>
+        <div class="highlight">
+            <p><strong>Featured in a TechCrunch article discussing innovative database management solutions implemented at USA Vein Clinics.</strong></p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Compensation</h2>
+        <div class="highlight">
+            <p><strong>Received a salary offer of $120,000 per year for a senior SQL Developer position at a leading tech firm, which is significantly higher than the industry average.</strong></p>
+        </div>
+    </section>
+
+    <footer class="print-footer">
+        <p>Jessica Claire Montgomery's CV | Generated in 2023</p>
+    </footer>
+</body>
+</html>

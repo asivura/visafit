@@ -1,0 +1,173 @@
+<html>
+<head>
+    <title>Robert Smith - CV</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            color: #333;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4A90E2;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .sidebar {
+            flex: 1 1 300px;
+            padding: 20px;
+            border-right: 1px solid #e0e0e0;
+        }
+        .main {
+            flex: 3 1 600px;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #4A90E2;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        section {
+            margin-bottom: 30px;
+        }
+        .contact, .skills, .education, .achievements {
+            margin-bottom: 20px;
+        }
+        .contact a {
+            color: #4A90E2;
+            text-decoration: none;
+        }
+        .skills ul {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .skills li {
+            background: #e8f4ff;
+            padding: 5px 10px;
+            border-radius: 5px;
+            margin: 5px;
+        }
+        
+        @media print {
+            header {
+                background-color: #333 !important;
+                color: white !important;
+            }
+            .container {
+                box-shadow: none !important;
+                border: none;
+            }
+            a {
+                color: black;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Robert Smith</h1>
+</header>
+
+<div class="container">
+    <aside class="sidebar">
+        <section class="contact">
+            <h2>Contact Details</h2>
+            <ul>
+                <li><strong>Address:</strong> 1737 Marshville Road, Alabama</li>
+                <li><strong>Phone:</strong> 123-456-7899</li>
+                <li><strong>Email:</strong> <a href="mailto:info@qwikresume.com">info@qwikresume.com</a></li>
+                <li><strong>Website:</strong> <a href="http://www.qwikresume.com">www.qwikresume.com</a></li>
+            </ul>
+        </section>
+        
+        <section class="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Programming Languages: C, C++, C#, JavaScript</li>
+                <li>Web Technologies: MVC, ASP.NET, WCF, Web Services</li>
+                <li>Scripting: XML, CSS, JavaScript</li>
+                <li>Databases: MS SQL Server, Oracle, MS Access</li>
+                <li>Platforms & Servers: IIS, Visual Studio, Unix</li>
+                <li>Languages: English (Native), French (Professional), Spanish (Professional)</li>
+            </ul>
+        </section>
+        
+        <section class="education">
+            <h2>Education</h2>
+            <ul>
+                <li>Bachelor of Science in Computer Science</li>
+            </ul>
+        </section>
+        
+        <section class="achievements">
+            <h2>Achievements</h2>
+            <ul>
+                <li>Developed and deployed multiple high-traffic web applications.</li>
+                <li>Successfully migrated legacy systems to modern web-based platforms.</li>
+                <li>Recognized for outstanding performance and dedication in project management.</li>
+                <li>Member of the Association for Computing Machinery (ACM).</li>
+            </ul>
+        </section>
+    </aside>
+    
+    <main class="main">
+        <section class="personal-statement">
+            <h2>Personal Statement</h2>
+            <p>.NET Developer with around 7 years of experience in the software development life cycle (SDLC), including design, development, testing, and implementation of projects. Experienced in interacting with business analysts to gather project requirements and discuss implementation strategies with project managers.</p>
+        </section>
+
+        <section class="work-experience">
+            <h2>Work Experience</h2>
+            <article>
+                <h3>.NET Developer, Sprint Corporation</h3>
+                <p>Overland Park, February 2009 - Present</p>
+                <ul>
+                    <li>Using Model View Controller (MVC) 4 architectural design patterns for product development.</li>
+                    <li>Understanding existing applications and business rules to accurately implement them.</li>
+                    <li>Designing, developing, and deploying responsive web design (RWD) functionality using MVC 4.0, Razor, Kendo UI, Knockout.js, Jasmine, AJAX, jQuery, and C#.</li>
+                    <li>Implementing client-side validations using jQuery and ASP.NET MVC validation.</li>
+                    <li>Migrating data using SOA and RESTful services with ASP.NET Web API.</li>
+                    <li>Enhancing usability, testability, and performance by implementing interfaces.</li>
+                    <li>Designing front-end using Bootstrap, HTML, CSS, jQuery, and JavaScript.</li>
+                </ul>
+            </article>
+            <article>
+                <h3>Application Developer, ABC Corp</h3>
+                <p>2007 - 2009</p>
+                <ul>
+                    <li>Developed and prepared documents for general design solutions.</li>
+                    <li>Met system security requirements, including selection of alternative approaches.</li>
+                    <li>Developed specifications for databases, communication systems, hardware, network security, storage, and software configurations.</li>
+                    <li>Created structured diagrams and maintained documentation for configurations, databases, servers, computers, and security networks.</li>
+                    <li>Developed rich UI/UX pages using jQuery, JavaScript, and AJAX.</li>
+                    <li>Developed MVC web APIs, REST services, and service layers for ASP.NET web forms.</li>
+                </ul>
+            </article>
+        </section>
+    </main>
+</div>
+
+<footer>
+    <p style="text-align: center; padding: 10px; background: #4A90E2; color: white;">Free resume template provided by Qwikresume.com. Usage guidelines apply.</p>
+</footer>
+
+</body>
+</html>

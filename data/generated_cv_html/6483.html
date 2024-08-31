@@ -1,0 +1,248 @@
+<html>
+<head>
+    <title>Jessica Claire - CV</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f5f5f5;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: row;
+            margin: 20px;
+        }
+
+        aside {
+            flex-basis: 25%;
+            background-color: #f1f1f1;
+            padding: 20px;
+            border-right: 2px solid #ddd;
+        }
+
+        section {
+            flex-basis: 75%;
+            padding: 20px;
+        }
+
+        h2 {
+            color: #4CAF50;
+            border-bottom: 2px solid #4CAF50;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+
+        .knowledge-column,
+        .skill-column {
+            columns: 2;
+        }
+
+        ul {
+            list-style-type: circle;
+            margin: 0;
+            padding: 0;
+        }
+
+        li {
+            margin: 5px 0;
+        }
+
+        h3 {
+            color: #333;
+            margin-top: 20px;
+        }
+
+        .job-title span {
+            font-weight: bold;
+        }
+
+        .address-item,
+        .certifications,
+        .additional-skills {
+            margin-bottom: 20px;
+        }
+
+        .publication,
+        .member {
+            font-style: italic;
+            color: #555;
+        }
+
+        /* Print-specific CSS */
+        @media print {
+            body {
+                background-color: #fff;
+            }
+
+            header,
+            aside {
+                background-color: #fff;
+                color: #000;
+            }
+
+            header h1 {
+                margin: 10px 0;
+            }
+
+            .container {
+                flex-direction: column;
+            }
+
+            aside {
+                border-right: none;
+                margin-bottom: 20px;
+            }
+
+            section,
+            aside {
+                padding: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jessica Claire</h1>
+    </header>
+
+    <div class="container">
+        <aside>
+            <div class="address-item">
+                <h2>Personal Information</h2>
+                <p><strong>Email:</strong> resumesampleexamplecom</p>
+                <p><strong>Phone:</strong> 555-432-1000</p>
+                <p><strong>Address:</strong> Montgomery Street, San Francisco, CA 94105</p>
+            </div>
+
+            <div class="additional-skills">
+                <h2>Additional Skills</h2>
+                <ul>
+                    <li>Setup and maintain 100+ UTM firewalls</li>
+                    <li>Install and manage PoE cameras</li>
+                    <li>Develop documentation for troubleshooting</li>
+                    <li>Develop copy script image process for RAID PC without data loss</li>
+                    <li><span>Commanded a high salary</span> as Desktop Supervisor at Great American Insurance Group</li>
+                </ul>
+            </div>
+
+            <div class="certifications">
+                <h2>Certifications</h2>
+                <p>CompTIA Network+ (COMPO01020686394)</p>
+            </div>
+        </aside>
+
+        <section>
+            <div>
+                <h2>Professional Summary</h2>
+                <p>Tier 2/3 network server troubleshooting, maintenance, and installation specialist. Currently an escalation point for systems, applications, and network administrators. Studying to complete CCNA and CompTIA management certifications to gain knowledge and skills to acquire CCNP and CCIE.</p>
+            </div>
+
+            <div class="knowledge-column">
+                <h2>Knowledge Base</h2>
+                <ul>
+                    <li>Windows 10, 7, Embedded</li>
+                    <li>Exchange 2007/2012</li>
+                    <li>Dell SonicWall</li>
+                    <li>VPN/MPLS</li>
+                    <li>VoIP (Zultys, Avaya/ESI)</li>
+                    <li>Citrix</li>
+                    <li>LANDesk</li>
+                    <li>Kaspersky</li>
+                    <li>JIRA/Confluence</li>
+                    <li>SharePoint</li>
+                    <li>Windows AD</li>
+                    <li>HPDM 4.7</li>
+                    <li>ScreenConnect</li>
+                    <li>Dell KACE</li>
+                    <li>Samanage</li>
+                    <li>Framework LTC</li>
+                    <li>PaperCut</li>
+                    <li>Altiris</li>
+                    <li>DocuTrack</li>
+                </ul>
+            </div>
+
+            <h2>Work Experience</h2>
+            <div class="job">
+                <h3>Great American Insurance Group</h3>
+                <p class="job-title"><span>Desktop Supervisor</span> <span>- Dallas, TX (11/2014 - Current)</span></p>
+                <ul>
+                    <li>Oversee a team of 4 for hardware, software, and network troubleshooting (Tier 2/3 support) for 9 pharmacies and 400 employees.</li>
+                    <li>Implement HPDM in 5 additional pharmacies.</li>
+                    <li>Assist in 2007 to 2013 migration and 2008 to 2012 server update.</li>
+                    <li>Oversee Windows XP to Windows 7 upgrade.</li>
+                    <li>Manage quoting and purchase requests.</li>
+                    <li>Resolve employee and customer relations issues.</li>
+                    <li>Maintain asset control and vendor relations.</li>
+                    <li class="publication">Published an article on network troubleshooting in the Journal of Network and Systems Management.</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <h3>IKE Group</h3>
+                <p class="job-title"><span>Senior Desktop Technician</span> <span>- Honolulu, HI (02/2012 - 11/2014)</span></p>
+                <ul>
+                    <li>Provided Tier 1/2 support for 4 pharmacies and 200 employees.</li>
+                    <li>Assisted in Exchange 2003 to 2007 migration and client-side mail migration to internal hosted Exchange and Office365.</li>
+                    <li>Developed Dell KACE image deployment.</li>
+                    <li class="publication">Served as a peer reviewer for the International Journal of Computer Science and Network Security.</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <h3>HCA</h3>
+                <p class="job-title"><span>Help Desk Manager</span> <span>- Katy, TX (03/2010 - 03/2012)</span></p>
+                <ul>
+                    <li>Provided computer/software support for 6500 clients, including Windows XP, Vista, 7, Server 2008, Autodesk 2012, Adobe CS 5.5, ArcGIS, SPSS, SCCM, Altiris, LogMeIn, and TeamViewer.</li>
+                    <li>Implemented PaperCut print tracking.</li>
+                    <li>Evaluated budget costs and losses, providing cost-effective and secure printer/hardware/software purchases.</li>
+                    <li>Developed and implemented OSX integration with Windows AD.</li>
+                    <li>Managed print server for staff and student printing.</li>
+                    <li>Project manager for new website, including a large knowledge base department.</li>
+                    <li>Assisted in client-side mail migration from Exchange 2003 to 2007.</li>
+                    <li>Coordinated Windows XP to Windows 7 and Office 2003/2007 to Office 2010 upgrades for staff and faculty, ensuring data integrity.</li>
+                    <li>Provided a one-week training program for new employees and taught single class sessions for incoming freshmen and transfer students.</li>
+                    <li>Dispatched 15 help desk staff and 4 techs to appropriate level issues, maintaining prompt and thorough resolutions.</li>
+                    <li>Performed employment processes and evaluations as needed.</li>
+                    <li>Documented repair procedures and policies to enhance efficiency and knowledge base.</li>
+                    <li class="member">Member of the Association for Computing Machinery (ACM), requiring outstanding achievements in the field.</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <h3>Jack Hilliard Distributing</h3>
+                <p class="job-title"><span>Inventory Management</span> <span>- City, State (07/2008 - 02/2010)</span></p>
+                <ul>
+                    <li>Maintained accurate inventory and reconciled daily sales.</li>
+                    <li>Trained new warehouse employees in order processing and verification of bills of lading.</li>
+                    <li>Designed efficient floor plans for new products.</li>
+                    <li>Identified and located missing inventory.</li>
+                    <li>Repaired and returned damaged products.</li>
+                    <li>Warehouse Lead (August - December 2008): Implemented objective suggestions for warehouse employees to increase efficiency and safety.</li>
+                    <li>Discovered and resolved format errors in new customer account profiles, documenting errors to simplify solving future inaccuracies.</li>
+                </ul>
+            </div>
+
+            <h2>Education</h2>
+            <h3>Texas University</h3>
+            <p class="job-title"><span>Bachelor of Science in Agricultural Leadership Development - December 2008</span></p>
+        </section>
+    </div>
+</body>
+</html>

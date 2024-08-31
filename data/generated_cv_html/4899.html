@@ -1,0 +1,165 @@
+<html>
+<head>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #f4f4f4;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 3px solid #333;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .container {
+            display: flex;
+            margin: 20px;
+        }
+        aside {
+            flex: 1;
+            padding: 20px;
+            background: #f9f9f9;
+            border-right: 1px solid #ddd;
+        }
+        main {
+            flex: 3;
+            padding: 20px;
+        }
+        section h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+        .key-achievement {
+            background: #eff0f1;
+            padding: 10px;
+            margin: 10px 0;
+        }
+        footer {
+            padding: 20px;
+            background: #f4f4f4;
+            text-align: center;
+            border-top: 3px solid #333;
+        }
+        .print-section {
+            page-break-inside: avoid;
+        }
+        @media print {
+            body {
+                margin: 0;
+            }
+            header, footer {
+                display: none;
+            }
+            .container {
+                flex-direction: column;
+                margin: 0;
+            }
+            aside {
+                border-right: none;
+                border-bottom: 1px solid #ddd;
+            }
+            main {
+                padding: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jared Arthur Maica</h1>
+        <p>Enthusiastic and well-organized Java Developer with 3 years of experience</p>
+    </header>
+    <div class="container">
+        <aside>
+            <section>
+                <h2>Contact Information</h2>
+                <p><strong>Phone:</strong> 179-945-68777</p>
+                <p><strong>Email:</strong> jamaicagmailcom</p>
+                <p><strong>LinkedIn:</strong> <a href="http://linkedin.com/in/jamaica">linkedin.com/in/jamaica</a></p>
+                <p><strong>Twitter:</strong> <a href="http://twitter.com/jamaica">twitter.com/jamaica</a></p>
+            </section>
+            <section>
+                <h2>Key Skills</h2>
+                <ul>
+                    <li>JSP</li>
+                    <li>Advanced Java</li>
+                </ul>
+            </section>
+            <section>
+                <h2>Professional Memberships</h2>
+                <p>Member of the Association for Computing Machinery (ACM)</p>
+            </section>
+        </aside>
+        <main>
+            <section class="print-section">
+                <h2>Professional Summary</h2>
+                <p>Enthusiastic and well-organized Java Developer with 3 years of experience. Eager to join Microsoft to bring top-class Java development and problem-solving skills. In previous roles, reduced app memory consumption by 30% and decreased startup time of apps by 70%.</p>
+            </section>
+            <section class="print-section">
+                <h2>Work Experience</h2>
+                <article>
+                    <h3>Java Developer</h3>
+                    <p><strong>Dacoderz, Los Angeles, CA</strong></p>
+                    <p><em>2017 - 2018</em></p>
+                    <ul>
+                        <li>Analyzed and designed program changes.</li>
+                        <li>Reviewed and updated requirements documentation.</li>
+                        <li>Wrote design documents (PRD, FRD, UIRD, TRD, SRS, SDD).</li>
+                        <li>Planned, documented, and executed tests to ensure code changes met requirements and specifications.</li>
+                        <li>Supported programming changes, quality assurance, user acceptance testing, and post-implementation.</li>
+                        <li>Applied relevant technical skills to deliver specifications, program changes, unit test scripts, and documentation.</li>
+                    </ul>
+                    <div class="key-achievement">
+                        <strong>Key Achievements:</strong>
+                        <ul>
+                            <li>Achieved a 30% reduction in app memory consumption by eliminating duplicate strings via garbage collection logs analysis and refactoring code.</li>
+                            <li>Recognized for improved code inefficiencies, leading to a 40% increase in app stability.</li>
+                            <li>Published two scholarly articles in the Journal of Software Engineering and Applications.</li>
+                        </ul>
+                    </div>
+                </article>
+                <article>
+                    <h3>Junior Java Developer</h3>
+                    <p><strong>Quantexx, New York, NY</strong></p>
+                    <p><em>2015 - 2016</em></p>
+                    <ul>
+                        <li>Designed, developed, troubleshot, debugged, and implemented software code, software components, and web applications.</li>
+                        <li>Cooperated with graphic designers and project team members to develop website concepts, interface design, and architecture.</li>
+                        <li>Integrated web applications with backend databases.</li>
+                        <li>Deployed large web-based transaction systems using application servers.</li>
+                        <li>Researched, tested, built, and coordinated the integration of new products per production and client requirements.</li>
+                    </ul>
+                    <div class="key-achievement">
+                        <strong>Key Achievement:</strong>
+                        <ul>
+                            <li>Reduced startup time of Java apps by 70% via CDS implementation.</li>
+                            <li>Served as a peer reviewer for the International Journal of Computer Science and Information Security.</li>
+                        </ul>
+                    </div>
+                </article>
+            </section>
+            <section class="print-section">
+                <h2>Education</h2>
+                <p><strong>UCLA</strong></p>
+                <p>B.S. in Computer Science, GPA: 3.9</p>
+                <p><em>2013 - 2016</em></p>
+                <p>Coursework: Computer Systems Architecture, Programming Languages, Algorithms, Complexity, Automata Theory</p>
+            </section>
+            <section class="print-section">
+                <h2>High Remuneration</h2>
+                <p>Commanded a salary in the top 10% of Java Developers in Los Angeles during tenure at Dacoderz.</p>
+            </section>
+        </main>
+    </div>
+    <footer>
+        <p>&copy; Jared Arthur Maica - All Rights Reserved</p>
+    </footer>
+</body>
+</html>

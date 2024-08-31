@@ -1,0 +1,260 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jessica Claire's CV</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      color: #333;
+      background-color: #f4f4f4;
+    }
+    .container {
+      width: 90%;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+      background: white;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    header {
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+      color: #2c3e50;
+    }
+    header p {
+      margin: 5px 0;
+      font-size: 1.1em;
+      color: #7f8c8d;
+    }
+    section {
+      margin: 20px 0;
+    }
+    section h2 {
+      margin-bottom: 10px;
+      font-size: 1.8em;
+      color: #2980b9;
+    }
+    section h3 {
+      margin-bottom: 5px;
+      font-size: 1.5em;
+      color: #3498db;
+    }
+    section p, section ul {
+      margin-bottom: 15px;
+      line-height: 1.6;
+    }
+    .contact-info, .skills {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+    .contact-item, .skill-item {
+      flex: 1 1 45%;
+      margin: 10px 0;
+    }
+    .skill-item ul {
+      list-style: circle inside;
+    }
+    .contact-item ul {
+      list-style: none;
+      padding: 0;
+    }
+    .professional-summary p {
+      background: #ecf0f1;
+      padding: 10px;
+      border-radius: 5px;
+    }
+    .work-history, .education {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .work-item, .education-item {
+      flex: 1 0 100%;
+    }
+    .work-item {
+      border-bottom: 1px solid #ddd;
+      padding: 10px 0;
+    }
+    .work-item:last-child {
+      border: none;
+    }
+    .header, .subheader {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .subheader span {
+      font-size: 0.9em;
+      color: #7f8c8d;
+    }
+    .print-section {
+      page-break-after: always;
+    }
+    @media print {
+      body {
+        background: white;
+        color: black;
+      }
+      .container {
+        box-shadow: none;
+      }
+      header, section {
+        break-inside: avoid;
+      }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>Jessica Claire</h1>
+    <p>100 Montgomery St, 10th Floor | Phone: 555-432-1000 | Email: resumesample@example.com</p>
+  </header>
+  <section class="professional-summary">
+    <h2>Professional Summary</h2>
+    <p>Innovative Christian teacher and coach with 6 years of experience in instructing students both in the classroom and on the court. Expertise in classroom oversight, course planning, and behavior management. Proven success in collaborating with teachers, administrative leaders, and support specialists to meet individual student needs. Committed to encouraging higher-order thinking and increasing student performance by incorporating a biblical worldview.</p>
+  </section>
+  <section class="skills">
+    <h2>Skills</h2>
+    <div class="skill-item">
+      <ul>
+        <li>Lecturing and leading discussions</li>
+        <li>Student records management</li>
+        <li>Classroom management</li>
+        <li>Parent/guardian communication</li>
+        <li>Student engagement</li>
+      </ul>
+    </div>
+    <div class="skill-item">
+      <ul>
+        <li>Enforcing rules and expectations</li>
+        <li>Faculty collaboration and support</li>
+        <li>Student discipline</li>
+        <li>Verbal and written communication</li>
+        <li>Staff meetings</li>
+      </ul>
+    </div>
+  </section>
+  <section class="work-history print-section">
+    <h2>Work History</h2>
+    <div class="work-item">
+      <div class="header">
+        <h3>Junior High Science Teacher</h3>
+        <span>Wayne RESA, Detroit, MI | 08/2019 - Current</span>
+      </div>
+      <ul>
+        <li>Planned, prepared, and taught lesson plans for 120-140 students, providing individual support as needed</li>
+        <li>Demonstrated positive and effective classroom management skills</li>
+        <li>Communicated with students and parents regarding academic progress, assignments, and behavior</li>
+        <li>Maintained a consistent and focused learning environment by establishing and enforcing clear objectives</li>
+        <li>Coordinated and collaborated with faculty members on lesson plan development</li>
+        <li>Assessed and submitted class assignments, determined grades, and reviewed work with struggling students to boost success</li>
+        <li>Taught subject matter based on information from textbooks, online sites, and educational materials</li>
+        <li>Offered clear and constructive student discipline, discouraging inappropriate behavior and bullying</li>
+        <li>Assessed student comprehension through regular quizzes, tests, and assignments</li>
+        <li>Demonstrated willingness to accept feedback and make corrections based on advice from peers, parents, and the principal</li>
+        <li>Planned and escorted student field trips relevant to current science coursework</li>
+        <li>Administered and graded tests and assignments to evaluate students' progress</li>
+      </ul>
+    </div>
+
+    <div class="work-item">
+      <div class="header">
+        <h3>Head Varsity Volleyball Coach</h3>
+        <span>University of Wisconsin System, Milwaukee, WI | 06/2017 - Current</span>
+      </div>
+      <ul>
+        <li>Worked individually with players struggling to enhance confidence and strengthen court skills</li>
+        <li>Motivated athletes to become stronger and more agile through effective training habits and proper nutrition</li>
+        <li>Promoted stretching and mobility work with proper form to help athletes safely build strength</li>
+        <li>Implemented exercise programs and training strategies to bolster individual and team performance</li>
+        <li>Prepared athletes for special competitions and tournaments</li>
+        <li>Evaluated individual knowledge, skills, and strengths to assign team positions that maximize talent areas</li>
+        <li>Stretched, warmed up, and completed conditioning exercises properly to reduce injuries</li>
+        <li>Maintained equipment and facilities inventory to avoid accidents, mishaps, and damage</li>
+        <li>Coordinated with parents and boosters to meet team needs involving equipment and travel arrangements</li>
+        <li>Held special events to promote camaraderie among teammates, families, and community members</li>
+        <li>Cultivated community and media relations through social media communication channels to support the program</li>
+        <li>Increased player strength, agility, and game skills through successful practices</li>
+        <li>Trained athletes in the proper use of equipment for safety and maximum results</li>
+        <li>Developed game plans and adjusted them to meet various game situations</li>
+        <li>Coordinated special events such as preseason tryouts, training camps, and special workshops to support team goals</li>
+        <li>Evaluated tapes of competition matches to assess strategies and plan counter-approaches</li>
+        <li>Supervised 5 volleyball coaches</li>
+      </ul>
+    </div>
+
+    <div class="work-item">
+      <div class="header">
+        <h3>Assistant Coach</h3>
+        <span>Leon Independent School District, City, State | 08/2006 - 05/2007</span>
+      </div>
+      <ul>
+        <li>Worked individually with players struggling to enhance confidence and strengthen court skills</li>
+        <li>Motivated athletes to become stronger and more agile through effective training habits and proper nutrition</li>
+        <li>Promoted stretching and mobility work with proper form to help athletes safely build strength</li>
+        <li>Implemented exercise programs and training strategies to bolster individual and team performance</li>
+        <li>Demonstrated proper technique for spiking and serving the ball</li>
+        <li>Developed and implemented training drills to improve team cohesiveness and performance</li>
+        <li>Promoted good sportsmanship among competing teams on and off the field</li>
+        <li>Maintained equipment and facilities inventory to avoid accidents, mishaps, and damage</li>
+      </ul>
+    </div>
+
+    <div class="work-item">
+      <div class="header">
+        <h3>High School Health Teacher</h3>
+        <span>Leon Independent School District, City, State | 06/2006 - 05/2007</span>
+      </div>
+      <ul>
+        <li>Created engaging lesson plans that fostered a culture of discovery</li>
+        <li>Provided a well-organized classroom structure to help students succeed</li>
+        <li>Evaluated students' academic and social growth, keeping appropriate records and preparing progress reports to gauge performance</li>
+        <li>Inspired academic success based on the belief that students can achieve excellence regardless of background</li>
+        <li>Fostered a positive and pleasant classroom culture while maintaining learning and development goals</li>
+        <li>Established and communicated clear objectives for educational activities</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="education">
+    <h2>Education</h2>
+    <div class="education-item">
+      <div class="header">
+        <h3>Master of Science in Education</h3>
+        <span>Sam Houston State University, Huntsville, TX | 12/2022</span>
+      </div>
+      <p>Additional Information: Also obtaining Principal Instructional Leader Certification (Projected date: August 2022)</p>
+      <p>Completion of 18 hours towards degree in Spring 2022 semester</p>
+    </div>
+
+    <div class="education-item">
+      <div class="header">
+        <h3>Bachelor of Science in Kinesiology</h3>
+        <span>Sam Houston State University, Huntsville, TX | 05/2006</span>
+      </div>
+      <p>Minor in Education</p>
+      <p>Received Texas Teacher Certification in Health and Physical Education</p>
+      <p>Member of the National Science Teachers Association (NSTA), which requires outstanding achievements in the field of science education</p>
+    </div>
+
+    <div class="education-item">
+      <div class="header">
+        <h3>High School Diploma</h3>
+        <span>Leon High School, Jewett, TX | 05/2002</span>
+      </div>
+      <p>Student at Leon ISD</p>
+      <p>Heavily involved in sports, Fellowship of Christian Athletes, and Future Farmers of America</p>
+      <p>Voted Miss LHS by peers</p>
+      <p>Received many sports-related accolades, including Class 2A State Volleyball Champions (2000), named to All-State Tournament Team, and District MVP (2001)</p>
+    </div>
+  </section>
+</div>
+</body>
+</html>

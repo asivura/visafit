@@ -1,0 +1,202 @@
+<html>
+
+<head>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      color: #333;
+      background-color: #f4f4f9;
+    }
+
+    header {
+      background-color: #2e86de;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      padding: 20px;
+      gap: 20px;
+    }
+
+    .sidebar,
+    .content {
+      background-color: #fff;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .sidebar {
+      flex: 1;
+      max-width: 300px;
+    }
+
+    .content {
+      flex: 2;
+    }
+
+    section {
+      margin-bottom: 20px;
+    }
+
+    h1, h2, h3, p, li {
+      margin: 0;
+    }
+
+    h2 {
+      margin-bottom: 10px;
+      border-bottom: 2px solid #2e86de;
+      display: inline-block;
+    }
+
+    section ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    section ul li {
+      margin-bottom: 5px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 10px;
+      background-color: #2e86de;
+      color: white;
+    }
+
+
+    /* Print-specific CSS */
+    @media print {
+      body {
+        margin: 0;
+      }
+
+      header, footer {
+        display: none;
+      }
+
+      .container {
+        display: block;
+        padding: 0;
+      }
+
+      .sidebar,
+      .content {
+        box-shadow: none;
+        padding: 0;
+      }
+
+      .sidebar {
+        float: left;
+        width: 30%;
+      }
+
+      .content {
+        float: right;
+        width: 70%;
+      }
+    }
+
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Ashton Ryder</h1>
+    <p>1 Main Street, New Cityland, CA 91010</p>
+    <p><strong>Phone:</strong> (555) 322-7337 | <strong>Email:</strong> exampleemail@example.com</p>
+  </header>
+
+  <div class="container">
+    <aside class="sidebar">
+      <section>
+        <h2>Summary</h2>
+        <p>Accomplished salesperson with a superior work ethic and creative revenue generation ideas. Offers 10 years of experience in diverse sales environments, including lawn equipment and clothing. Able to work independently and consistently exceed sales goals. Outgoing people person with a customer service mindset. Proficient in sales, revenue generation, marketing, and merchandising.</p>
+      </section>
+
+      <section>
+        <h2>Skills</h2>
+        <ul>
+          <li>Business development</li>
+          <li>Key relationship management</li>
+          <li>Exceptional networker</li>
+          <li>Negotiator</li>
+          <li>Consultative seller</li>
+          <li>Discerning eye for detail</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Publications</h2>
+        <p>Ryder, A. (2015). "Innovative Sales Techniques in Retail." Journal of Sales and Marketing, 12(3), 45-50.</p>
+      </section>
+
+      <section>
+        <h2>Awards</h2>
+        <p>Recipient of the National Sales Excellence Award (2018) for outstanding performance in sales and customer service.</p>
+      </section>
+
+      <section>
+        <h2>Contributions</h2>
+        <p>Developed a unique customer referral program that increased sales by 20% over three years at Williams Garden Center.</p>
+      </section>
+    </aside>
+
+    <main class="content">
+      <section>
+        <h2>Work Experience</h2>
+
+        <article>
+          <h3>Salesperson, Williams Garden Center</h3>
+          <p><em>New Cityland, CA | 10/2010 - Current</em></p>
+          <ul>
+            <li>Primarily sell lawn equipment, including riding lawn mowers</li>
+            <li>Maintain thorough and updated knowledge of equipment, product offerings, and promotions</li>
+            <li>Explain equipment operation, maintenance details, and special tips for use</li>
+            <li>Upsell warranties and accessories to consistently maximize revenue opportunities</li>
+            <li>Network effectively with customers, increasing referrals by 20% over three years</li>
+            <li>Earned three top seller recognitions for exceeding sales goals</li>
+            <li>Featured in "Garden Equipment Monthly" for innovative sales techniques and exceptional customer service</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Salesperson, Men's Depot</h3>
+          <p><em>New Cityland, CA | 02/2007 - 09/2010</em></p>
+          <ul>
+            <li>Observed customers and listened closely to their questions to ascertain the best clothing options</li>
+            <li>Made recommendations accordingly and assisted customers in trying items</li>
+            <li>Brought additional items as requested and suggested accessories to match clothes, increasing purchases</li>
+            <li>Kept clothing racks neatly organized and fully stocked</li>
+            <li>Merchandised sales racks to increase customer engagement and store revenue</li>
+            <li>Placed special orders for out-of-stock items and unique sizes</li>
+          </ul>
+        </article>
+
+        <article>
+          <h3>Salesperson, Moody's Clothing</h3>
+          <p><em>New Cityland, CA | 08/2003 - 01/2007</em></p>
+          <ul>
+            <li>Greeted every customer with a smile and friendly conversation to offer assistance</li>
+            <li>Enhanced customer experience by presenting flattering items based on customer preferences</li>
+            <li>Answered questions regarding promotions and clothing items</li>
+            <li>Monitored trends and provided information to customers to maximize purchases</li>
+            <li>Cleaned and organized the sales floor frequently to present an optimal buying environment for customers</li>
+          </ul>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <footer>
+    &copy; 2023 Ashton Ryder
+  </footer>
+</body>
+
+</html>

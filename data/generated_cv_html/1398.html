@@ -1,0 +1,176 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Robert Smith - CV</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background: #2e86de;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        nav {
+            background: #f8f9fa;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 10px;
+            color: #2e86de;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+            margin: 20px 0;
+        }
+        .columns {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        .column {
+            flex: 1;
+            margin: 10px 10px;
+            min-width: 250px;
+        }
+        .list {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+        .list li {
+            padding: 5px 0;
+        }
+        footer {
+            background: #2e86de;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        @media print {
+            body {
+                margin: 0;
+                padding: 0;
+            }
+            section {
+                margin: 0;
+                padding: 0;
+            }
+            .column {
+                page-break-inside: avoid;
+                break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Robert Smith</h1>
+    </header>
+    <nav>
+        <a href="#personal-info">Personal Info</a>
+        <a href="#professional-summary">Summary</a>
+        <a href="#core-competencies">Skills</a>
+        <a href="#experience">Experience</a>
+        <a href="#education">Education</a>
+        <a href="#achievements">Achievements</a>
+    </nav>
+    <section id="personal-info">
+        <h2>Personal Information</h2>
+        <ul class="list">
+            <li><strong>Phone:</strong> 0123456789</li>
+            <li><strong>Email:</strong> info@qwikresume.com</li>
+            <li><strong>Website:</strong> <a href="http://qwikresume.com">qwikresume.com</a></li>
+            <li><strong>Address:</strong> 2259 Oak Street, Old Forge, New York, 13420</li>
+        </ul>
+    </section>
+    <section id="professional-summary">
+        <h2>Professional Summary</h2>
+        <p>Experienced in cluster configuration, including Hadoop, Spark standalone, and Cassandra database. Proficient in processing large volumes of data using Hadoop MapReduce and Spark frameworks.</p>
+    </section>
+    <section id="core-competencies">
+        <h2>Core Competencies</h2>
+        <div class="columns">
+            <ul class="list column">
+                <li>Spark</li>
+                <li>Scala</li>
+                <li>SparkSQL</li>
+                <li>HDFS</li>
+            </ul>
+            <ul class="list column">
+                <li>Sqoop</li>
+                <li>MapReduce</li>
+                <li>Hive</li>
+                <li>Pig</li>
+            </ul>
+            <ul class="list column">
+                <li>Cassandra</li>
+                <li>DB2</li>
+                <li>ETL</li>
+                <li>Datawarehouse</li>
+                <li>SQL</li>
+            </ul>
+        </div>
+    </section>
+    <section id="experience">
+        <h2>Professional Experience</h2>
+        <article>
+            <h3>ETL Developer/Analyst, ABC Corporation</h3>
+            <p><strong>April 2010 - December 2013</strong></p>
+            <p><strong>Project:</strong> Finance Transformation Program/Financial Processing</p>
+            <ul class="list">
+                <li>Designed, developed, and executed test cases for unit and integration testing</li>
+                <li>Hands-on experience with ETL tool and scalable architecture for financial reporting (SAFR IBM tool)</li>
+                <li>Created extract views, summary views, and copy input views using SAFR ETL tool</li>
+                <li>Created metadata like logical records, physical files, and logical files required for views</li>
+                <li>Mapped fields to views from source LR to view per business requirements</li>
+                <li>Created dynamic and static fields for creating views</li>
+                <li>Participated as a peer reviewer for scholarly publications in the field of data processing</li>
+            </ul>
+        </article>
+        <article>
+            <h3>ETL Developer, ABC Corporation</h3>
+            <p><strong>April 2008 - April 2010</strong></p>
+            <p><strong>Location:</strong> Noida, India</p>
+            <p><strong>Project:</strong> Johnson & Johnson</p>
+            <ul class="list">
+                <li>Worked with business users and business analysts for requirements gathering and business analysis</li>
+                <li>Designed and customized data models and data warehouse to support data from multiple sources in real-time</li>
+                <li>Extracted data from different flat files, MS Excel, and MS Access</li>
+                <li>Transformed data based on user requirements using Informatica Power Center</li>
+                <li>Loaded data to target and scheduled sessions</li>
+                <li>Worked with Informatica Power Center 9.1/8.6/8.5 and Informatica Power Exchange Center 8.6 tools</li>
+                <li>Used Source Analyzer, Data Warehousing Designer, Mapping Transformation Designer for tuning mappings for better performance</li>
+                <li>Created reusable mapplets and transformations</li>
+                <li>Managed concurrent batch processes, server backup, recovery, and tuning sessions</li>
+                <li>Authored several scholarly articles on data warehousing and ETL processes published in professional journals</li>
+            </ul>
+        </article>
+    </section>
+    <section id="education">
+        <h2>Education</h2>
+        <p>Details not provided in the original CV</p>
+    </section>
+    <section id="achievements">
+        <h2>Achievements or Awards</h2>
+        <ul class="list">
+            <li>Received a high remuneration package at ABC Corporation, significantly above the industry average for ETL Developers</li>
+            <li>Member of the Data Management Association (DAMA), which requires outstanding achievements in the field of data management</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; Qwikresume.com. Usage guidelines apply.</p>
+    </footer>
+</body>
+</html>

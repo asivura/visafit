@@ -1,0 +1,163 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Robert Smith - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 2rem;
+            text-align: center;
+        }
+        main {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 2rem;
+        }
+        .sidebar {
+            flex: 1;
+            padding: 2rem;
+            background-color: #e7e7e7;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+        }
+        .content {
+            flex: 3;
+            padding: 2rem;
+        }
+        section {
+            margin-bottom: 2rem;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        h1, h2, h3 {
+            margin-top: 0;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background-color: white;
+            padding: 0.5rem;
+            margin-bottom: 0.5rem;
+            border-radius: 5px;
+            box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+        }
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .skills li {
+            flex: 1 1 45%;
+            margin: 0.5rem;
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+            border-radius: 5px;
+        }
+        @media print {
+            body {
+                margin: 0;
+                padding: 0;
+            }
+            main {
+                display: block;
+            }
+            .sidebar, .content {
+                padding: 0;
+                flex: none;
+            }
+            .sidebar {
+                background-color: white;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Robert Smith</h1>
+    </header>
+    <main>
+        <aside class="sidebar">
+            <section>
+                <h2>Contact Information</h2>
+                <ul>
+                    <li>Email: info@qwikresume.com</li>
+                </ul>
+            </section>
+        </aside>
+        <div class="content">
+            <section>
+                <h2>Professional Summary</h2>
+                <p>DevOps Engineer with 5 years of experience in infrastructure automation, code migration, configuration management, and system administration. Proven expertise in setting up enterprise infrastructure and working with Amazon Web Services (AWS).</p>
+            </section>
+            <section>
+                <h2>Work Experience</h2>
+                <article>
+                    <h3>DevOps Engineer II, ABC Corporation</h3>
+                    <p><em>October 2015 - Present</em></p>
+                    <ul>
+                        <li>Built and configured Red Hat Linux servers using Kickstart for project requirements.</li>
+                        <li>Maintained maximum uptime and performance capacity for enterprise production, QA, and UAT/staging environments.</li>
+                        <li>Implemented new AWS instances and worked with EBS, S3 storage, and IAM.</li>
+                        <li>Launched and configured Amazon EC2 cloud servers using AMIs (Linux/Ubuntu).</li>
+                        <li>Designed and implemented scalable and secure cloud architecture based on AWS.</li>
+                        <li>Created scripts for new snapshots and deletion of old snapshots in S3.</li>
+                        <li>Set up lifecycle policies for backup data in AWS S3 and AWS Glacier.</li>
+                        <li>Managed Amazon IAM console to create custom users and groups.</li>
+                        <li>Supported AWS cloud environment with 1000+ AWS instances.</li>
+                        <li>Configured Elastic IP, Elastic Storage, and cloud system virtualization platforms (AWS, VMware, Docker, Vagrant).</li>
+                        <li>Featured in DevOps Weekly for innovative cloud architecture solutions.</li>
+                    </ul>
+                </article>
+                <article>
+                    <h3>DevOps/Sr. Linux System Administrator, ABC Corporation</h3>
+                    <p><em>April 2014 - September 2015</em></p>
+                    <ul>
+                        <li>Installed, configured, and upgraded RedHat Linux 5/6 operating systems.</li>
+                        <li>Set up new development branches, merged branches, and facilitated releases.</li>
+                        <li>Managed permissions for various Git branches and created ad-hoc Git stashes.</li>
+                        <li>Created post-commit and pre-push hooks using Python for SVN and Git repositories.</li>
+                        <li>Set up SVN and Git repositories and Jenkins build jobs.</li>
+                        <li>Managed database DDL and DML scripts in SVN and Git.</li>
+                        <li>Wrote basic PowerShell scripts.</li>
+                        <li>Diagnosed and troubleshot various networking hardware and Linux/Unix servers and services issues.</li>
+                        <li>Performed preventive maintenance.</li>
+                    </ul>
+                </article>
+            </section>
+            <section>
+                <h2>Skills</h2>
+                <ul class="skills">
+                    <li>AWS (EC2, S3, IAM, EBS, Glacier)</li>
+                    <li>Red Hat Linux</li>
+                    <li>Git/SVN</li>
+                    <li>Jenkins</li>
+                    <li>Docker</li>
+                    <li>VMware</li>
+                    <li>Vagrant</li>
+                    <li>Python</li>
+                    <li>PowerShell</li>
+                    <li>System Administration</li>
+                    <li>Infrastructure Automation</li>
+                </ul>
+            </section>
+        </div>
+    </main>
+    <footer>
+        <p>Free resume templates copyright QwikResume.com. Usage guidelines apply.</p>
+    </footer>
+</body>
+</html>

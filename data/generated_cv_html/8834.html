@@ -1,0 +1,210 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jessica Claire - CV</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header, footer, section, article {
+            margin: 0 auto;
+            max-width: 900px;
+            padding: 20px;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            font-size: 1.1em;
+        }
+        .contact-info {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            background-color: #555;
+            color: #fff;
+            padding: 10px 20px;
+        }
+        .contact-info div {
+            margin: 10px;
+        }
+        section {
+            margin-top: 40px;
+        }
+        section h2 {
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+            font-size: 1.8em;
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: 1fr 3fr;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .sidebar {
+            background-color: #eee;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .sidebar ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .sidebar ul li {
+            margin-bottom: 10px;
+        }
+        .content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .content ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .content ul li {
+            margin-bottom: 10px;
+        }
+        .content h3 {
+            font-size: 1.5em;
+            margin-top: 0;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+        }
+        @media print {
+            body {
+                background-color: white;
+                color: black;
+            }
+            .contact-info, footer {
+                display: none;
+            }
+            section {
+                padding: 0;
+            }
+            .grid-container {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jessica Claire</h1>
+        <p>Hybrid Cloud Engineer</p>
+    </header>
+    <div class="contact-info">
+        <div>100 Montgomery St, 10th Floor</div>
+        <div>555-432-1000</div>
+        <div>resumesample@example.com</div>
+    </div>
+    <section>
+        <h2>Summary</h2>
+        <p><strong>Hybrid Cloud Engineer</strong> with eight (8) years of experience working with several customers. Adept at developing solutions, procedures, and service standards for project transformation and business excellence. Proficient in designing effective solutions for cloud deployment and transitioning multiple projects, ensuring seamless delivery of services. Exceptional hands-on experience in managing server infrastructures, database migration, and implementing upgradable and scalable infrastructure in AWS Cloud and Azure Cloud.</p>
+    </section>
+    <section>
+        <h2>Technical Skills</h2>
+        <div class="grid-container">
+            <aside class="sidebar">
+                <ul>
+                    <li><strong>Cloud Technologies</strong>: AWS, Azure</li>
+                    <li><strong>Azure Services</strong>: ADF, ADB, Storage Account, VNet, Subnet, Automation Runbook, ACR, ACS, AKS, KeyVaults, Azure Apps, Logic Apps, Express Route, SQL Instances, Azure Repo, Azure Pipelines, Azure Boards, Azure Artifacts</li>
+                    <li><strong>AWS Services</strong>: VPC, Subnet, VPN, Direct Connect, CloudTrail, CloudWatch, CodeCommit, CodeDeploy, CodePipeline, API Gateway, ALB, Auto Scaling Group, EKS, Docker, AWS Control Tower, Terraform, CloudFormations, CloudEndure, Cloud Native, AWS RDS, ECS, Cloud Security, Landing Zone, Transit Gateway, Control Tower, EKS, SNS, Cloud Networking, Load Balancer, Elastic Cache</li>
+                </ul>
+            </aside>
+            <div class="content">
+                <h3>Additional Skills</h3>
+                <ul>
+                    <li><strong>DevOps Tools</strong>: Terraform, Ansible, CFT, ARM Templates, Jenkins, Docker, Docker Compose, Docker Swarm, Kubernetes, OpenShift, Grafana, Nagios, Bamboo, Nexus, Checkmarx, Ant</li>
+                    <li><strong>Scripting Languages</strong>: Python, Shell Script, PowerShell, Groovy</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section>
+        <h2>Experience</h2>
+        <article class="content">
+            <h3>DevOps Engineer</h3>
+            <p><em>08/2020 - Current</em><br><strong>Foundation Capital, Spokane, WA</strong></p>
+            <ul>
+                <li>Cloud automation using Terraform, Ansible, CFT, ARM Templates</li>
+                <li>DevOps CI/CD with Jenkins, Ansible, Docker, Docker Compose, Docker Swarm, Kubernetes, OpenShift, Grafana, Nagios, Bamboo, Nexus, Checkmarx, Ant</li>
+                <li>Scripting with Python, Shell Script, PowerShell, Groovy</li>
+                <li>Analyzed customers' AWS environments to identify cost-saving opportunities</li>
+                <li>Implemented and configured security services to properly harden infrastructure</li>
+                <li>Coordinated with customers to implement cost-saving strategies</li>
+                <li>Monitored customer environments daily for anomalies, trends, and savings opportunities</li>
+                <li>Handled offshore junior team using Agile methodology</li>
+                <li><strong>Published a research paper on cloud security in a major trade publication, highlighting innovative security measures implemented at Foundation Capital.</strong></li>
+            </ul>
+        </article>
+        <article class="content">
+            <h3>Site Reliability Engineer</h3>
+            <p><em>02/2017 - 07/2020</em><br><strong>Accenture (Contractor), Tacoma, WA</strong></p>
+            <ul>
+                <li>Worked with distributed teams to design and develop frameworks, solution accelerators, and proofs of concept for external customer-facing products</li>
+                <li>Deployed AWS services to solve customer application issues such as latency and unavailability</li>
+                <li>Managed AWS-provided portal account access, credentials, and privileges</li>
+                <li>Rotated IAM access keys regularly and standardized password expiration</li>
+                <li>Ensured architecture solutions were compliant with security frameworks</li>
+                <li>Wrote IAM policies to grant users and groups necessary privileges</li>
+                <li>Designed and contributed to security architecture processes</li>
+                <li>Involved in the design and security oversight of next-generation firewalls, intrusion prevention systems, DDoS solutions, SSL-terminating load balancers, WAF, security groups, NACL, and encrypted data stored in EBS and Amazon RDS</li>
+                <li><strong>Developed a novel cloud deployment strategy that significantly reduced latency and improved system reliability, which was later adopted by multiple teams within Accenture.</strong></li>
+            </ul>
+        </article>
+        <article class="content">
+            <h3>DevOps Engineer</h3>
+            <p><em>03/2015 - 01/2017</em><br><strong>Foundation Capital, Golden, CO</strong></p>
+            <ul>
+                <li>Created documentation and roadmap for implementation</li>
+                <li>Curated Terraform modules for multiple services including VM, Storage Account, ADF, Data Bricks, Automation Runbook, etc.</li>
+                <li>Set DFS algorithm to complement ADF deployment flow</li>
+                <li>Helped set up linked templates to solve ARM template deployment issues</li>
+                <li>Created CI/CD pipelines using Azure DevOps for end-to-end code testing and implementation</li>
+                <li>Designed Git hierarchy to enable optimal versioning</li>
+                <li>Improved security using Key Vault and security best practices</li>
+                <li>Handled offshore junior team using Agile methodology</li>
+                <li><strong>Received a high remuneration package, placing her in the top 10% of earners in her field, as evidenced by her pay statements and contract details.</strong></li>
+            </ul>
+        </article>
+    </section>
+    <section>
+        <h2>Education</h2>
+        <article class="content">
+            <h3>High School Diploma</h3>
+            <p><em>01/2009</em><br><strong>Nayabander BI High School, Bangladesh</strong></p>
+        </article>
+    </section>
+    <section>
+        <h2>Certifications</h2>
+        <article class="content">
+            <ul>
+                <li><strong>AWS Certified Solutions Architect – Associate</strong></li>
+                <li><strong>AWS Certified DevOps Engineer – Professional</strong></li>
+                <li><strong>Microsoft Azure Fundamentals Certified</strong></li>
+            </ul>
+        </article>
+    </section>
+    <footer>
+        <p>&copy; 2023 Jessica Claire. All rights reserved.</p>
+    </footer>
+</body>
+</html>

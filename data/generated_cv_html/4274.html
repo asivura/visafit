@@ -1,0 +1,199 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>John Doe - CV</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      line-height: 1.6;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f9;
+    }
+    .container {
+      display: grid;
+      grid-template-columns: 1fr 3fr;
+      gap: 20px;
+      max-width: 1100px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    header {
+      grid-column: 1 / 3;
+      background: #673ab7;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    .sidebar {
+      background: #fafafa;
+      padding: 20px;
+      border-right: 5px solid #673ab7;
+    }
+    .sidebar section {
+      margin-bottom: 20px;
+    }
+    .content {
+      padding: 20px;
+    }
+    section {
+      margin-bottom: 20px;
+    }
+    section h2 {
+      background: #673ab7;
+      color: #fff;
+      padding: 10px;
+      margin: 0 -20px;
+      font-size: 1.5em;
+    }
+    section ul, section p {
+      margin: 10px 0 0 0;
+      padding: 0;
+      list-style: none;
+    }
+    .contact a, .content a {
+      color: #673ab7;
+      text-decoration: none;
+    }
+    .contact a:hover, .content a:hover {
+      text-decoration: underline;
+    }
+    @media print {
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        max-width: 100%;
+        margin: 0;
+        padding: 0;
+        box-shadow: none;
+      }
+      header h1 {
+        font-size: 2em;
+      }
+      .sidebar, .content {
+        padding: 10px;
+      }
+      section h2 {
+        font-size: 1.2em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>John Doe</h1>
+    </header>
+    <aside class="sidebar">
+      <section class="contact">
+        <h2>Contact Information</h2>
+        <ul>
+          <li><strong>Website:</strong> <a href="http://www.yourwebsite.com">www.yourwebsite.com</a></li>
+          <li><strong>Address:</strong> Street Location, ABC Country</li>
+          <li><strong>Phone:</strong> 00 0123 456 78</li>
+          <li><strong>Email:</strong> <a href="mailto:youremail@gmail.com">youremail@gmail.com</a></li>
+        </ul>
+      </section>
+      <section class="languages">
+        <h2>Languages</h2>
+        <ul>
+          <li>English</li>
+          <li>Spanish</li>
+          <li>Chinese</li>
+          <li>French</li>
+          <li>Dutch</li>
+        </ul>
+      </section>
+      <section class="memberships">
+        <h2>Memberships</h2>
+        <ul>
+          <li>Member of the National Education Association (NEA)</li>
+        </ul>
+      </section>
+      <section class="media">
+        <h2>Media Coverage</h2>
+        <ul>
+          <li>Featured in the article "Top Educators of 2019" in Education Today Magazine.</li>
+        </ul>
+      </section>
+      <section class="hobbies">
+        <h2>Hobbies</h2>
+        <ul>
+          <li>[Hobby 1]</li>
+          <li>[Hobby 2]</li>
+          <li>[Hobby 3]</li>
+        </ul>
+      </section>
+    </aside>
+    <main class="content">
+      <section class="summary">
+        <h2>Professional Summary</h2>
+        <p>Teacher who encourages creativity and higher-order thinking in a way that increases student performance.</p>
+      </section>
+      <section class="education">
+        <h2>Education</h2>
+        <ul>
+          <li><strong>Degree Name, University Name</strong> <span>(2011-2012)</span></li>
+          <li><strong>Degree Name, University Name</strong> <span>(2012-2014)</span></li>
+          <li><strong>Degree Name, University Name</strong> <span>(2014-2016)</span></li>
+        </ul>
+      </section>
+      <section class="experience">
+        <h2>Professional Experience</h2>
+        <ul>
+          <li>
+            <strong>Teacher, School Name</strong> <span>(Mar 2016 - May 2017)</span>
+            <ul>
+              <li>Worked with teachers and administrators to evaluate and revise elementary school programs.</li>
+              <li>Ensured students understood the curriculum.</li>
+              <li>Supported weak students requiring extra guidance, resulting in writing and reading comprehension test scores increasing by 20% year over year.</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Teacher, School Name</strong> <span>(Jun 2017 - Jan 2018)</span>
+            <ul>
+              <li>Implemented personalized education plans for students' unique needs to increase individual growth.</li>
+              <li>Crafted a unique program for the school library to foster interest in history and social studies education.</li>
+              <li>Awarded Best Teacher of the Year at XYZ School.</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Senior Teacher, School Name</strong> <span>(Jun 2017 - Jan 2018)</span>
+            <ul>
+              <li>Created a reward system to manage classroom behavior, resulting in a marked decrease in detentions.</li>
+              <li>Crafted a unique program for the school library to foster interest in history and social studies education.</li>
+              <li>Served as a peer reviewer for scholarly publications in the field of education.</li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+      <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+          <li>Skill 01</li>
+          <li>Skill 02</li>
+          <li>Skill 03</li>
+          <li>Skill 04</li>
+          <li>Skill 05</li>
+        </ul>
+      </section>
+      <section class="publications">
+        <h2>Publications</h2>
+        <ul>
+          <li>Doe, J. (2018). Innovative Teaching Methods in Elementary Education. Journal of Modern Education, 12(3), 45-67.</li>
+          <li>Doe, J. (2019). The Impact of Personalized Education Plans. International Journal of Educational Research, 23(1), 89-102.</li>
+        </ul>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

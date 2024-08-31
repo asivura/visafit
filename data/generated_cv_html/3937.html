@@ -1,0 +1,164 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Marie Pearce's CV</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #f7f7f7;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 2px solid #e0e0e0;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        main {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 20px;
+        }
+
+        aside {
+            flex: 1;
+            max-width: 300px;
+            padding: 20px;
+            background-color: #fafafa;
+            border-right: 2px solid #e0e0e0;
+        }
+
+        section {
+            flex: 3;
+            padding: 20px;
+        }
+
+        h2 {
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 10px;
+            margin-top: 0;
+        }
+
+        .info-item {
+            margin-bottom: 10px;
+        }
+
+        section h3 {
+            color: #333;
+            margin-top: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        .skills-list, .contact-info, .additional-info {
+            text-align: left;
+            padding: 0;
+            margin: 0;
+            list-style-type: none;
+        }
+
+        .skills-list li::before, .contact-info li::before, .additional-info li::before {
+            content: "•";
+            color: #0073e6;
+            padding-right: 10px;
+        }
+
+        @media print {
+            body {
+                font-size: 12px;
+                line-height: 1.4;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Marie Pearce</h1>
+    </header>
+    <main>
+        <aside>
+            <h2>Personal Information</h2>
+            <ul class="contact-info">
+                <li>Location: San Francisco, CA</li>
+                <li>Email: andyemailcom</li>
+                <li>Phone: 555-555-5555</li>
+                <li>Website: andycobcom</li>
+            </ul>
+        </aside>
+        <section>
+            <article>
+                <h2>Professional Summary</h2>
+                <p>UX Designer with six years of experience designing products used by millions of people. Proven track record in leading design projects and improving user experience across various platforms.</p>
+            </article>
+            <article>
+                <h2>Work Experience</h2>
+                <h3>Lead UX Designer, Figma</h3>
+                <p><em>Mar 2017 - Current</em></p>
+                <ul>
+                    <li>Led design of the Auto Layout feature, allowing customers to easily resize components.</li>
+                    <li>Served as a judge for the annual UX Design Awards, evaluating submissions from designers worldwide.</li>
+                </ul>
+                
+                <h3>UX Designer, Google</h3>
+                <p><em>2014 - 2017</em></p>
+                <ul>
+                    <li>Improved layout grid interface, allowing for precise and consistent layouts.</li>
+                    <li>Collaborated with the product team to improve site-wide accessibility.</li>
+                    <li>Led the Material Design team of 6 designers, responsible for standardizing design across Google properties.</li>
+                    <li>Received the Google Design Award for Excellence in User Experience in 2016.</li>
+                </ul>
+
+                <h3>Human Interface Designer, Apple</h3>
+                <p><em>2012 - 2014</em></p>
+                <ul>
+                    <li>Created a color palette for hierarchical, expressive, and legible websites, meeting accessibility standards for contrast and color blindness.</li>
+                    <li>Designed the Spotlight search interface for iOS 8.</li>
+                    <li>Worked closely with engineering on interactions and transitions.</li>
+                    <li>Worked with a team of three designers on widget-based notifications.</li>
+                </ul>
+            </article>
+            <article>
+                <h2>Education</h2>
+                <h3>BFA in Graphic Design, Rhode Island School of Design (RISD)</h3>
+                <p><em>2008 - 2012</em></p>
+            </article>
+            <article>
+                <h2>Skills</h2>
+                <ul class="skills-list">
+                    <li>Product Design</li>
+                    <li>Design Systems</li>
+                    <li>Figma</li>
+                    <li>Sketch</li>
+                    <li>Illustrator</li>
+                    <li>Accessibility</li>
+                    <li>Usability Testing</li>
+                    <li>Web Design</li>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                </ul>
+            </article>
+            <article>
+                <h2>Additional Information</h2>
+                <ul class="additional-info">
+                    <li>Played a critical role in the development of Figma's design system, which is now used by major tech companies worldwide.</li>
+                </ul>
+            </article>
+        </section>
+    </main>
+</body>
+</html>
