@@ -7,6 +7,7 @@ AI application to roughly assess how a person is qualified for an O-1A immigrati
 1. Create a virtual environment: `python3 -m venv .venv`
 1. Activate the virtual environment: `source .venv/bin/activate`
 1. Install the requirements: `pip install -r requirements.txt`
+1. Install Pango: `brew install pango`
 
 ### Setting up the environment variables
 1. Create a `.env` file in the root of the project
