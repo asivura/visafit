@@ -1,5 +1,4 @@
 from langchain.prompts import PromptTemplate
-from langchain.chains import LLMChain
 from langchain_openai import ChatOpenAI
 import os
 import pandas as pd
@@ -9,6 +8,8 @@ from tqdm import tqdm
 import shutil
 import random
 import json
+from pydantic import BaseModel
+from typing import List, Literal
 
 # Load environment variables from .env file
 load_dotenv()
@@ -27,8 +28,7 @@ def recreate_directory(directory_path):
     os.makedirs(directory_path)
     print(f"Created new directory: {directory_path}")
 
-from pydantic import BaseModel
-from typing import List, Literal
+
 
 class Criteration(BaseModel):
     criteration: str
