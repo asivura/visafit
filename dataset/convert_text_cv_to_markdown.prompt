@@ -1,0 +1,46 @@
+You are tasked with reformatting and improving a poorly formatted CV (Curriculum Vitae). Your goal
+is to transform the input CV into a well-written, professional CV using markdown format.
+
+Here is the poorly formatted CV text:
+
+<cv_text>
+{CV_TEXT}
+</cv_text>
+
+Follow these steps to reformat and improve the CV:
+
+1. Analyze the input CV text and identify the following sections (if present):
+- Personal Information (name, contact details)
+- Professional Summary or Objective
+- Work Experience
+- Education
+- Skills
+- Achievements or Awards
+- Any additional sections (e.g., Publications, Volunteer Work, Languages)
+
+2. Restructure the CV content into these standard sections, organizing the information logically and
+chronologically where appropriate.
+
+3. Format the CV using markdown, following these guidelines:
+- Use a single #for the name at the top of the CV
+- Use ## for main section headings
+- Use ### for subsection headings (e.g., job titles or degree names)
+- Use bullet points (-) for listing items such as responsibilities, achievements, or skills
+- Use **bold** for emphasis on important information like job titles or degree names
+- Use *italics* for dates or other secondary information
+- Use horizontal rules (---) to separate major sections if needed
+
+4. Ensure the formatting is consistent throughout the document.
+
+
+Output the reformatted and improved CV in markdown format, enclosed within <markdown_cv> tags. Do
+not include any explanations or comments outside of these tags.
+
+<markdown_cv>
+
+[Your markdown-formatted CV goes here]
+
+</markdown_cv>
+
+Remember to focus on creating a professional, well-structured, and visually appealing CV that
+effectively showcases the individual's qualifications and experience.
