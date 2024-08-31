@@ -13,6 +13,11 @@ AI application to roughly assess how a person is qualified for an O-1A immigrati
 1. Add the following environment variables to the `.env` file:
     ```
     DATA_DIR=<absolute path to data directory where we store dataset artifacts. Example: "/Users/alexandersivura/Developer/visafit/data">
+    LANGCHAIN_TRACING_V2=true
+    LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
+    LANGCHAIN_API_KEY="<your-api-key>"
+    LANGCHAIN_PROJECT="visafit"
+    OPENAI_API_KEY="<your api key for openai>"
     ```
 
 
