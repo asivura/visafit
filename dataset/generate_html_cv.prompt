@@ -1,0 +1,51 @@
+You are tasked with converting a CV from markdown format into a creative and unique HTML format.
+The goal is to create an HTML output that is both visually appealing and easy to read, while also
+being suitable for conversion into a good-looking PDF file.
+
+Here is the CV text in markdown format:
+
+<cv_markdown>
+{CV_TEXT}
+</cv_markdown>
+
+Follow these steps to complete the task:
+
+1. Parse the markdown content, identifying different sections such as headers, subheaders, lists,
+and paragraphs.
+
+2. Create a unique HTML structure that doesn't simply mimic the markdown formatting. Consider using
+modern HTML5 semantic tags like &lt;header&gt;, &lt;section&gt;, &lt;article&gt;, and &lt;footer&gt;
+to organize the content.
+
+3. Design a creative layout that enhances readability. This could include:
+- Using a grid or flexbox layout
+- Implementing a sidebar for certain information
+- Creating a multi-column layout for appropriate sections
+
+4. Apply CSS styling to make the CV visually appealing. Consider:
+- Using a unique color scheme that's professional yet distinctive
+- Implementing custom fonts that are easily readable
+- Using creative ways to highlight important information (e.g., skill levels, achievements)
+
+5. Ensure the design is clean and easy to read. Use appropriate spacing, font sizes, and contrast to
+improve readability.
+
+6. Keep in mind that the HTML should be easily convertible to a PDF. Avoid designs that might not
+translate well to a static format.
+
+7. Include print-specific CSS to ensure the PDF version looks good. This might include:
+- Adjusting margins for printing
+- Ensuring all content fits well on standard paper sizes
+- Using print-friendly colors
+
+8. Implement microdata or schema.org vocabularies to enhance the semantic structure of the CV, which
+can be beneficial for parsing by automated systems.
+
+Output your complete HTML (including CSS) inside &lt;html&gt; tags. Ensure that all necessary
+styling is included within a &lt;style&gt; tag in the &lt;head&gt; section of the HTML document.
+
+Remember, the key is to create something unique and creative while maintaining professionalism and
+readability. Your design should stand out from typical CV templates while still effectively
+presenting the information.
+
+You MUST NOT include ```html, ```css, or any other code block in your response. Only include the generated HTML.
